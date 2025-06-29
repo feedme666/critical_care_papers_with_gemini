@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/critical-care-papers/static/css/main.66dc2d2d.css",
+    "main.js": "/critical-care-papers/static/js/main.fa395586.js",
+    "static/js/453.1ae17cea.chunk.js": "/critical-care-papers/static/js/453.1ae17cea.chunk.js",
+    "index.html": "/critical-care-papers/index.html",
+    "main.66dc2d2d.css.map": "/critical-care-papers/static/css/main.66dc2d2d.css.map",
+    "main.fa395586.js.map": "/critical-care-papers/static/js/main.fa395586.js.map",
+    "453.1ae17cea.chunk.js.map": "/critical-care-papers/static/js/453.1ae17cea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66dc2d2d.css",
+    "static/js/main.fa395586.js"
+  ]
+}
