@@ -1,6 +1,7 @@
 {
   "id": 1,
   "題名": "高齢者の大手術における術中酸素濃度と術後せん妄（POD）",
+  "original_title": "Intraoperative oxygen concentration and postoperative delirium in elderly patients undergoing major abdominal surgery: a prospective randomized controlled clinical trial",
   "筆頭著者": "Shunpan Ji",
   "雑誌名_巻号_出版年_ページ": "International Journal of Colorectal Disease (2025) 40:137",
   "登録日": "2025-06-28",
@@ -13,6 +14,8 @@
   },
   "要約": "術後3日以内のPOD発生率は、40% FiO2群で6.4% (5/78名)、100% FiO2群で3.9% (3/76名)であり、両群間に有意な差は認められなかった (P=0.72)。",
   "考察": "高濃度酸素（100% FiO2）の投与は、脳の酸素化を改善するものの、40% FiO2と比較して術後せん妄の発生率や炎症マーカーを減少させる効果はなかった。高濃度酸素は肺合併症を増やすこともなかったが、臨床的な利益も示されなかった。したがって、術中の酸素濃度は、画一的に高くするのではなく、個々の患者の状態に応じて調整すべきである。",
+  "pmid": 40478453,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40478453/",
   "批判的吟味": {
     "title": "この文献の批判的吟味",
     "points": [

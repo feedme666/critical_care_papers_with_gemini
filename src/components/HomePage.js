@@ -18,10 +18,10 @@ const HomePage = () => {
     <div className="container mt-4">
       <div className="row mb-4">
         <div className="col-md-8">
-          <input 
-            type="text" 
-            className="form-control" 
-            placeholder="キーワードで論文を検索..." 
+          <input
+            type="text"
+            className="form-control"
+            placeholder="キーワードで論文を検索..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
           />
@@ -31,7 +31,8 @@ const HomePage = () => {
         </div>
       </div>
 
-      <h2>論文一覧</h2>
+      <h2>〜 論文一覧 〜</h2>
+      <h3>神戸市立医療センター中央市民病院ICU 勉強会データベース</h3>
       <div className="list-group">
         {filteredPapers.map((p) => {
           const paperId = p.id; // JSONのidプロパティを使用

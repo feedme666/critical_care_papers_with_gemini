@@ -50,8 +50,12 @@ const PaperPage = () => {
       <article>
         <header>
           <h2>{currentPaper.題名}</h2>
+          {currentPaper.original_title && <p className="text-muted">Original Title: {currentPaper.original_title}</p>}
           <p className="text-muted">{currentPaper.雑誌名_巻号_出版年_ページ}</p>
           <p><strong>筆頭著者:</strong> {currentPaper.筆頭著者}</p>
+          {currentPaper.pmid && (
+            <p><strong>PMID:</strong> <a href={currentPaper.pubmed_link} target="_blank" rel="noopener noreferrer">{currentPaper.pmid}</a></p>
+          )}
           <div>
             {currentPaper.タグ && currentPaper.タグ.map(tag => (
               <span key={tag} className="badge bg-primary me-1">{tag}</span>
