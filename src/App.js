@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/critical_care_papers_with_gemini">
       <div className="d-flex flex-column min-vh-100">
         <Header />
         <main className="flex-grow-1">
