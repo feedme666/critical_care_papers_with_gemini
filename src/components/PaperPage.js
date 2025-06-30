@@ -32,6 +32,9 @@ const PaperPage = () => {
     return <div>論文が見つかりません。</div>;
   }
 
+  console.log('PMID in PaperPage:', currentPaper.pmid);
+  console.log('PubMed Link in PaperPage:', currentPaper.pubmed_link);
+
   const chartOptions = {
     responsive: true,
     plugins: {
@@ -40,7 +43,7 @@ const PaperPage = () => {
       },
       title: {
         display: true,
-        text: '主要評価項目：術後せん妄（POD）の発生率',
+        text: '重要なポイント',
       },
     },
   };

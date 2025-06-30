@@ -6,9 +6,12 @@ const HomePage = () => {
   const [searchTerm, setSearchTerm] = useState('');
 
   const filteredPapers = papers.filter(p => {
+    if (!p.題名) {
+      return false;
+    }
     const titleMatch = p.題名.toLowerCase().includes(searchTerm.toLowerCase());
-    const authorMatch = p.筆頭著者.toLowerCase().includes(searchTerm.toLowerCase());
-    const journalMatch = p.雑誌名_巻号_出版年_ページ.toLowerCase().includes(searchTerm.toLowerCase());
+    const authorMatch = p.筆頭著者 && p.筆頭著者.toLowerCase().includes(searchTerm.toLowerCase());
+    const journalMatch = p.雑誌名_巻号_出版年_ページ && p.雑誌名_巻号_出版年_ページ.toLowerCase().includes(searchTerm.toLowerCase());
     const tagsMatch = p.タグ && p.タグ.some(tag => tag.toLowerCase().includes(searchTerm.toLowerCase()));
 
     return titleMatch || authorMatch || journalMatch || tagsMatch;
@@ -31,8 +34,8 @@ const HomePage = () => {
         </div>
       </div>
 
-      <h2>〜 論文一覧 〜</h2>
-      <h3>神戸市立医療センター中央市民病院ICU 勉強会データベース</h3>
+      <h2>神戸市立医療センター中央市民病院ICU 勉強会データベース</h2>
+      <h3>〜 論文一覧 〜</h3>
       <div className="list-group">
         {filteredPapers.map((p) => {
           const paperId = p.id; // JSONのidプロパティを使用
