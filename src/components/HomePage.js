@@ -37,7 +37,7 @@ const HomePage = () => {
       </div>
 
       <h2>神戸市立医療センター中央市民病院ICU 勉強会データベース</h2>
-      <h3>〜 論文一覧 〜</h3>
+      <h3>* タグでも検索できます</h3>
       <div className="list-group">
         {filteredPapers.map((p) => {
           const paperId = p.id; // JSONのidプロパティを使用

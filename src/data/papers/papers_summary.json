@@ -1,5 +1,45 @@
 [
   {
+    "id": 32,
+    "登録日": "2025-07-01",
+    "original_title": "Securing Jugular Central Venous Catheters With Dressings Fixed to a Liquid Adhesive to Prevent Dressing Failure in Intensive Care Patients (the STICKY Trial): A Randomized Controlled Trial",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb;53(2):e282-e293.",
+    "pmid": 39982180,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982180"
+  },
+  {
+    "id": 31,
+    "登録日": "2025-07-01",
+    "original_title": "Propranolol As an Anxiolytic to Reduce the Use of Sedatives for Critically Ill Adults Receiving Mechanical Ventilation (PROACTIVE): An Open-Label Randomized Controlled Trial",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb;53(2):e257-e268.",
+    "pmid": 39982178,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982178"
+  },
+  {
+    "id": 30,
+    "登録日": "2025-07-01",
+    "original_title": "Artificial Intelligence-Guided Bronchoscopy is Superior to Human Expert Instruction for the Performance of Critical-Care Physicians: A Randomized Controlled Trial",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 May;53(5):e1105-e1115",
+    "pmid": 40111112,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40111112/"
+  },
+  {
+    "id": 29,
+    "登録日": "2025-07-01",
+    "original_title": "Efficacy of targeting high mean arterial pressure for older patients with septic shock (OPTPRESS): a multicentre, pragmatic, open-label, randomised controlled trial",
+    "雑誌名_巻号_出版年_ページ": "Intensive Care Med (2025) 51:883-892",
+    "pmid": 40358717,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40358717"
+  },
+  {
+    "id": 28,
+    "登録日": "2025-07-01",
+    "original_title": "Maintaining ventilation with very low tidal volume and positive-end expiratory pressure versus no ventilation during cardiopulmonary bypass for cardiac surgery in adults: a randomized clinical trial",
+    "雑誌名_巻号_出版年_ページ": "Intensive Care Med (2025) 51:849-860",
+    "pmid": 40323450,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40323450"
+  },
+  {
     "id": 17,
     "登録日": "2025-06-29",
     "original_title": "Physiological comparison of noninvasive ventilation and high-flow nasal oxygen on inspiratory efforts and tidal volumes after extubation: a randomized crossover trial",
@@ -158,5 +198,13 @@
     "雑誌名_巻号_出版年_ページ": "CHEST 2025; 167(2):453-465",
     "pmid": 39299389,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39299389/"
+  },
+  {
+    "id": 33,
+    "登録日": "2025-07-02",
+    "original_title": "The Caregiver Pathway Intervention Can Contribute to Reduced Post-Intensive Care Syndrome Among Family Caregivers of ICU Survivors: A Randomized Controlled Trial",
+    "雑誌名_巻号_出版年_ページ": "Critical Care Medicine, March 2025, Volume 53, Number 3, e555-e566",
+    "pmid": 39718436,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39718436"
   }
 ]
