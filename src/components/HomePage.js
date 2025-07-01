@@ -5,17 +5,19 @@ import papers from '../data/papers'; // 論文データをインポート
 const HomePage = () => {
   const [searchTerm, setSearchTerm] = useState('');
 
-  const filteredPapers = papers.filter(p => {
-    if (!p.題名) {
-      return false;
-    }
-    const titleMatch = p.題名.toLowerCase().includes(searchTerm.toLowerCase());
-    const authorMatch = p.筆頭著者 && p.筆頭著者.toLowerCase().includes(searchTerm.toLowerCase());
-    const journalMatch = p.雑誌名_巻号_出版年_ページ && p.雑誌名_巻号_出版年_ページ.toLowerCase().includes(searchTerm.toLowerCase());
-    const tagsMatch = p.タグ && p.タグ.some(tag => tag.toLowerCase().includes(searchTerm.toLowerCase()));
+  const filteredPapers = papers
+    .filter(p => {
+      if (!p.題名) {
+        return false;
+      }
+      const titleMatch = p.題名.toLowerCase().includes(searchTerm.toLowerCase());
+      const authorMatch = p.筆頭著者 && p.筆頭著者.toLowerCase().includes(searchTerm.toLowerCase());
+      const journalMatch = p.雑誌名_巻号_出版年_ページ && p.雑誌名_巻号_出版年_ページ.toLowerCase().includes(searchTerm.toLowerCase());
+      const tagsMatch = p.タグ && p.タグ.some(tag => tag.toLowerCase().includes(searchTerm.toLowerCase()));
 
-    return titleMatch || authorMatch || journalMatch || tagsMatch;
-  });
+      return titleMatch || authorMatch || journalMatch || tagsMatch;
+    })
+    .sort((a, b) => new Date(b.登録日) - new Date(a.登録日)); // 登録日で降順にソート
 
   return (
     <div className="container mt-4">
