@@ -6,7 +6,7 @@ const Header = () => {
     <header className="bg-dark text-white p-3">
       <div className="container">
         <Link to="/" className="text-white text-decoration-none">
-          <h1>Critical Care Papers</h1>
+          <h1>Minatojima Critical Care Review</h1>
         </Link>
       </div>
     </header>
