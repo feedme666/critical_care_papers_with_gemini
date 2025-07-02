@@ -222,5 +222,29 @@
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(9):763-773.",
     "pmid": 39658862,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39658862"
+  },
+  {
+    "id": 36,
+    "登録日": "2025-07-03",
+    "original_title": "Nonpharmacologic Interventions for Prevention and Treatment of Delirium in the Intensive Care Unit: A Systematic Review and Meta-analysis",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(4):340-352",
+    "pmid": 39804681,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39804681"
+  },
+  {
+    "id": 37,
+    "登録日": "2025-07-03",
+    "original_title": "Effectiveness of an Artificial Intelligence Tool for Sepsis Screening and Treatment in the Emergency Department: A Cluster Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(15):1454-1464",
+    "pmid": 39813042,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39813042"
+  },
+  {
+    "id": 38,
+    "登録日": "2025-03-29",
+    "original_title": "Prothrombin Complex Concentrate vs Frozen Plasma for Coagulopathic Bleeding in Cardiac Surgery: The FARES-II Multicenter Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(20):1781-1792.",
+    "pmid": 40156829,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40156829"
   }
 ]
