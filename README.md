@@ -1,6 +1,36 @@
-# Getting Started with Create React App
+# Critical Care Papers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a web application for summarizing and critically appraising research papers in the field of critical care. It is designed to help medical professionals quickly understand the key findings and limitations of important studies.
+
+## Project Overview
+
+The application displays a list of research papers. Users can click on a paper to view a detailed summary, including:
+
+*   A concise summary of the study
+*   The PICO (Patient, Intervention, Comparison, Outcome) framework
+*   Detailed results, including interactive charts
+*   A critical appraisal of the study's strengths and weaknesses
+
+## How to Add a New Paper
+
+To add a new paper to the application, follow these steps:
+
+1.  **Place the PDF file** of the research paper into the `raw_pdfs/` directory.
+2.  **Run the processing script** (Note: This step is currently performed by a Gemini agent). The script will:
+    *   Perform OCR on the PDF to extract the text.
+    *   Generate a structured JSON file containing the summary, PICO, results, and critical appraisal.
+    *   Save the new JSON file to the `src/data/papers/` directory.
+    *   Move the original PDF from `raw_pdfs/` to `processed_pdfs/`.
+3.  **Verify the new paper** is displayed correctly in the application.
+
+## Project Structure
+
+*   `public/`: Contains the main HTML file and other static assets.
+*   `src/`: Contains the React application source code.
+    *   `components/`: React components used to build the application.
+    *   `data/papers/`: Contains the JSON data for each research paper.
+*   `raw_pdfs/`: Directory for placing new PDF files to be processed.
+*   `processed_pdfs/`: Directory where processed PDFs are moved.
 
 ## Available Scripts
 
@@ -8,63 +38,13 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Builds the app for production to the `build` folder.
