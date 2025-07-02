@@ -5,6 +5,7 @@ import papers from '../data/papers'; // 論文データをインポート
 const HomePage = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedTags, setSelectedTags] = useState([]);
+  const [sortOrder, setSortOrder] = useState('desc'); // 'desc' for descending, 'asc' for ascending
 
   const allTags = {
     "臓器・疾患別": ["呼吸器系", "循環器系", "腎尿路系", "脳神経系", "消化器系", "内分泌・代謝系", "血液・免疫系", "皮膚・軟部組織系", "感染・炎症系", "医療安全・倫理系", "その他"],
@@ -39,7 +40,15 @@ const HomePage = () => {
 
       return keywordMatch && tagFilterMatch;
     })
-    .sort((a, b) => new Date(b.登録日) - new Date(a.登録日)); // 登録日で降順にソート
+    .sort((a, b) => {
+      const dateA = new Date(a.登録日);
+      const dateB = new Date(b.登録日);
+      return sortOrder === 'desc' ? dateB - dateA : dateA - dateB;
+    }); // 登録日で昇順または降順にソート
+
+  const toggleSortOrder = () => {
+    setSortOrder(prevSortOrder => (prevSortOrder === 'desc' ? 'asc' : 'desc'));
+  };
 
   return (
     <div className="container mt-4">
@@ -84,6 +93,12 @@ const HomePage = () => {
 
       <h2>神戸市立医療センター中央市民病院ICU 勉強会データベース</h2>
       <h3>* タグでも検索できます</h3>
+      <div className="d-flex justify-content-between align-items-center mb-3">
+        <h4 className="mb-0">論文一覧</h4>
+        <button className="btn btn-outline-secondary" onClick={toggleSortOrder}>
+          登録日: {sortOrder === 'desc' ? '新しい順' : '古い順'}
+        </button>
+      </div>
       <div className="list-group">
         {filteredPapers.map((p) => {
           const paperId = p.id; // JSONのidプロパティを使用
