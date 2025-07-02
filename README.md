@@ -1,50 +1,57 @@
 # Critical Care Papers
 
-This project is a web application for summarizing and critically appraising research papers in the field of critical care. It is designed to help medical professionals quickly understand the key findings and limitations of important studies.
+このプロジェクトは、集中治療分野の研究論文を要約し、批判的に評価するためのウェブアプリケーションです。医療従事者が重要な研究の主要な知見と限界を迅速に理解できるよう設計されています。
 
-## Project Overview
+## プロジェクト概要
 
-The application displays a list of research papers. Users can click on a paper to view a detailed summary, including:
+このアプリケーションは、研究論文のリストを表示します。ユーザーは論文をクリックすると、以下の詳細な要約を閲覧できます。
 
-*   A concise summary of the study
-*   The PICO (Patient, Intervention, Comparison, Outcome) framework
-*   Detailed results, including interactive charts
-*   A critical appraisal of the study's strengths and weaknesses
+*   研究の簡潔な要約
+*   PICO（Patient, Intervention, Comparison, Outcome）フレームワーク
+*   インタラクティブなチャートを含む詳細な結果
+*   研究の強みと弱みに関する批判的吟味
 
-## How to Add a New Paper
+## 新しい論文を追加する方法
 
-To add a new paper to the application, follow these steps:
+アプリケーションに新しい論文を追加するには、以下の手順に従ってください。
 
-1.  **Place the PDF file** of the research paper into the `raw_pdfs/` directory.
-2.  **Run the processing script** (Note: This step is currently performed by a Gemini agent). The script will:
-    *   Perform OCR on the PDF to extract the text.
-    *   Generate a structured JSON file containing the summary, PICO, results, and critical appraisal.
-    *   Save the new JSON file to the `src/data/papers/` directory.
-    *   Move the original PDF from `raw_pdfs/` to `processed_pdfs/`.
-3.  **Verify the new paper** is displayed correctly in the application.
+1.  **論文のJSONファイルを作成します。** 論文の内容を構造化されたJSON形式で記述し、`src/data/papers/`ディレクトリに保存します。ファイル名は、`著者名-出版年-トピック.json`のように、内容がわかるように命名してください。
+    *   **IDの管理:** `src/data/papers/metadata.json`ファイルに`"lastId"`が保持されています。新しい論文のIDには、この`"lastId"`の次の数値を使用し、JSONファイル作成後に`metadata.json`の`"lastId"`を更新してください。
+    *   **サマリーデータの更新:** `src/data/papers/papers_summary.json`ファイルには、各論文の概要情報が格納されています。新しい論文を追加するたびに、以下の形式でこのファイルに論文情報を追記してください。
 
-## Project Structure
+    ```json
+     {
+        "id": 34,
+        "登録日": "2025-07-03",
+        "original_title": "Targeted Normoxemia and Supplemental Oxygen-Free Days in Critically Injured Adults: A Stepped-Wedge Cluster Randomized Clinical Trial",
+        "雑誌名_巻号_出版年_ページ": "JAMA Network Open. 2025;8(3):e252093",
+        "pmid": 40163121,
+        "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40163121"
+      }
+    ```
 
-*   `public/`: Contains the main HTML file and other static assets.
-*   `src/`: Contains the React application source code.
-    *   `components/`: React components used to build the application.
-    *   `data/papers/`: Contains the JSON data for each research paper.
-*   `raw_pdfs/`: Directory for placing new PDF files to be processed.
-*   `processed_pdfs/`: Directory where processed PDFs are moved.
+2.  **アプリケーションで新しい論文が正しく表示されることを確認します。**
 
-## Available Scripts
+## プロジェクト構造
 
-In the project directory, you can run:
+*   `public/`: メインのHTMLファイルやその他の静的アセットが含まれています。
+*   `src/`: Reactアプリケーションのソースコードが含まれています。
+    *   `components/`: アプリケーションを構築するために使用されるReactコンポーネント。
+    *   `data/papers/`: 各研究論文のJSONデータが含まれています。
+
+## 利用可能なスクリプト
+
+プロジェクトディレクトリでは、以下を実行できます。
 
 ### `npm start`
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+開発モードでアプリを実行します。
+ブラウザで[http://localhost:3000](http://localhost:3000)を開いて表示します。
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.
+インタラクティブなウォッチモードでテストランナーを起動します。
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.
+`build`フォルダーに本番用のアプリをビルドします。
