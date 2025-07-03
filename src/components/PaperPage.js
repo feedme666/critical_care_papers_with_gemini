@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import papers from './index'; // 論文データをインポート
+import papers from '../data/papers'; // 論文データをインポート
 import { Bar } from 'react-chartjs-2';
 import {
   Chart as ChartJS,
