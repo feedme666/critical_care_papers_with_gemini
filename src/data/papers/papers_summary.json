@@ -262,5 +262,13 @@
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(20):1781-1792.",
     "pmid": 40156829,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40156829"
-  }
+  },
+  {
+    "id": 41,
+    "登録日": "2025-07-04",
+    "original_title": "Impact of Point-of-care Allogeneic Red Blood Cell Washing on Markers of Transfusion-related Respiratory Complications: A Phase II Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "ANESTHESIOLOGY 2025; 143:98-113",
+    "pmid": 40227960,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40227960"
+}
 ]
