@@ -1,5 +1,21 @@
 [
   {
+    "id": 43,
+    "登録日": "2025-07-05",
+    "original_title": "Perioperative Nitric Oxide Conditioning Reduces Acute Kidney Injury in Cardiac Surgery Patients with Chronic Kidney Disease (the DEFENDER Trial): A Randomized Controlled Trial",
+    "雑誌名_巻号_出版年_ページ": "ANESTHESIOLOGY 2025; XXX:XX-XX",
+    "pmid": 40203179,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40203179"
+  },
+  {
+    "id": 42,
+    "登録日": "2025-07-05",
+    "original_title": "Nudging Clinicians to Promote Serious Illness Communication for Critically Ill Patients: A Pragmatic Cluster Randomized Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA Intern Med. 2025;185(5):510-520",
+    "pmid": 40094649,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40094649"
+  },
+  {
     "id": 40,
     "登録日": "2025-07-04",
     "original_title": "A Randomized Trial of Shared Decision-Making in Code Status Discussions",
@@ -141,7 +157,7 @@
     "original_title": "Inhaled Sedation in Acute Respiratory Distress Syndrome The SESAR Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(18):1608-1617. Published online March 18, 2025.",
     "pmid": 40098564,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40098564/"
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.com/40098564/"
   },
   {
     "id": 25,
@@ -270,5 +286,5 @@
     "雑誌名_巻号_出版年_ページ": "ANESTHESIOLOGY 2025; 143:98-113",
     "pmid": 40227960,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40227960"
-}
+  }
 ]
