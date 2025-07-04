@@ -1,5 +1,13 @@
 [
   {
+    "id": 44,
+    "登録日": "2025-07-05",
+    "original_title": "Role of Preoperative Antibiotic Treatment While Awaiting Appendectomy: The PERFECT-Antibiotics Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA Surg. 2025;doi:10.1001/jamasurg.2025.1212",
+    "pmid": 40366704,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40366704"
+  },
+  {
     "id": 43,
     "登録日": "2025-07-05",
     "original_title": "Perioperative Nitric Oxide Conditioning Reduces Acute Kidney Injury in Cardiac Surgery Patients with Chronic Kidney Disease (the DEFENDER Trial): A Randomized Controlled Trial",
@@ -286,5 +294,13 @@
     "雑誌名_巻号_出版年_ページ": "ANESTHESIOLOGY 2025; 143:98-113",
     "pmid": 40227960,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40227960"
+  },
+  {
+    "id": 45,
+    "登録日": "2025-07-05",
+    "original_title": "Safety and Efficacy of Tranexamic Acid in General Surgery",
+    "雑誌名_巻号_出版年_ページ": "JAMA Surg. 2025;160(3):267-274",
+    "pmid": 38227376,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38227376"
   }
 ]
