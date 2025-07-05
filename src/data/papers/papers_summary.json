@@ -1,5 +1,21 @@
 [
   {
+    "id": 47,
+    "登録日": "2025-07-05",
+    "original_title": "High-Flow Nasal Oxygen vs Noninvasive Ventilation in Patients With Acute Respiratory Failure: The RENOVATE Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(10):875-890",
+    "pmid": 39657981,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39657981"
+  },
+  {
+    "id": 46,
+    "登録日": "2025-07-05",
+    "original_title": "Early, Individualized Recommendations for Hospitalized Patients With Acute Kidney Injury: A Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024;332(24):2081-2090",
+    "pmid": 39454050,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39454050"
+  },
+  {
     "id": 44,
     "登録日": "2025-07-05",
     "original_title": "Role of Preoperative Antibiotic Treatment While Awaiting Appendectomy: The PERFECT-Antibiotics Randomized Clinical Trial",
@@ -165,7 +181,7 @@
     "original_title": "Inhaled Sedation in Acute Respiratory Distress Syndrome The SESAR Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(18):1608-1617. Published online March 18, 2025.",
     "pmid": 40098564,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.com/40098564/"
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40098564/"
   },
   {
     "id": 25,
