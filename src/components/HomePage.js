@@ -93,7 +93,7 @@ const HomePage = () => {
 
       <h2>神戸市立医療センター中央市民病院ICU 勉強会データベース</h2>
       <div className="d-flex justify-content-between align-items-center mb-3">
-        <h4 className="mb-0">論文一覧</h4>
+        <h4 className="mb-0">論文一覧 （内容の正確性については適宜論文を参照のこと）</h4>
         <button className="btn btn-outline-secondary" onClick={toggleSortOrder}>
           登録日: {sortOrder === 'desc' ? '新しい順' : '古い順'}
         </button>

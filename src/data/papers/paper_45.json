@@ -5,7 +5,7 @@
   "original_title": "Safety and Efficacy of Tranexamic Acid in General Surgery",
   "筆頭著者": "Park LJ",
   "雑誌名_巻号_出版年_ページ": "JAMA Surg. 2025;160(3):267-274",
-  "登録日": "2025-07-05",
+  "登録日": "2025-04-01",
   "タグ": ["周術期管理", "ランダム化比較試験"],
   "要約": "本研究は、POISE-3試験のサブグループ解析であり、一般外科手術を受ける患者において、トラネキサム酸（TXA）の予防的投与がプラセボと比較して、周術期の出血を有意に減少させ、かつ心血管系の有害事象を増加させないことを明らかにした。",
   "PICO": {
@@ -80,6 +80,6 @@
       }
     ]
   },
-  "pmid": 38227376,
-  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38227376"
+  "pmid": 39813061,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39813061"
 }
