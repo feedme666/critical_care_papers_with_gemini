@@ -1,5 +1,13 @@
 [
   {
+    "id": 48,
+    "登録日": "2024-12-01",
+    "original_title": "Tenecteplase thrombolysis for stroke up to 24 hours after onset with perfusion imaging selection: the umbrella phase IIa CHABLIS-T randomised clinical trial",
+    "雑誌名_巻号_出版年_ページ": "Stroke & Vascular Neurology, 2024",
+    "pmid": 38286484,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38286484"
+  },
+  {
     "id": 47,
     "登録日": "2025-07-05",
     "original_title": "High-Flow Nasal Oxygen vs Noninvasive Ventilation in Patients With Acute Respiratory Failure: The RENOVATE Randomized Clinical Trial",
@@ -9,7 +17,7 @@
   },
   {
     "id": 46,
-    "登録日": "2025-07-05",
+    "登録日": "2025-01-01",
     "original_title": "Early, Individualized Recommendations for Hospitalized Patients With Acute Kidney Injury: A Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2024;332(24):2081-2090",
     "pmid": 39454050,
@@ -17,7 +25,7 @@
   },
   {
     "id": 44,
-    "登録日": "2025-07-05",
+    "登録日": "2025-06-01",
     "original_title": "Role of Preoperative Antibiotic Treatment While Awaiting Appendectomy: The PERFECT-Antibiotics Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA Surg. 2025;doi:10.1001/jamasurg.2025.1212",
     "pmid": 40366704,
@@ -25,7 +33,7 @@
   },
   {
     "id": 43,
-    "登録日": "2025-07-05",
+    "登録日": "2025-07-01",
     "original_title": "Perioperative Nitric Oxide Conditioning Reduces Acute Kidney Injury in Cardiac Surgery Patients with Chronic Kidney Disease (the DEFENDER Trial): A Randomized Controlled Trial",
     "雑誌名_巻号_出版年_ページ": "ANESTHESIOLOGY 2025; XXX:XX-XX",
     "pmid": 40203179,
@@ -33,7 +41,7 @@
   },
   {
     "id": 42,
-    "登録日": "2025-07-05",
+    "登録日": "2025-06-01",
     "original_title": "Nudging Clinicians to Promote Serious Illness Communication for Critically Ill Patients: A Pragmatic Cluster Randomized Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA Intern Med. 2025;185(5):510-520",
     "pmid": 40094649,
@@ -41,7 +49,7 @@
   },
   {
     "id": 40,
-    "登録日": "2025-07-04",
+    "登録日": "2025-05-01",
     "original_title": "A Randomized Trial of Shared Decision-Making in Code Status Discussions",
     "雑誌名_巻号_出版年_ページ": "NEJM Evidence 2025;4(5)",
     "pmid": 40261118,
@@ -49,7 +57,7 @@
   },
   {
     "id": 39,
-    "登録日": "2025-07-04",
+    "登録日": "2025-04-01",
     "original_title": "Negative Pressure Dressings to Prevent Surgical Site Infection After Emergency Laparotomy: The SUNRRISE Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(10):853-863",
     "pmid": 39869330,
@@ -57,7 +65,7 @@
   },
   {
     "id": 34,
-    "登録日": "2025-07-03",
+    "登録日": "2025-04-01",
     "original_title": "Targeted Normoxemia and Supplemental Oxygen-Free Days in Critically Injured Adults: A Stepped-Wedge Cluster Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA Network Open. 2025;8(3):e252093",
     "pmid": 40163121,
@@ -73,7 +81,7 @@
   },
   {
     "id": 31,
-    "登録日": "2025-07-01",
+    "登録日": "2025-03-01",
     "original_title": "Propranolol As an Anxiolytic to Reduce the Use of Sedatives for Critically Ill Adults Receiving Mechanical Ventilation (PROACTIVE): An Open-Label Randomized Controlled Trial",
     "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb;53(2):e257-e268.",
     "pmid": 39982178,
@@ -89,7 +97,7 @@
   },
   {
     "id": 29,
-    "登録日": "2025-07-01",
+    "登録日": "2025-06-01",
     "original_title": "Efficacy of targeting high mean arterial pressure for older patients with septic shock (OPTPRESS): a multicentre, pragmatic, open-label, randomised controlled trial",
     "雑誌名_巻号_出版年_ページ": "Intensive Care Med (2025) 51:883-892",
     "pmid": 40358717,
@@ -105,7 +113,7 @@
   },
   {
     "id": 17,
-    "登録日": "2025-06-29",
+    "登録日": "2025-06-01",
     "original_title": "Physiological comparison of noninvasive ventilation and high-flow nasal oxygen on inspiratory efforts and tidal volumes after extubation: a randomized crossover trial",
     "雑誌名_巻号_出版年_ページ": "Crit Care. 2025; 29:185",
     "pmid": 40341100,
@@ -113,15 +121,15 @@
   },
   {
     "id": 23,
-    "登録日": "2025-06-29",
+    "登録日": "2025-06-01",
     "original_title": "Negative pressure wound therapy versus usual care in patients with surgical wound healing by secondary intention in the UK (SWHSI-2): an open-label, multicentre, parallel-group, randomised controlled trial",
     "雑誌名_巻号_出版年_ページ": "Lancet 2024; 405: 1689-99",
-    "pmid": 34696784,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/34696784/"
+    "pmid": 40250455,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40250455/"
   },
   {
     "id": 16,
-    "登録日": "2025-06-29",
+    "登録日": "2025-03-01",
     "original_title": "Effect of an intensive care unit virtual reality intervention on relatives' mental health distress: a multicenter, randomized controlled trial",
     "雑誌名_巻号_出版年_ページ": "Crit Care. 2025; 29:62",
     "pmid": 39910674,
@@ -129,7 +137,7 @@
   },
   {
     "id": 8,
-    "登録日": "2025-06-29",
+    "登録日": "2025-03-01",
     "original_title": "Continuous Glucose Monitoring for Hyperglycemia in Critically Ill Patients: A Randomized Controlled Trial",
     "雑誌名_巻号_出版年_ページ": "CHEST 2025; ■(■):■-■",
     "pmid": 39956190,
@@ -137,7 +145,7 @@
   },
   {
     "id": 21,
-    "登録日": "2025-06-29",
+    "登録日": "2025-04-01",
     "original_title": "Low- vs. Moderate-Intensity Anticoagulation for Venovenous Extracorporeal Membrane Oxygenation: The SAFE-ECMO Pilot Trial",
     "雑誌名_巻号_出版年_ページ": "CHEST. 2025;167(6):1500-1509",
     "pmid": 40081660,
@@ -145,7 +153,7 @@
   },
   {
     "id": 10,
-    "登録日": "2025-06-29",
+    "登録日": "2025-07-01",
     "original_title": "Impact of Noninvasive Ventilation Before and After Cardiac Surgery for Preventing Cardiac and Pulmonary Complications: A Clinical Randomized Trial",
     "雑誌名_巻号_出版年_ページ": "CHEST 2025; 167(6):1727-1736",
     "pmid": 39984118,
@@ -153,7 +161,7 @@
   },
   {
     "id": 13,
-    "登録日": "2025-06-29",
+    "登録日": "2025-05-01",
     "original_title": "Treatment of Acute Circulatory Failure Based on Carbon Dioxide-Oxygen (CO2-O2) Derived Indices: The Lactel Randomized Multicenter Study",
     "雑誌名_巻号_出版年_ページ": "CHEST 2025; 167(4):1068-1078",
     "pmid": 39615831,
@@ -161,7 +169,7 @@
   },
   {
     "id": 26,
-    "登録日": "2025-07-01",
+    "登録日": "2025-02-01",
     "original_title": "Transcatheter Valve Replacement in Severe Tricuspid Regurgitation",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025;392(2):115-126",
     "pmid": 39475399,
@@ -169,7 +177,7 @@
   },
   {
     "id": 27,
-    "登録日": "2025-07-01",
+    "登録日": "2025-02-01",
     "original_title": "Intra-arterial tenecteplase after successful endovascular recanalisation in patients with acute posterior circulation arterial occlusion (ATTENTION-IA): multicentre randomised controlled trial",
     "雑誌名_巻号_出版年_ページ": "BMJ. 2025;388:e080489",
     "pmid": 39809509,
@@ -177,7 +185,7 @@
   },
   {
     "id": 4,
-    "登録日": "2025-06-29",
+    "登録日": "2025-06-01",
     "original_title": "Inhaled Sedation in Acute Respiratory Distress Syndrome The SESAR Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(18):1608-1617. Published online March 18, 2025.",
     "pmid": 40098564,
@@ -185,7 +193,7 @@
   },
   {
     "id": 25,
-    "登録日": "2025-06-28",
+    "登録日": "2025-07-01",
     "original_title": "Intraoperative oxygen concentration and postoperative delirium in elderly patients undergoing major abdominal surgery: a prospective randomized controlled clinical trial",
     "雑誌名_巻号_出版年_ページ": "International Journal of Colorectal Disease (2025) 40:137",
     "pmid": 40478453,
@@ -273,7 +281,7 @@
   },
   {
     "id": 35,
-    "登録日": "2024-12-10",
+    "登録日": "2025-04-01",
     "original_title": "Electronic Sepsis Screening Among Patients Admitted to Hospital Wards: A Stepped-Wedge Cluster Randomized Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(9):763-773.",
     "pmid": 39658862,
@@ -281,7 +289,7 @@
   },
   {
     "id": 36,
-    "登録日": "2025-07-03",
+    "登録日": "2025-03-01",
     "original_title": "Nonpharmacologic Interventions for Prevention and Treatment of Delirium in the Intensive Care Unit: A Systematic Review and Meta-analysis",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(4):340-352",
     "pmid": 39804681,
@@ -289,7 +297,7 @@
   },
   {
     "id": 37,
-    "登録日": "2025-07-03",
+    "登録日": "2025-03-01",
     "original_title": "Effectiveness of an Artificial Intelligence Tool for Sepsis Screening and Treatment in the Emergency Department: A Cluster Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(15):1454-1464",
     "pmid": 39813042,
