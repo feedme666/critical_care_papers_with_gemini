@@ -96,14 +96,6 @@
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40439536"
   },
   {
-    "id": 25,
-    "登録日": "2025-07-01",
-    "original_title": "Intraoperative oxygen concentration and postoperative delirium in elderly patients undergoing major abdominal surgery: a prospective randomized controlled clinical trial",
-    "雑誌名_巻号_出版年_ページ": "Int J Colorectal Dis. 2025 Jun 6;40(1):137.",
-    "pmid": 40478453,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40478453/"
-  },
-  {
     "id": 26,
     "登録日": "2025-02-01",
     "original_title": "Transcatheter Valve Replacement in Severe Tricuspid Regurgitation",
@@ -342,5 +334,13 @@
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025 Jun 12. doi: 10.1001/jama.2025.9663. Online ahead of print.",
     "pmid": 40501321,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40501321"
+  },
+  {
+    "id": 25,
+    "登録日": "2025-07-08",
+    "original_title": "Intraoperative oxygen concentration and postoperative delirium in elderly patients undergoing major abdominal surgery: a prospective randomized controlled clinical trial",
+    "雑誌名_巻号_出版年_ページ": "Int J Colorectal Dis. 2025 Jun 6;40(1):137.",
+    "pmid": 40478453,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40478453/"
   }
 ]
