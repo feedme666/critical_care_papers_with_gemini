@@ -59,6 +59,25 @@
       }
     ]
   },
+  "chartData": {
+    "labels": ["28日死亡率 (%)", "60日死亡率 (%)", "90日死亡率 (%)"],
+    "datasets": [
+      {
+        "label": "エソメプラゾール群",
+        "data": [25, 31.1, 35.1],
+        "backgroundColor": "rgba(75, 192, 192, 0.6)",
+        "borderColor": "rgba(75, 192, 192, 1)",
+        "borderWidth": 1
+      },
+      {
+        "label": "プラセボ群",
+        "data": [20.1, 26.4, 30.8],
+        "backgroundColor": "rgba(255, 99, 132, 0.6)",
+        "borderColor": "rgba(255, 99, 132, 1)",
+        "borderWidth": 1
+      }
+    ]
+  },
   "pmid": 40439536,
   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40439536"
 }
