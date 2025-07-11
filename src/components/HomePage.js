@@ -68,7 +68,7 @@ const HomePage = () => {
       </div>
 
       <div className="mb-4">
-        <h4>タグで絞り込み</h4>
+        <h5>- タグで絞り込み</h5>
         {Object.entries(allTags).map(([category, tags]) => (
           <div key={category} className="mb-2">
             <strong>{category}: </strong>
@@ -91,7 +91,6 @@ const HomePage = () => {
         ))}
       </div>
 
-      <h2>神戸市立医療センター中央市民病院ICU 勉強会データベース</h2>
       <div className="d-flex justify-content-between align-items-center mb-3">
         <h4 className="mb-0">論文一覧 （内容の正確性については適宜論文を参照のこと）</h4>
         <button className="btn btn-outline-secondary" onClick={toggleSortOrder}>
