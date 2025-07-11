@@ -71,7 +71,7 @@ const HomePage = () => {
         <h4>タグで絞り込み</h4>
         {Object.entries(allTags).map(([category, tags]) => (
           <div key={category} className="mb-2">
-            <strong>{category}:</strong>
+            <strong>{category}: </strong>
             {tags.map(tag => (
               <div key={tag} className="form-check form-check-inline">
                 <input
