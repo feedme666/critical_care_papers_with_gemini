@@ -22,18 +22,22 @@ ChartJS.register(
 );
 
 const PaperPage = () => {
-  console.log('All papers:', papers);
   const { id } = useParams();
-  console.log('ID from URL:', id, 'Type:', typeof id);
   const currentPaper = papers.find(p => p.id === parseInt(id));
-  console.log('Found paper:', currentPaper);
 
   if (!currentPaper) {
     return <div>論文が見つかりません。</div>;
   }
 
-  console.log('PMID in PaperPage:', currentPaper.pmid);
-  console.log('PubMed Link in PaperPage:', currentPaper.pubmed_link);
+  // 音声ファイルは動的にrequireする
+  // requireは失敗する可能性があるため、try-catchで囲む
+  let audioSrc = null;
+  try {
+    audioSrc = require(`../assets/audios/paper_${currentPaper.id}.mp3`);
+  } catch (e) {
+    console.warn(`音声ファイルが見つかりません: paper_${currentPaper.id}.mp3`);
+  }
+
 
   const chartOptions = {
     responsive: true,
@@ -64,6 +68,14 @@ const PaperPage = () => {
               <span key={tag} className="badge bg-primary me-1">{tag}</span>
             ))}
           </div>
+          {audioSrc && (
+            <div className="my-3">
+              <h5>音声で聴く</h5>
+              <audio controls src={audioSrc}>
+                お使いのブラウザは音声再生に対応していません。
+              </audio>
+            </div>
+          )}
         </header>
 
         <hr />

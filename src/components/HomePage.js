@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import papers from '../data/papers'; // 論文データをインポート
+import metadata from '../data/papers/metadata.json'; // metadata.jsonをインポート
 
 const HomePage = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -52,6 +53,7 @@ const HomePage = () => {
 
   return (
     <div className="container mt-4">
+      <p className="text-muted text-end mb-1">最終更新日: {metadata.lastUpdatedAt}</p>
       <div className="row mb-4">
         <div className="col-md-8">
           <input
