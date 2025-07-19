@@ -26,14 +26,7 @@ const PaperPage = ({ data }) => {
     return <div>論文が見つかりません。</div>;
   }
 
-  // 音声ファイルは動的にrequireする
-  // requireは失敗する可能性があるため、try-catchで囲む
-  let audioSrc = null;
-  try {
-    audioSrc = require(`../assets/audios/paper_${data.id}.mp3`);
-  } catch (e) {
-    console.warn(`音声ファイルが見つかりません: paper_${data.id}.mp3`);
-  }
+  
 
 
   const chartOptions = {
@@ -65,14 +58,7 @@ const PaperPage = ({ data }) => {
               <span key={tag} className="badge bg-primary me-1">{tag}</span>
             ))}
           </div>
-          {audioSrc && (
-            <div className="my-3">
-              <h5>音声で聴く</h5>
-              <audio controls src={audioSrc}>
-                お使いのブラウザは音声再生に対応していません。
-              </audio>
-            </div>
-          )}
+          
         </header>
 
         <hr />
