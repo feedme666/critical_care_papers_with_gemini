@@ -21,11 +21,9 @@ ChartJS.register(
   Legend
 );
 
-const PaperPage = () => {
-  const { id } = useParams();
-  const currentPaper = papers.find(p => p.id === parseInt(id));
+const PaperPage = ({ data }) => {
 
-  if (!currentPaper) {
+  if (!data) {
     return <div>論文が見つかりません。</div>;
   }
 
@@ -33,9 +31,9 @@ const PaperPage = () => {
   // requireは失敗する可能性があるため、try-catchで囲む
   let audioSrc = null;
   try {
-    audioSrc = require(`../assets/audios/paper_${currentPaper.id}.mp3`);
+    audioSrc = require(`../assets/audios/paper_${data.id}.mp3`);
   } catch (e) {
-    console.warn(`音声ファイルが見つかりません: paper_${currentPaper.id}.mp3`);
+    console.warn(`音声ファイルが見つかりません: paper_${data.id}.mp3`);
   }
 
 
@@ -56,15 +54,15 @@ const PaperPage = () => {
     <div className="container mt-4">
       <article>
         <header>
-          <h2>{currentPaper.題名}</h2>
-          {currentPaper.original_title && <p className="text-muted">Original Title: {currentPaper.original_title}</p>}
-          <p className="text-muted">{currentPaper.雑誌名_巻号_出版年_ページ}</p>
-          <p><strong>筆頭著者:</strong> {currentPaper.筆頭著者}</p>
-          {currentPaper.pmid && (
-            <p><strong>PMID:</strong> <a href={currentPaper.pubmed_link} target="_blank" rel="noopener noreferrer">{currentPaper.pmid}</a></p>
+          <h2>{data.題名}</h2>
+          {data.original_title && <p className="text-muted">Original Title: {data.original_title}</p>}
+          <p className="text-muted">{data.雑誌名_巻号_出版年_ページ}</p>
+          <p><strong>筆頭著者:</strong> {data.筆頭著者}</p>
+          {data.pmid && (
+            <p><strong>PMID:</strong> <a href={data.pubmed_link} target="_blank" rel="noopener noreferrer">{data.pmid}</a></p>
           )}
           <div>
-            {currentPaper.タグ && currentPaper.タグ.map(tag => (
+            {data.タグ && data.タグ.map(tag => (
               <span key={tag} className="badge bg-primary me-1">{tag}</span>
             ))}
           </div>
@@ -83,36 +81,36 @@ const PaperPage = () => {
         <section className="my-4">
           <h4>PICO</h4>
           <ul className="list-group">
-            <li className="list-group-item"><strong>Patient:</strong> {currentPaper.PICO && currentPaper.PICO.P}</li>
-            <li className="list-group-item"><strong>Intervention:</strong> {currentPaper.PICO && currentPaper.PICO.I}</li>
-            <li className="list-group-item"><strong>Comparison:</strong> {currentPaper.PICO && currentPaper.PICO.C}</li>
-            <li className="list-group-item"><strong>Outcome:</strong> {currentPaper.PICO && currentPaper.PICO.O}</li>
+            <li className="list-group-item"><strong>Patient:</strong> {data.PICO && data.PICO.P}</li>
+            <li className="list-group-item"><strong>Intervention:</strong> {data.PICO && data.PICO.I}</li>
+            <li className="list-group-item"><strong>Comparison:</strong> {data.PICO && data.PICO.C}</li>
+            <li className="list-group-item"><strong>Outcome:</strong> {data.PICO && data.PICO.O}</li>
           </ul>
         </section>
 
         <section className="my-4">
           <h4>要約</h4>
-          <p>{currentPaper.要約}</p>
+          <p>{data.要約}</p>
         </section>
 
         <section className="my-4">
           <h4>結果</h4>
-          <p>{currentPaper.結果}</p>
+          <p>{data.結果}</p>
           <div style={{ maxWidth: '600px', margin: 'auto' }}>
-            {currentPaper.chartData && (
-              <Bar options={chartOptions} data={currentPaper.chartData} />
+            {data.chartData && (
+              <Bar options={chartOptions} data={data.chartData} />
             )}
           </div>
         </section>
 
         <section className="my-4">
           <h4>考察</h4>
-          <p>{currentPaper.考察}</p>
+          <p>{data.考察}</p>
         </section>
 
         <section className="my-4">
-          <h4>{currentPaper.批判的吟味 && currentPaper.批判的吟味.title}</h4>
-          {currentPaper.批判的吟味 && currentPaper.批判的吟味.points && currentPaper.批判的吟味.points.map((point, index) => (
+          <h4>{data.批判的吟味 && data.批判的吟味.title}</h4>
+          {data.批判的吟味 && data.批判的吟味.points && data.批判的吟味.points.map((point, index) => (
             <div key={index} className="card mb-3">
               <div className="card-header">{point.subtitle}</div>
               <div className="card-body">
