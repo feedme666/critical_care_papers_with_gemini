@@ -390,5 +390,13 @@
     "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Jul 4. doi: 10.1056/NEJMoa2503678.",
     "pmid": null,
     "pubmed_link": null
+  },
+  {
+    "id": 57,
+    "登録日": "2025-07-20",
+    "original_title": "Executive Summary of a Focused Update to the Clinical Practice Guidelines for the Prevention and Management of Pain, Anxiety, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Mar;53(3):e701-e710.",
+    "pmid": 39982138,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982138/"
   }
 ]
