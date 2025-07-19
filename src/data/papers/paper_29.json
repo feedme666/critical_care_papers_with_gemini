@@ -1,5 +1,6 @@
 {
   "id": 29,
+  "type": "paper",
   "題名": "高齢敗血症性ショック患者における高平均動脈圧目標の効果 (OPTPRESS): 多施設共同、実用的、非盲検、ランダム化比較試験",
   "original_title": "Efficacy of targeting high mean arterial pressure for older patients with septic shock (OPTPRESS): a multicentre, pragmatic, open-label, randomised controlled trial",
   "筆頭著者": "Akira Endo",
@@ -75,7 +76,7 @@
       },
       {
         "subtitle": "臨床的意義と今後の展望",
-        "content": "高齢の敗血症性ショック患者、特に日本人においては、慢性高血圧の有無にかかわらず、高いMAPを目標とすることは避けるべきであることを強く示唆する重要なエビデンスである。今後は、心機能評価などに基づいた、より個別化された血圧管理の有効性を検証する研究が求められる。"
+        "content": "高齢の敗血症性ショック患者、特に日本人においては、慢性高血圧の有無にかかわらず、高いMAPを目標とすることは避けるべきであることを強く示唆する重要なエビデンスである。今後は、心機能評価などに基づいた、より個別化された血圧管理の有効性を検証する研究が期待される。"
       }
     ]
   },

@@ -358,5 +358,37 @@
     "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Jun 12;392(24):2244-2254.",
     "pmid": 40503713,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40503713"
+  },
+  {
+    "id": 53,
+    "登録日": "2025-07-20",
+    "original_title": "Proportional-Assist Ventilation for Minimizing the Duration of Mechanical Ventilation",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2024 Jun 6;390(22):2051-2061.",
+    "pmid": 38839482,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38839482/"
+  },
+  {
+    "id": 54,
+    "登録日": "2025-07-20",
+    "original_title": "Intra-arterial Tenecteplase for Acute Stroke After Successful Endovascular Therapy: The ANGEL-TNK Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2025 Jul 5. doi: 10.1001/jama.2025.10800.",
+    "pmid": 40615831,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40615831/"
+  },
+  {
+    "id": 55,
+    "登録日": "2025-07-20",
+    "original_title": "Computed Tomography Perfusion and Angiography for Death by Neurologic Criteria",
+    "雑誌名_巻号_出版年_ページ": "JAMA Neurol. 2025 Jun 13. doi: 10.1001/jamaneurol.2025.2375.",
+    "pmid": 40512483,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40512483/"
+  },
+  {
+    "id": 56,
+    "登録日": "2025-07-20",
+    "original_title": "Early Tirofiban Infusion after Intravenous Thrombolysis for Stroke",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Jul 4. doi: 10.1056/NEJMoa2503678.",
+    "pmid": null,
+    "pubmed_link": null
   }
 ]
