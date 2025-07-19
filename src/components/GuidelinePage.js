@@ -1,6 +1,5 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
-import papers from '../data/papers'; // 論文データをインポート
+
 
 const GuidelinePage = ({ data }) => {
 
