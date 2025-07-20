@@ -406,5 +406,37 @@
     "雑誌名_巻号_出版年_ページ": "N Engl J Med 2025;392:1079-88.",
     "pmid": 39655786,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39655786/"
+  },
+  {
+    "id": 59,
+    "登録日": "2025-02-01",
+    "original_title": "A Randomized Trial of Drug Route in Out-of-Hospital Cardiac Arrest",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Jan 23;392(4):336-48.",
+    "pmid": 39480216,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39480216"
+  },
+  {
+    "id": 60,
+    "登録日": "2025-07-20",
+    "original_title": "Antibiotic Treatment for 7 versus 14 Days in Patients with Bloodstream Infections",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med 2025;392:1065-78.",
+    "pmid": 39565030,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39565030"
+  },
+  {
+    "id": 61,
+    "登録日": "2024-09-20",
+    "original_title": "Andexanet for Factor Xa Inhibitor-Associated Acute Intracerebral Hemorrhage",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med 2024;390:1745-55.",
+    "pmid": 38749032,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38749032"
+  },
+  {
+    "id": 62,
+    "登録日": "2024-09-20",
+    "original_title": "Liberal or Restrictive Transfusion Strategy in Patients with Traumatic Brain Injury",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med 2024;391:722-35.",
+    "pmid": 38869931,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38869931"
   }
 ]
