@@ -417,7 +417,7 @@
   },
   {
     "id": 60,
-    "登録日": "2025-07-20",
+    "登録日": "2025-04-20",
     "original_title": "Antibiotic Treatment for 7 versus 14 Days in Patients with Bloodstream Infections",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med 2025;392:1065-78.",
     "pmid": 39565030,
@@ -425,7 +425,7 @@
   },
   {
     "id": 61,
-    "登録日": "2024-09-20",
+    "登録日": "2024-06-20",
     "original_title": "Andexanet for Factor Xa Inhibitor-Associated Acute Intracerebral Hemorrhage",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med 2024;390:1745-55.",
     "pmid": 38749032,
@@ -438,5 +438,37 @@
     "雑誌名_巻号_出版年_ページ": "N Engl J Med 2024;391:722-35.",
     "pmid": 38869931,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38869931"
+  },
+  {
+    "id": 63,
+    "登録日": "2024-04-20",
+    "original_title": "Microaxial Flow Pump or Standard Care in Infarct-Related Cardiogenic Shock",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med 2024;390:1382-93.",
+    "pmid": 38587239,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38587239"
+  },
+  {
+    "id": 64,
+    "登録日": "2024-10-20",
+    "original_title": "Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2024 Jul 4;391(1):9-20.",
+    "pmid": 38875111,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38875111"
+  },
+  {
+    "id": 65,
+    "登録日": "2024-07-20",
+    "original_title": "A Randomized Trial of Intravenous Amino Acids for Kidney Protection",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2024 Aug 22;391(8):687-698.",
+    "pmid": 38865168,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38865168/"
+  },
+  {
+    "id": 66,
+    "登録日": "2024-07-20",
+    "original_title": "Noninvasive Ventilation for Preoxygenation during Emergency Intubation",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2024 Jun 20;390(23):2165-77.",
+    "pmid": 38869091,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38869091"
   }
 ]
