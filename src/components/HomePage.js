@@ -7,6 +7,7 @@ const HomePage = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedTags, setSelectedTags] = useState([]);
   const [sortOrder, setSortOrder] = useState('desc'); // 'desc' for descending, 'asc' for ascending
+  const [selectedYear, setSelectedYear] = useState('すべて'); // 'すべて', '2023', '2024', '2025'
 
   const allTags = {
     "臓器・疾患別": ["呼吸器系", "循環器系", "腎尿路系", "脳神経系", "消化器系", "内分泌・代謝系", "血液・免疫系", "皮膚・軟部組織系", "感染・炎症系", "医療安全・倫理系", "その他"],
@@ -39,7 +40,10 @@ const HomePage = () => {
       const tagFilterMatch = selectedTags.length === 0 ||
                              (p.タグ && selectedTags.every(selectedTag => p.タグ.includes(selectedTag)));
 
-      return keywordMatch && tagFilterMatch;
+      // 登録年フィルタリング
+      const yearFilterMatch = selectedYear === 'すべて' || (p.登録日 && p.登録日.startsWith(selectedYear));
+
+      return keywordMatch && tagFilterMatch && yearFilterMatch;
     })
     .sort((a, b) => {
       const dateA = new Date(a.登録日);
@@ -89,6 +93,26 @@ const HomePage = () => {
                 </label>
               </div>
             ))}
+          </div>
+        ))}
+      </div>
+
+      <div className="mb-4">
+        <h5>- 登録年で絞り込み</h5>
+        {['すべて', '2023', '2024', '2025'].map(year => (
+          <div key={year} className="form-check form-check-inline">
+            <input
+              className="form-check-input"
+              type="radio"
+              name="registrationYear"
+              id={`year-${year}`}
+              value={year}
+              checked={selectedYear === year}
+              onChange={(e) => setSelectedYear(e.target.value)}
+            />
+            <label className="form-check-label" htmlFor={`year-${year}`}>
+              {year}
+            </label>
           </div>
         ))}
       </div>
