@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import ScrollToTopWrapper from './components/ScrollToTopWrapper';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HomePage from './components/HomePage';
@@ -10,7 +11,9 @@ import './App.css';
 function App() {
   return (
     <Router basename="/critical_care_papers_with_gemini">
-      <div className="d-flex flex-column min-vh-100">
+      <ScrollToTopWrapper>
+        <div className="d-flex flex-column min-vh-100">
+        
         <Header />
         <main className="flex-grow-1">
           <Routes>
@@ -20,6 +23,7 @@ function App() {
         </main>
         <Footer />
       </div>
+      </ScrollToTopWrapper>
     </Router>
   );
 }
