@@ -1,13 +1,20 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
+import { useFilter } from '../context/FilterContext'; // useFilterをインポート
 import papers from '../data/papers'; // 論文データをインポート
 import metadata from '../data/papers/metadata.json'; // metadata.jsonをインポート
 
 const HomePage = () => {
-  const [searchTerm, setSearchTerm] = useState('');
-  const [selectedTags, setSelectedTags] = useState([]);
-  const [sortOrder, setSortOrder] = useState('desc'); // 'desc' for descending, 'asc' for ascending
-  const [selectedYear, setSelectedYear] = useState('すべて'); // 'すべて', '2023', '2024', '2025'
+  const {
+    searchTerm,
+    setSearchTerm,
+    selectedTags,
+    setSelectedTags,
+    sortOrder,
+    setSortOrder,
+    selectedYear,
+    setSelectedYear,
+  } = useFilter();
 
   const allTags = {
     "臓器・疾患別": ["呼吸器系", "循環器系", "腎尿路系", "脳神経系", "消化器系", "内分泌・代謝系", "血液・免疫系", "皮膚・軟部組織系", "感染・炎症系", "医療安全・倫理系", "その他"],
