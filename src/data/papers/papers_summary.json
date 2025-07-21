@@ -470,5 +470,101 @@
     "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2024 Jun 20;390(23):2165-77.",
     "pmid": 38869091,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38869091"
+  },
+  {
+    "id": 67,
+    "登録日": "2024-04-21",
+    "original_title": "Beta-Blockers after Myocardial Infarction and Preserved Ejection Fraction",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med 2024;390:1372-81.",
+    "pmid": 38587241,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38587241"
+  },
+  {
+    "id": 68,
+    "登録日": "2024-05-21",
+    "original_title": "Trial of Thrombectomy for Stroke with a Large Infarct of Unrestricted Size",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med 2024;390:1677-89.",
+    "pmid": 38718358,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38718358/"
+  },
+  {
+    "id": 69,
+    "登録日": "2024-05-21",
+    "original_title": "Intensive Ambulance-Delivered Blood-Pressure Reduction in Hyperacute Stroke",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med . 2024 May 30;390(20):1862-1872.",
+    "pmid": 38752650,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38752650"
+  },
+  {
+    "id": 70,
+    "登録日": "2024-09-21",
+    "original_title": "Adjunctive Intravenous Argatroban or Eptifibatide for Ischemic Stroke",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med . 2024 Sep 5;391(9):810-820.",
+    "pmid": 39231343,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39231343/"
+  },
+  {
+    "id": 71,
+    "登録日": "2024-11-21",
+    "original_title": "The effect of tranexamic acid on postpartum bleeding in women with moderate and severe anaemia (WOMAN-2): an international, randomised, double-blind, placebo-controlled trial",
+    "雑誌名_巻号_出版年_ページ": "Lancet 2024; 404: 1645-56",
+    "pmid": 39461792,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39461792"
+  },
+  {
+    "id": 73,
+    "登録日": "2025-07-21",
+    "original_title": "High flow nasal cannula oxygen therapy versus non-invasive ventilation for acute exacerbations of chronic obstructive pulmonary disease with acute-moderate hypercapnic respiratory failure: a randomized controlled non-inferiority trial",
+    "雑誌名_巻号_出版年_ページ": "Crit Care. 2024;28(1):250.",
+    "pmid": 39026242,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39026242/"
+  },
+  {
+    "id": 74,
+    "登録日": "2024-04-21",
+    "original_title": "Lower vs Higher Oxygenation Target and Days Alive Without Life Support in COVID-19: The HOT-COVID Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Apr 9;331(14):1185-1194.",
+    "pmid": 38501214,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38501214"
+  },
+  {
+    "id": 75,
+    "登録日": "2024-03-21",
+    "original_title": "Video Laryngoscopy vs Direct Laryngoscopy for Endotracheal Intubation in the Operating Room: A Cluster Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Apr 16;331(15):1279-1286.",
+    "pmid": 38497992,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38497992"
+  },
+  {
+    "id": 76,
+    "登録日": "2024-10-21",
+    "original_title": "Fluid balance neutralization secured by hemodynamic monitoring versus protocolized standard of care in patients with acute circulatory failure requiring continuous renal replacement therapy: results of the GO NEUTRAL randomized controlled trial",
+    "雑誌名_巻号_出版年_ページ": "Intensive Care Med. 2024;50:2061-2072.",
+    "pmid": 39417870,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39417870/"
+  },
+  {
+    "id": 77,
+    "登録日": "2024-10-21",
+    "original_title": "Frequency of Screening and Spontaneous Breathing Trial Techniques: A Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Dec 3;332(21):1808-1821.",
+    "pmid": 39382222,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39382222"
+  },
+  {
+    "id": 78,
+    "登録日": "2024-04-21",
+    "original_title": "A Randomized Noninferiority Trial to Compare Enteral to Parenteral Phosphate Replacement on Biochemistry, Waste, and Environmental Impact and Healthcare Cost in Critically Ill Patients With Mild to Moderate Hypophosphatemia",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med . 2024 Jul 1;52(7):1054-1064.",
+    "pmid": 38537225,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38537225"
+  },
+  {
+    "id": 79,
+    "登録日": "2024-03-21",
+    "original_title": "ACETATE RINGER'S SOLUTION VERSUS NORMAL SALINE SOLUTION IN SEPSIS: A RANDOMIZED, CONTROLLED TRIAL",
+    "雑誌名_巻号_出版年_ページ": "SHOCK, Vol. 61, No. 4, pp. 520-526, 2024",
+    "pmid": 38369528,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38369528"
   }
 ]
