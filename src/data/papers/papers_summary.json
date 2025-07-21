@@ -41,7 +41,7 @@
   },
   {
     "id": 19,
-    "登録日": "2025-04-29",
+    "登録日": "2025-03-01",
     "original_title": "Discussing expected long-term quality of life in the ICU: effect on experiences and outcomes of patients, family, and clinicians—a randomized clinical trial",
     "雑誌名_巻号_出版年_ページ": "Intensive Care Med. 2025 Mar;51(3):478-489.",
     "pmid": 39992444,
@@ -566,5 +566,37 @@
     "雑誌名_巻号_出版年_ページ": "SHOCK, Vol. 61, No. 4, pp. 520-526, 2024",
     "pmid": 38369528,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38369528"
+  },
+  {
+    "id": 80,
+    "登録日": "2024-01-21",
+    "original_title": "ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies",
+    "雑誌名_巻号_出版年_ページ": "Intensive Care Med (2023) 49:727-759",
+    "pmid": 37328682,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nlm.nih.gov/37328682/"
+  },
+  {
+    "id": 81,
+    "登録日": "2024-01-21",
+    "original_title": "An Update on Management of Adult Patients with Acute Respiratory Distress Syndrome An Official American Thoracic Society Clinical Practice Guideline",
+    "雑誌名_巻号_出版年_ページ": "Am J Respir Crit Care Med Vol 209, Iss 1, pp 24-36, Jan 1, 2024",
+    "pmid": 38032683,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38032683"
+  },
+  {
+    "id": 82,
+    "登録日": "2024-11-21",
+    "original_title": "Effect of a Machine Learning-Derived Early Warning Tool With Treatment Protocol on Hypotension During Cardiac Surgery and ICU Stay: The Hypotension Prediction 2 (HYPE-2) Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb 1;53(2):e328-e340.",
+    "pmid": 39576150,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39576150"
+  },
+  {
+    "id": 83,
+    "登録日": "2024-07-21",
+    "original_title": "Electroencephalography-Guided Anesthesia and Delirium in Older Adults After Cardiac Surgery: The ENGAGES-Canada Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Jul 9;332(2):112-123.",
+    "pmid": 38857019,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38857019"
   }
 ]
