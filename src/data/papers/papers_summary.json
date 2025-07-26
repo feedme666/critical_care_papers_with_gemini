@@ -417,7 +417,7 @@
   },
   {
     "id": 60,
-    "登録日": "2025-04-20",
+    "登録日": "2024-04-20",
     "original_title": "Antibiotic Treatment for 7 versus 14 Days in Patients with Bloodstream Infections",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med 2025;392:1065-78.",
     "pmid": 39565030,
@@ -573,7 +573,7 @@
     "original_title": "ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies",
     "雑誌名_巻号_出版年_ページ": "Intensive Care Med (2023) 49:727-759",
     "pmid": 37328682,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nlm.nih.gov/37328682/"
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37328682/"
   },
   {
     "id": 81,
@@ -598,5 +598,69 @@
     "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Jul 9;332(2):112-123.",
     "pmid": 38857019,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38857019"
+  },
+  {
+    "id": 84,
+    "登録日": "2024-12-22",
+    "original_title": "Biomarker-Guided Antibiotic Duration for Hospitalized Patients With Suspected Sepsis: The ADAPT-Sepsis Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2025 Feb 25;333(8):682-693.",
+    "pmid": 39652885,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39652885"
+  },
+  {
+    "id": 85,
+    "登録日": "2024-05-26",
+    "original_title": "Acetaminophen for Prevention and Treatment of Organ Dysfunction in Critically Ill Patients With Sepsis: The ASTER Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024;332(5):390-400.",
+    "pmid": 38762798,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38762798"
+  },
+  {
+    "id": 86,
+    "登録日": "2024-07-26",
+    "original_title": "Colchicine in patients with acute ischaemic stroke or transient ischaemic attack (CHANCE-3): multicentre, double blind, randomised, placebo controlled trial",
+    "雑誌名_巻号_出版年_ページ": "BMJ 2024;385:e079061",
+    "pmid": 38925803,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38925803"
+  },
+  {
+    "id": 87,
+    "登録日": "2024-06-26",
+    "original_title": "Standard vs. carbone dioxide adapted kidney replacement therapy in hypercapnic ARDS patients: a randomized controlled pilot trial (BigBIC)",
+    "雑誌名_巻号_出版年_ページ": "Crit Care. 2024;28(1):198.",
+    "pmid": 38863072,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38863072/"
+  },
+  {
+    "id": 88,
+    "登録日": "2024-03-26",
+    "original_title": "Extracorporeal Carbon Dioxide Removal to Avoid Invasive Ventilation During Exacerbations of Chronic Obstructive Pulmonary Disease: VENT-AVOID Trial – A Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "Am J Respir Crit Care Med . 2024 Mar 1;209(5):529-542.",
+    "pmid": 38261630,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38261630"
+  },
+  {
+    "id": 89,
+    "登録日": "2024-04-26",
+    "original_title": "Stewardship Prompts to Improve Antibiotic Selection for Pneumonia: The INSPIRE Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024;331(23):2007-2017.",
+    "pmid": 38639729,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38639729"
+  },
+  {
+    "id": 90,
+    "登録日": "2024-09-26",
+    "original_title": "Continuation vs Discontinuation of Renin-Angiotensin System Inhibitors Before Major Noncardiac Surgery: The Stop-or-Not Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Sep 24;332(12):970-978.",
+    "pmid": 39212270,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39212270"
+  },
+  {
+    "id": 91,
+    "登録日": "2024-11-26",
+    "original_title": "Personalized positive end-expiratory pressure in spontaneously breathing patients with acute respiratory distress syndrome by simultaneous electrical impedance tomography and transpulmonary pressure monitoring: a randomized crossover trial",
+    "雑誌名_巻号_出版年_ページ": "Intensive Care Med (2024) 50:2125-2137",
+    "pmid": 39527121,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39527121"
   }
 ]

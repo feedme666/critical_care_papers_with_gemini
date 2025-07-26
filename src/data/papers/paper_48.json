@@ -15,25 +15,74 @@
     "O": "主要評価項目：治療後24～48時間における、症候性頭蓋内出血（sICH）を伴わない主要再灌流の達成率。副次評価項目：90日後の機能的アウトカム（mRS 0-1、0-2）、神経学的改善、再開通率など。"
   },
   "結果": "合計86名の患者が登録された。主要評価項目は、0.25 mg/kg群で43名中14名（32.6%）、0.32 mg/kg群で43名中10名（23.3%）で達成された。90日後の良好な機能的アウトカム（mRS 0-1）は、0.25 mg/kg群で27.9%、0.32 mg/kg群で48.8%であった。症候性頭蓋内出血は両群とも4名（9.3%）に認められた。",
-  "chartData": {
-    "labels": ["主要再灌流（sICHなし） (%)", "90日後mRS 0-1 (%)", "症候性頭蓋内出血 (%)"],
-    "datasets": [
-      {
-        "label": "テネクテプラーゼ 0.25mg/kg群",
-        "data": [32.6, 27.9, 9.3],
-        "backgroundColor": "rgba(75, 192, 192, 0.6)",
-        "borderColor": "rgba(75, 192, 192, 1)",
-        "borderWidth": 1
-      },
-      {
-        "label": "テネクテプラーゼ 0.32mg/kg群",
-        "data": [23.3, 48.8, 9.3],
-        "backgroundColor": "rgba(255, 99, 132, 0.6)",
-        "borderColor": "rgba(255, 99, 132, 1)",
-        "borderWidth": 1
+  "charts": [
+    {
+      "title": "主要再灌流（sICHなし） (%)",
+      "chartData": {
+        "labels": ["主要再灌流（sICHなし） (%)"],
+        "datasets": [
+          {
+            "label": "テネクテプラーゼ 0.25mg/kg群",
+            "data": [32.6],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "テネクテプラーゼ 0.32mg/kg群",
+            "data": [23.3],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
       }
-    ]
-  },
+    },
+    {
+      "title": "90日後mRS 0-1 (%)",
+      "chartData": {
+        "labels": ["90日後mRS 0-1 (%)"],
+        "datasets": [
+          {
+            "label": "テネクテプラーゼ 0.25mg/kg群",
+            "data": [27.9],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "テネクテプラーゼ 0.32mg/kg群",
+            "data": [48.8],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    },
+    {
+      "title": "症候性頭蓋内出血 (%)",
+      "chartData": {
+        "labels": ["症候性頭蓋内出血 (%)"],
+        "datasets": [
+          {
+            "label": "テネクテプラーゼ 0.25mg/kg群",
+            "data": [9.3],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "テネクテプラーゼ 0.32mg/kg群",
+            "data": [9.3],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    }
+  ],
   "考察": "前方循環系の主幹動脈閉塞を有し、発症後4.5～24時間の急性期脳虚血性脳卒中患者において、テネクテプラーゼ0.25 mg/kgおよび0.32 mg/kgはいずれも、症候性頭蓋内出血を伴わない主要再灌流を達成する上で十分な有効性と安全性の見込みを示した。特に0.32mg/kg群では90日後の機能的アウトカムが良好な傾向にあったが、本研究は用量間の直接比較を目的としていないため、解釈には注意を要する。",
   "批判的吟味": {
     "title": "批判的吟味",

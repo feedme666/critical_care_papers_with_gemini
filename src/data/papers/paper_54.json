@@ -16,25 +16,96 @@
     "O": "90日後の優れた神経学的アウトカム（modified Rankin Scale [mRS] スコア 0-1）"
   },
   "結果": "主要評価項目である90日後のmRSスコア0-1を達成した患者の割合は、テネクテプラーゼ群で59.1%（130/220例）、プラセボ群で47.0%（104/221例）であり、テネクテプラーゼ群で有意に高かった（調整後リスク差 12.0%; 95%信頼区間 2.4%～21.6%; P=.01）。しかし、90日後のmRSスコアの全体的な分布（common odds ratio 1.43; 95%CI 0.99-2.06; P=.06）や、早期の神経学的改善、90日後の機能的自立（mRS 0-2）などの副次評価項目では、有意な差は認められなかった。症候性頭蓋内出血や90日死亡率に関しても、両群間で有意な差はなかった。",
-  "chartData": {
-    "labels": ["90日後mRS 0-1達成率 (%)", "90日後mRS 0-2達成率 (%)", "症候性頭蓋内出血 (%)", "90日死亡率 (%)"],
-    "datasets": [
-      {
-        "label": "テネクテプラーゼ群",
-        "data": [59.1, 72.7, 2.3, 15.5],
-        "backgroundColor": "rgba(75, 192, 192, 0.6)",
-        "borderColor": "rgba(75, 192, 192, 1)",
-        "borderWidth": 1
-      },
-      {
-        "label": "プラセボ群",
-        "data": [47.0, 68.3, 1.4, 15.4],
-        "backgroundColor": "rgba(255, 99, 132, 0.6)",
-        "borderColor": "rgba(255, 99, 132, 1)",
-        "borderWidth": 1
+  "charts": [
+    {
+      "title": "90日後mRS 0-1達成率 (%)",
+      "chartData": {
+        "labels": ["90日後mRS 0-1達成率 (%)"],
+        "datasets": [
+          {
+            "label": "テネクテプラーゼ群",
+            "data": [59.1],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "プラセボ群",
+            "data": [47.0],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
       }
-    ]
-  },
+    },
+    {
+      "title": "90日後mRS 0-2達成率 (%)",
+      "chartData": {
+        "labels": ["90日後mRS 0-2達成率 (%)"],
+        "datasets": [
+          {
+            "label": "テネクテプラーゼ群",
+            "data": [72.7],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "プラセボ群",
+            "data": [68.3],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    },
+    {
+      "title": "症候性頭蓋内出血 (%)",
+      "chartData": {
+        "labels": ["症候性頭蓋内出血 (%)"],
+        "datasets": [
+          {
+            "label": "テネクテプラーゼ群",
+            "data": [2.3],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "プラセボ群",
+            "data": [1.4],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    },
+    {
+      "title": "90日死亡率 (%)",
+      "chartData": {
+        "labels": ["90日死亡率 (%)"],
+        "datasets": [
+          {
+            "label": "テネクテプラーゼ群",
+            "data": [15.5],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "プラセボ群",
+            "data": [15.4],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    }
+  ],
   "考察": "本研究は、血栓回収療法成功後の患者に対する追加の動注血栓溶解療法が、神経学的予後をさらに改善する可能性を示した点で重要である。主要評価項目で有意差が認められたものの、複数の重要な副次評価項目で有意差がなかった点は、この治療法の効果が一貫していない可能性を示唆しており、結果の解釈を慎重にさせる。この乖離の理由として、mRS 0-1という非常に良好なアウトカムに限定したことで差が検出されたが、より広い範囲の機能的改善には寄与が限定的であった可能性や、偶然の可能性も否定できない。今後の研究で、この治療法の真の効果と最適な対象患者を特定する必要がある。",
   "批判的吟味": {
     "title": "批判的吟味",

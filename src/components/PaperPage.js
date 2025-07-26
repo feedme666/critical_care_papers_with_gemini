@@ -85,6 +85,20 @@ const PaperPage = ({ data }) => {
             {data.chartData && (
               <Bar options={chartOptions} data={data.chartData} />
             )}
+            {data.charts && data.charts.map((chart, index) => (
+              <div key={index} className="mb-4">
+                <Bar options={{
+                  ...chartOptions,
+                  plugins: {
+                    ...chartOptions.plugins,
+                    title: {
+                      display: true,
+                      text: chart.title
+                    }
+                  }
+                }} data={chart.chartData} />
+              </div>
+            ))}
           </div>
         </section>
 

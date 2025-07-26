@@ -15,25 +15,74 @@
     "O": "入院中の同種赤血球輸血の施行"
   },
   "結果": "2010人の患者がランダム化され、ANH群に1010人、通常治療群に1000人が割り付けられた。同種赤血球輸血は、ANH群の27.3%（274/1005人）、通常治療群の29.2%（291/997人）に施行された（相対リスク 0.93、95%CI 0.81～1.07、P=0.34）。術後出血による再手術は、ANH群で3.8%、通常治療群で2.6%であった。30日以内または入院中の死亡率は、ANH群で1.4%、通常治療群で1.6%であり、両群間で同等であった。",
-  "chartData": {
-    "labels": ["同種赤血球輸血施行率 (%)", "術後出血による再手術率 (%)", "30日以内死亡率 (%)"],
-    "datasets": [
-      {
-        "label": "ANH群",
-        "data": [27.3, 3.8, 1.4],
-        "backgroundColor": "rgba(75, 192, 192, 0.6)",
-        "borderColor": "rgba(75, 192, 192, 1)",
-        "borderWidth": 1
-      },
-      {
-        "label": "通常治療群",
-        "data": [29.2, 2.6, 1.6],
-        "backgroundColor": "rgba(255, 99, 132, 0.6)",
-        "borderColor": "rgba(255, 99, 132, 1)",
-        "borderWidth": 1
+  "charts": [
+    {
+      "title": "同種赤血球輸血施行率 (%)",
+      "chartData": {
+        "labels": ["同種赤血球輸血施行率 (%)"],
+        "datasets": [
+          {
+            "label": "ANH群",
+            "data": [27.3],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "通常治療群",
+            "data": [29.2],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
       }
-    ]
-  },
+    },
+    {
+      "title": "術後出血による再手術率 (%)",
+      "chartData": {
+        "labels": ["術後出血による再手術率 (%)"],
+        "datasets": [
+          {
+            "label": "ANH群",
+            "data": [3.8],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "通常治療群",
+            "data": [2.6],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    },
+    {
+      "title": "30日以内死亡率 (%)",
+      "chartData": {
+        "labels": ["30日以内死亡率 (%)"],
+        "datasets": [
+          {
+            "label": "ANH群",
+            "data": [1.4],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "通常治療群",
+            "data": [1.6],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    }
+  ],
   "考察": "心臓手術を受ける成人患者において、急性等容性血液希釈（ANH）は同種赤血球輸血の施行率を減少しなかった。この結果は、ANHが心臓手術における血液温存戦略として推奨できないことを示唆している。ANHは、出血関連の合併症や死亡率にも影響を与えなかった。",
   "批判的吟味": {
     "title": "批判的吟味",
