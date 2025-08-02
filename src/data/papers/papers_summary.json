@@ -363,9 +363,9 @@
     "id": 53,
     "登録日": "2025-07-20",
     "original_title": "Proportional-Assist Ventilation for Minimizing the Duration of Mechanical Ventilation",
-    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2024 Jun 6;390(22):2051-2061.",
-    "pmid": 38839482,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38839482/"
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Jun 13.",
+    "pmid": 40513024,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40513024/"
   },
   {
     "id": 54,
@@ -668,8 +668,8 @@
     "登録日": "2024-10-27",
     "original_title": "Restrictive vs Liberal Transfusion Strategy in Patients With Acute Brain Injury: The TRAIN Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Nov 19;332(19):1623-1633.",
-    "pmid": 39382241,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39382241"
+    "pmid": 39382222,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39382222"
   },
   {
     "id": 93,
@@ -686,5 +686,61 @@
     "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Nov 12;332(18):1525-1534.",
     "pmid": 39320879,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39320879"
+  },
+  {
+    "id": 95,
+    "登録日": "2024-08-27",
+    "original_title": "Automatic Mechanical Ventilation vs Manual Bag Ventilation During CPR: A Pilot Randomized Controlled Trial",
+    "雑誌名_巻号_出版年_ページ": "Chest. 2024 Aug;166(2):311-320.",
+    "pmid": 38373673,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38373673"
+  },
+  {
+    "id": 96,
+    "登録日": "2024-05-27",
+    "original_title": "Decompressive craniectomy plus best medical treatment versus best medical treatment alone for spontaneous severe deep supratentorial intracerebral haemorrhage: a randomised controlled clinical trial",
+    "雑誌名_巻号_出版年_ページ": "Lancet. 2024 Jun 1;403(10442):2395-2404.",
+    "pmid": 38761811,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38761811"
+  },
+  {
+    "id": 97,
+    "登録日": "2024-10-27",
+    "original_title": "Effect of Tele-ICU on Clinical Outcomes of Critically Ill Patients: The TELESCOPE Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024;332(21):1798-1807.",
+    "pmid": 39382244,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39382244/"
+  },
+  {
+    "id": 98,
+    "登録日": "2024-10-01",
+    "original_title": "Comparing Bispectral Index Monitoring vs Clinical Assessment for Deep Sedation in the ICU: Effects on Delirium Reduction and Sedative Drug Doses—A Randomized Trial",
+    "雑誌名_巻号_出版年_ページ": "CHEST 2024; 166(4):733-742",
+    "pmid": 38901489,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38901489"
+  },
+  {
+    "id": 99,
+    "登録日": "2024-03-10",
+    "original_title": "Postprocedural Anticoagulation After Primary Percutaneous Coronary Intervention for ST-Segment-Elevation Myocardial Infarction: A Multicenter, Randomized, Double-Blind Trial",
+    "雑誌名_巻号_出版年_ページ": "Circulation. 2024 Apr 16;149(15):1258-1267.",
+    "pmid": 38406848,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38406848/"
+  },
+  {
+    "id": 100,
+    "登録日": "2024-10-01",
+    "original_title": "Physiologic Comparison of Airway Pressure Release Ventilation and Low Tidal Volume Ventilation in ARDS: A Randomized Controlled Trial",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med . 2025 Feb 1;167(2):453-465.",
+    "pmid": 39299389,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39299389"
+  },
+  {
+    "id": 101,
+    "登録日": "2024-12-01",
+    "original_title": "Treatment of Acute Circulatory Failure Based on Carbon Dioxide-Oxygen (CO2-O2) Derived Indices: The Lactel Randomized Multicenter Study",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med . 2025 Apr;167(4):1068-1078.",
+    "pmid": 39615831,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39615831"
   }
 ]
