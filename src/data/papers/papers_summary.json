@@ -441,7 +441,7 @@
   },
   {
     "id": 63,
-    "登録日": "2024-04-20",
+    "登録日": "2024-05-20",
     "original_title": "Microaxial Flow Pump or Standard Care in Infarct-Related Cardiogenic Shock",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med 2024;390:1382-93.",
     "pmid": 38587239,
@@ -465,7 +465,7 @@
   },
   {
     "id": 66,
-    "登録日": "2024-07-20",
+    "登録日": "2024-06-20",
     "original_title": "Noninvasive Ventilation for Preoxygenation during Emergency Intubation",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2024 Jun 20;390(23):2165-77.",
     "pmid": 38869091,
@@ -573,7 +573,7 @@
     "original_title": "ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies",
     "雑誌名_巻号_出版年_ページ": "Intensive Care Med (2023) 49:727-759",
     "pmid": 37328682,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37328682/"
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37328682"
   },
   {
     "id": 81,
@@ -742,5 +742,45 @@
     "雑誌名_巻号_出版年_ページ": "Crit Care Med . 2025 Apr;167(4):1068-1078.",
     "pmid": 39615831,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39615831"
+  },
+  {
+    "id": 102,
+    "登録日": "2024-05-02",
+    "original_title": "Tranexamic acid versus placebo in individuals with intracerebral haemorrhage treated within 2 h of symptom onset (STOP-MSU): an international, double-blind, randomised, phase 2 trial",
+    "雑誌名_巻号_出版年_ページ": "Lancet Neurol 2024; 23: 577-87",
+    "pmid": 38648814,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38648814"
+  },
+  {
+    "id": 104,
+    "登録日": "2024-04-02",
+    "original_title": "Diagnostic Stewardship in Community-Acquired Pneumonia With Syndromic Molecular Testing: A Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA Netw Open. 2024 Mar 6;7(3):e240830.",
+    "pmid": 38446481,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38446481"
+  },
+  {
+    "id": 105,
+    "登録日": "2024-11-02",
+    "original_title": "Large Language Model Influence on Diagnostic Reasoning: A Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA Network Open. 2024;7(10):e2440969.",
+    "pmid": 39466245,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39466245"
+  },
+  {
+    "id": 106,
+    "登録日": "2024-09-02",
+    "original_title": "Suvorexant for Reduction of Delirium in Older Adults After Hospitalization: A Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA Netw Open. 2024 Aug 1;7(8):e2427691.",
+    "pmid": 39150711,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39150711"
+  },
+  {
+    "id": 107,
+    "登録日": "2024-08-02",
+    "original_title": "Tranexamic Acid in Patients Undergoing Liver Resection: The HeLiX Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Oct 1;332(13):1080-1089.",
+    "pmid": 39158894,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39158894"
   }
 ]
