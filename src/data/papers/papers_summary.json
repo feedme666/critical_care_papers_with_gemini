@@ -782,5 +782,37 @@
     "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Oct 1;332(13):1080-1089.",
     "pmid": 39158894,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39158894"
+  },
+  {
+    "id": 108,
+    "登録日": "2024-09-05",
+    "original_title": "Potassium Supplementation and Prevention of Atrial Fibrillation After Cardiac Surgery: The TIGHT K Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Sep 24;332(12):979-988.",
+    "pmid": 39215972,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39215972"
+  },
+  {
+    "id": 109,
+    "登録日": "2024-08-05",
+    "original_title": "Vitamin K Antagonist Reversal for Urgent Surgery Using 4-Factor Prothrombin Complex Concentrates: A Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA Netw Open. 2024 Aug 1;7(8):e2424758.",
+    "pmid": 39088218,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39088218"
+  },
+  {
+    "id": 110,
+    "登録日": "2024-05-05",
+    "original_title": "Cognitive Training for Reduction of Delirium in Patients Undergoing Cardiac Surgery",
+    "雑誌名_巻号_出版年_ページ": "JAMA Network Open. 2024;7(4):e247361.",
+    "pmid": 38652478,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38652478"
+  },
+  {
+    "id": 111,
+    "登録日": "2024-03-05",
+    "original_title": "Therapeutic Hypothermia in Low-Risk Nonpumped Brain-Dead Kidney Donors A Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA Network Open. 2024 Feb 28;7(2):e2353785.",
+    "pmid": 38416500,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38416500"
   }
 ]
