@@ -19,7 +19,7 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
   };
 
   return (
-    <Modal show={show} onHide={onHide} size="lg" centered>
+    <Modal show={show} onHide={onHide} size="lg" centered dialogClassName="custom-modal">
       <Modal.Header closeButton>
         <Modal.Title>{paper.題名}</Modal.Title>
       </Modal.Header>
