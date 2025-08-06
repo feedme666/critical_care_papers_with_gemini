@@ -584,14 +584,6 @@
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38032683"
   },
   {
-    "id": 82,
-    "登録日": "2024-11-21",
-    "original_title": "Effect of a Machine Learning-Derived Early Warning Tool With Treatment Protocol on Hypotension During Cardiac Surgery and ICU Stay: The Hypotension Prediction 2 (HYPE-2) Randomized Clinical Trial",
-    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb 1;53(2):e328-e340.",
-    "pmid": 39576150,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39576150"
-  },
-  {
     "id": 83,
     "登録日": "2024-07-21",
     "original_title": "Electroencephalography-Guided Anesthesia and Delirium in Older Adults After Cardiac Surgery: The ENGAGES-Canada Randomized Clinical Trial",
@@ -814,5 +806,29 @@
     "雑誌名_巻号_出版年_ページ": "JAMA Network Open. 2024 Feb 28;7(2):e2353785.",
     "pmid": 38416500,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38416500"
+  },
+  {
+    "id": 103,
+    "登録日": "2024-11-20",
+    "original_title": "Effect of a Machine Learning-Derived Early Warning Tool With Treatment Protocol on Hypotension During Cardiac Surgery and ICU Stay: The Hypotension Prediction 2 (HYPE-2) Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb 1;53(2):e328-e340.",
+    "pmid": 39576150,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39576150"
+  },
+  {
+    "id": 112,
+    "登録日": "2025-08-06",
+    "original_title": "Comparison of the Incidence of Arterial Pressure Line Insufficiency Between Polyethylene and Polyurethane Catheters in the ICU: A Randomized Study",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025;53(00):XX-XX.",
+    "pmid": 40668064,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40668064/"
+  },
+  {
+    "id": 113,
+    "登録日": "2025-08-06",
+    "original_title": "Distal versus conventional radial artery catheterization for hemodynamic monitoring in intensive care setting: a randomized, controlled, non-inferiority trial",
+    "雑誌名_巻号_出版年_ページ": "BMC Anesthesiology. 2025;25:348.",
+    "pmid": 40676532,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40676532"
   }
 ]

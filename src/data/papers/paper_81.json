@@ -1,12 +1,15 @@
 {
   "id": 81,
   "type": "guideline",
-  "題名": "成人急性呼吸窮迫症候群患者の管理に関する最新情報：米国胸部学会公式臨床診療ガイドライン",
+  "題名": "成人急性呼吸窮迫症候群患者 (ARDS) の管理に関する最新情報：米国胸部学会 (ATS) 公式臨床診療ガイドライン",
   "original_title": "An Update on Management of Adult Patients with Acute Respiratory Distress Syndrome An Official American Thoracic Society Clinical Practice Guideline",
   "作成団体": "American Thoracic Society",
   "雑誌名_巻号_出版年_ページ": "Am J Respir Crit Care Med Vol 209, Iss 1, pp 24-36, Jan 1, 2024",
   "登録日": "2024-01-21",
-  "タグ": ["ガイドライン・提言"],
+  "タグ": [
+    "呼吸器系",
+    "ガイドライン・提言"
+  ],
   "概要": "本ガイドラインは、成人急性呼吸窮迫症候群（ARDS）患者の管理に関する以前の推奨を更新し、コルチコステロイド、静脈-静脈体外式膜型人工肺（VV-ECMO）、神経筋遮断薬、呼気終末陽圧（PEEP）に関する新たなエビデンスを組み込んでいる。ARDS管理のための最新のエビデンスに基づいた推奨を提供し、臨床意思決定においては個々の患者および疾患特性を考慮する必要があることを強調している。",
   "対象": "成人急性呼吸窮迫症候群（ARDS）患者",
   "作成プロセス": {

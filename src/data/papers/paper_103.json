@@ -5,9 +5,10 @@
   "original_title": "Effect of a Machine Learning-Derived Early Warning Tool With Treatment Protocol on Hypotension During Cardiac Surgery and ICU Stay: The Hypotension Prediction 2 (HYPE-2) Randomized Clinical Trial",
   "筆頭著者": "Jaap Schuurmans",
   "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb 1;53(2):e328-e340.",
-  "登録日": "2025-08-02",
+  "登録日": "2024-11-20",
   "タグ": [
     "循環器系",
+    "医療安全・倫理系",
     "ランダム化比較試験"
   ],
   "要約": "本研究は、心臓手術を受ける成人患者において、機械学習に基づく低血圧早期警告ツール（HPI）と診断・治療ガイダンスプロトコルを組み合わせることで、術中およびICU滞在中の低血圧の重症度が有意に減少するかを評価した無作為化臨床試験である。HPI群では標準治療群と比較して、低血圧の時間加重平均（TWA）が有意に63%減少した（中央値の差 -0.40 mmHg、95% CI -0.65～-0.27、p < 0.001）。また、HPI群では低血圧状態での滞在時間が中央値で28分短縮された。本研究は、心臓手術患者におけるHPIと診断プロトコルの併用が低血圧の重症度を軽減することを示唆している。",
