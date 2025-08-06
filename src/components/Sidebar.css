@@ -1,0 +1,10 @@
+.sidebar-sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 4rem; /* ヘッダーの高さに応じて調整 */
+  height: calc(100vh - 4rem);
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+}

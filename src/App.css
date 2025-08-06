@@ -1,1 +1,24 @@
-/* Add your custom styles here */
+body {
+  background-color: #f8f9fa; /* 淡いグレーの背景色 */
+}
+
+.paper-card {
+  transition: all 0.2s ease-in-out;
+}
+
+.paper-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.card-title a {
+  color: #212529; /* カードタイトルの色 */
+}
+
+.card-title a:hover {
+  color: #0056b3; /* ホバー時のカードタイトルの色 */
+}
+
+.badge.bg-secondary {
+    background-color: #6c757d !important;
+}
