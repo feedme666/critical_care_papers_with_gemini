@@ -23,22 +23,42 @@ body {
     background-color: #6c757d !important;
 }
 
-/* Custom Modal Styles */
-.modal-backdrop.show {
-  opacity: 0.5;
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px); /* For Safari */
-}
-
-.modal-content {
-  border-radius: 12px;
+/* Clean & Modern Modal Style */
+.modal-dialog.custom-modal .modal-content {
+  background-color: #ffffff; /* Clean white background */
+  border-radius: 10px; /* Slightly rounded corners */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); /* Soft, diffused shadow */
   border: none;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
 }
 
-.modal-header {
-  background-color: #f8f9fa;
-  border-top-left-radius: 12px;
-  border-top-right-radius: 12px;
-  border-bottom: 1px solid #dee2e6;
+.modal-dialog.custom-modal .modal-header {
+  border-bottom: 1px solid #e0e0e0; /* Subtle separator */
+  padding: 1.5rem 2rem; /* More padding for spacious feel */
+  background-color: #f8f8f8; /* Slightly off-white for header */
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.modal-dialog.custom-modal .modal-title {
+  font-size: 1.5rem; /* Larger title */
+  font-weight: 600;
+  color: #333333;
+}
+
+.modal-dialog.custom-modal .modal-body {
+  padding: 2rem;
+  color: #555555;
+  line-height: 1.6; /* Improved readability */
+}
+
+.modal-dialog.custom-modal .modal-footer {
+  border-top: 1px solid #e0e0e0; /* Subtle separator */
+  padding: 1.5rem 2rem;
+  background-color: #f8f8f8; /* Slightly off-white for footer */
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.modal-backdrop.show {
+    opacity: 0.4; /* Slightly darker backdrop */
 }
