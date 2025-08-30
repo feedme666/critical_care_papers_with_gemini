@@ -177,7 +177,7 @@
   },
   {
     "id": 35,
-    "登録日": "2025-04-01",
+    "登録日": "2025-03-01",
     "original_title": "Electronic Sepsis Screening Among Patients Admitted to Hospital Wards: A Stepped-Wedge Cluster Randomized Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2025;333(9):763-773.",
     "pmid": 39658862,
@@ -819,7 +819,7 @@
     "id": 112,
     "登録日": "2025-08-06",
     "original_title": "Comparison of the Incidence of Arterial Pressure Line Insufficiency Between Polyethylene and Polyurethane Catheters in the ICU: A Randomized Study",
-    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025;53(00):XX-XX.",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025;53(00):XX-XX. Online ahead of print.",
     "pmid": 40668064,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40668064/"
   },
@@ -830,5 +830,21 @@
     "雑誌名_巻号_出版年_ページ": "BMC Anesthesiology. 2025;25:348.",
     "pmid": 40676532,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40676532"
+  },
+  {
+    "id": 116,
+    "登録日": "2025-08-29",
+    "original_title": "Economic analysis of high-flow nasal oxygen compared with noninvasive ventilation in patients with acute respiratory failure: results from the RENOVATE randomized clinical trial",
+    "雑誌名巻号出版年_ページ": "Respir Med. 2025;247:108270",
+    "pmid": null,
+    "pubmed_link": null
+  },
+  {
+    "id": 117,
+    "登録日": "2025-08-29",
+    "original_title": "High-Flow Nasal Oxygen versus Mechanical Ventilation Through a Laryngeal Mask During General Anesthesia Without Muscle Paralysis: A Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "Anesth Analg. 2025;XXX:00-00",
+    "pmid": null,
+    "pubmed_link": null
   }
 ]

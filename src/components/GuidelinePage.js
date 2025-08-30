@@ -29,19 +29,19 @@ const GuidelinePage = ({ data }) => {
 
         <section className="my-4">
           <h4>概要</h4>
-          <p>{data.概要}</p>
+          <p style={{ whiteSpace: 'pre-wrap' }}>{data.概要.replace(/\\n/g, '\n')}</p>
         </section>
 
         <section className="my-4">
           <h4>対象</h4>
-          <p>{data.対象}</p>
+          <p style={{ whiteSpace: 'pre-wrap' }}>{data.対象.replace(/\\n/g, '\n')}</p>
         </section>
 
         <section className="my-4">
           <h4>作成プロセス</h4>
           <ul className="list-group">
-            <li className="list-group-item"><strong>開発方法論:</strong> {data.作成プロセス && data.作成プロセス.開発方法論}</li>
-            <li className="list-group-item"><strong>検索戦略と選定基準:</strong> {data.作成プロセス && data.作成プロセス.検索戦略と選定基準}</li>
+            <li className="list-group-item" style={{ whiteSpace: 'pre-wrap' }}><strong>開発方法論:</strong> {data.作成プロセス && data.作成プロセス.開発方法論.replace(/\\n/g, '\n')}</li>
+            <li className="list-group-item" style={{ whiteSpace: 'pre-wrap' }}><strong>検索戦略と選定基準:</strong> {data.作成プロセス && data.作成プロセス.検索戦略と選定基準.replace(/\\n/g, '\n')}</li>
           </ul>
         </section>
 
@@ -51,10 +51,10 @@ const GuidelinePage = ({ data }) => {
             <div key={index} className="card mb-3">
               <div className="card-header">Clinical Question: {rec.cq}</div>
               <div className="card-body">
-                <p className="card-text"><strong>推奨文:</strong> {rec.recommendation_statement}</p>
+                <p className="card-text" style={{ whiteSpace: 'pre-wrap' }}><strong>推奨文:</strong> {rec.recommendation_statement.replace(/\\n/g, '\n')}</p>
                 <p className="card-text"><strong>推奨の強さ:</strong> {rec.strength_of_recommendation}</p>
                 <p className="card-text"><strong>エビデンスのレベル:</strong> {rec.level_of_evidence}</p>
-                {rec.remarks && <p className="card-text"><strong>補足事項:</strong> {rec.remarks}</p>}
+                {rec.remarks && <p className="card-text" style={{ whiteSpace: 'pre-wrap' }}><strong>補足事項:</strong> {rec.remarks.replace(/\\n/g, '\n')}</p>}
               </div>
             </div>
           ))}
@@ -66,7 +66,7 @@ const GuidelinePage = ({ data }) => {
             <div key={index} className="card mb-3">
               <div className="card-header">{point.subtitle}</div>
               <div className="card-body">
-                <p className="card-text">{point.content}</p>
+                <p className="card-text" style={{ whiteSpace: 'pre-wrap' }}>{point.content.replace(/\\n/g, '\n')}</p>
               </div>
             </div>
           ))}
@@ -75,7 +75,7 @@ const GuidelinePage = ({ data }) => {
         {data.主要な改訂点 && (
           <section className="my-4">
             <h4>主要な改訂点</h4>
-            <p>{data.主要な改訂点}</p>
+            <p style={{ whiteSpace: 'pre-wrap' }}>{data.主要な改訂点.replace(/\\n/g, '\n')}</p>
           </section>
         )}
 

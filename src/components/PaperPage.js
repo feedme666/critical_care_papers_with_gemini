@@ -73,14 +73,24 @@ const PaperPage = ({ data }) => {
           </ul>
         </section>
 
+        <section className="paper-section">
+            <h2>要約</h2>
+            <p style={{ whiteSpace: 'pre-wrap' }}>{data.要約.replace(/\\n/g, '\n')}</p>
+          </section>
+
         <section className="my-4">
-          <h4>要約</h4>
-          <p>{data.要約}</p>
+          <h4>PICO</h4>
+          <ul className="list-group">
+            <li className="list-group-item" style={{ whiteSpace: 'pre-wrap' }}><strong>Patient:</strong> {data.PICO && data.PICO.P.replace(/\\n/g, '\n')}</li>
+            <li className="list-group-item" style={{ whiteSpace: 'pre-wrap' }}><strong>Intervention:</strong> {data.PICO && data.PICO.I.replace(/\\n/g, '\n')}</li>
+            <li className="list-group-item" style={{ whiteSpace: 'pre-wrap' }}><strong>Comparison:</strong> {data.PICO && data.PICO.C.replace(/\\n/g, '\n')}</li>
+            <li className="list-group-item" style={{ whiteSpace: 'pre-wrap' }}><strong>Outcome:</strong> {data.PICO && data.PICO.O.replace(/\\n/g, '\n')}</li>
+          </ul>
         </section>
 
         <section className="my-4">
           <h4>結果</h4>
-          <p>{data.結果}</p>
+          <p style={{ whiteSpace: 'pre-wrap' }}>{data.結果.replace(/\\n/g, '\n')}</p>
           <div style={{ maxWidth: '600px', margin: 'auto' }}>
             {data.chartData && (
               <Bar options={chartOptions} data={data.chartData} />
@@ -104,7 +114,7 @@ const PaperPage = ({ data }) => {
 
         <section className="my-4">
           <h4>考察</h4>
-          <p>{data.考察}</p>
+          <p style={{ whiteSpace: 'pre-wrap' }}>{data.考察.replace(/\\n/g, '\n')}</p>
         </section>
 
         <section className="my-4">
