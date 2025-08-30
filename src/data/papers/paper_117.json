@@ -2,10 +2,10 @@
 {
   "id": 117,
   "type": "paper",
-  "題名": "筋弛緩薬を使用しない全身麻酔下での高流量鼻カニューラ酸素療法とラリンジアルマスクによる機械換気の比較：ランダム化比較試験",
+  "題名": "筋弛緩薬を使用しない全身麻酔下での高流量鼻カニューラ酸素療法（HFNC）とラリンジアルマスクによる機械換気の比較：ランダム化比較試験",
   "original_title": "High-Flow Nasal Oxygen versus Mechanical Ventilation Through a Laryngeal Mask During General Anesthesia Without Muscle Paralysis: A Randomized Clinical Trial",
   "筆頭著者": "Luciano Frassanito",
-  "雑誌名_巻号_出版年_ページ": "Anesth Analg. 2025;XXX:00-00",
+  "雑誌名_巻号_出版年_ページ": "Anesth Analg. 2025;XXX:00-00. Online ahead of print.",
   "登録日": "2025-08-29",
   "タグ": ["呼吸器系", "麻酔", "ランダム化比較試験"],
   "要約": "本研究は、筋弛緩薬を使用しない短時間（約30分）の全身麻酔下での手術（手術的ヒステロスコピー）を受ける患者を対象に、高流量鼻カニューラ酸素療法（HFNO）がラリンジアルマスク（LMA）を介した機械換気に対して、術中の呼吸サポート成功率において非劣性であるかを評価した単施設ランダム化非劣性試験である。主要評価項目は、処置全体を通してSpO2 94%以上、経皮的CO2 65mmHg未満を維持し、かつ救急気道確保が不要であった割合と定義された。",
@@ -81,6 +81,6 @@
       }
     ]
   },
-  "pmid": null,
-  "pubmed_link": null
+  "pmid": 40690380,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40690380/"
 }
