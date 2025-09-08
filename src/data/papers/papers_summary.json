@@ -509,7 +509,7 @@
     "original_title": "The effect of tranexamic acid on postpartum bleeding in women with moderate and severe anaemia (WOMAN-2): an international, randomised, double-blind, placebo-controlled trial",
     "雑誌名_巻号_出版年_ページ": "Lancet 2024; 404: 1645-56",
     "pmid": 39461792,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39461792"
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gove/39461792"
   },
   {
     "id": 73,
@@ -846,5 +846,21 @@
     "雑誌名巻号出版年_ページ": "Anesth Analg. 2025;XXX:00-00. Online ahead of print",
     "pmid": 40690380,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40690380/"
+  },
+  {
+    "id": 118,
+    "登録日": "2025-08-30",
+    "original_title": "Society of Critical Care Medicine Guidelines on Adult Critical Care Ultrasonography: Focused Update 2024",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb 1;53(2):e447-e458.",
+    "pmid": 38381044,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38381044"
+  },
+  {
+    "id": 120,
+    "登録日": "2025-09-07",
+    "original_title": "Society of Critical Care Medicine Guidelines on Family-Centered Care for Adult ICUs: 2024",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb;53(2):e465-e482",
+    "pmid": null,
+    "pubmed_link": null
   }
 ]
