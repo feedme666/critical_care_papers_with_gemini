@@ -60,9 +60,18 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
                 <h4>結果</h4>
                 <p>{paper.結果}</p>
                 <div style={{ maxWidth: '600px', margin: 'auto' }}>
-                    {paper.chartData && (
-                        <Bar options={chartOptions} data={paper.chartData} />
-                    )}
+                  {/* 新しい 'charts' 配列形式に対応 */}
+                  {paper.charts && Array.isArray(paper.charts) && paper.charts.map((chart, index) => (
+                    <div key={index} className="mb-4">
+                      <h5>{chart.title}</h5>
+                      <Bar options={{...chartOptions, plugins: {...chartOptions.plugins, title: {...chartOptions.plugins.title, text: chart.title}}}} data={chart.chartData} />
+                    </div>
+                  ))}
+
+                  {/* 古い 'chartData' オブジェクト形式にフォールバック */}
+                  {!paper.charts && paper.chartData && (
+                    <Bar options={chartOptions} data={paper.chartData} />
+                  )}
                 </div>
             </section>
         )}

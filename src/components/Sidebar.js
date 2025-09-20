@@ -1,14 +1,7 @@
 import React from 'react';
-import { useFilter } from '../context/FilterContext';
 import './Sidebar.css';
 
-const Sidebar = () => {
-  const {
-    selectedTags,
-    setSelectedTags,
-    selectedYear,
-    setSelectedYear,
-  } = useFilter();
+const Sidebar = ({ selectedTags, setSelectedTags, selectedYear, setSelectedYear, radioNamePrefix = '' }) => {
 
   const allTags = {
     "臓器・疾患別": ["呼吸器系", "循環器系", "腎尿路系", "脳神経系", "消化器系", "内分泌・代謝系", "血液・免疫系", "皮膚・軟部組織系", "感染・炎症系", "外傷", "医療安全・倫理系", "その他"],
@@ -56,7 +49,7 @@ const Sidebar = () => {
             <input
               className="form-check-input"
               type="radio"
-              name="registrationYear"
+              name={`${radioNamePrefix}registrationYear`}
               id={`year-${year}`}
               value={year}
               checked={selectedYear === year}

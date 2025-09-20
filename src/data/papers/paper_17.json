@@ -17,25 +17,52 @@
   "結果": "20人の患者が解析対象となった。吸気努力はNIVがHFNOよりも有意に低く（sPTPes 196 cmH2O s/min [116-234] vs. 220 [178-327], p < 0.001）、一回換気量はNIVがHFNOよりも有意に大きかった（8.4 mL/kg [6.7-9.9] vs. 6.9 [5.3-8.6], p=0.005）。NIV下での背側領域換気量の有意な増加は見られなかった。",
   "pmid": 40341100,
   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40341100/",
-  "chartData": {
-    "labels": ["NIV", "HFNO"],
-    "datasets": [
-      {
-        "label": "吸気努力 (sPTPes cmH2O s/min)",
-        "data": [196, 220],
-        "backgroundColor": ["rgba(75, 192, 192, 0.6)", "rgba(153, 102, 255, 0.6)"],
-        "borderColor": ["rgba(75, 192, 192, 1)", "rgba(153, 102, 255, 1)"],
-        "borderWidth": 1
-      },
-      {
-        "label": "一回換気量 (mL/kg)",
-        "data": [8.4, 6.9],
-        "backgroundColor": ["rgba(255, 99, 132, 0.6)", "rgba(54, 162, 235, 0.6)"],
-        "borderColor": ["rgba(255, 99, 132, 1)", "rgba(54, 162, 235, 1)"],
-        "borderWidth": 1
+  "charts": [
+    {
+      "title": "吸気努力 (sPTPes cmH2O s/min)",
+      "chartData": {
+        "labels": ["吸気努力"],
+        "datasets": [
+          {
+            "label": "NIV",
+            "data": [196],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "HFNO",
+            "data": [220],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
       }
-    ]
-  },
+    },
+    {
+      "title": "一回換気量 (mL/kg)",
+      "chartData": {
+        "labels": ["一回換気量"],
+        "datasets": [
+          {
+            "label": "NIV",
+            "data": [8.4],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "HFNO",
+            "data": [6.9],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    }
+  ],
   "考察": "本研究は、抜管後の再挿管リスクが高い患者において、予防的NIVがHFNOと比較して吸気努力を減少させ、一回換気量を増加させることを示した。これらの生理学的効果は、NIVが再挿管を予防する臨床的利点を媒介している可能性がある。この知見は、抜管後の呼吸管理戦略を最適化する上で重要である。",
   "批判的吟味": {
     "title": "批判的吟味",
