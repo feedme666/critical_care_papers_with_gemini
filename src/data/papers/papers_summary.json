@@ -18,7 +18,7 @@
   {
     "id": 16,
     "登録日": "2025-03-01",
-    "original_title": "Effect of an intensive care unit virtual reality intervention on relatives' mental health distress: a multicenter, randomized controlled trial",
+    "original_title": "Effect of an intensive care unit virtual reality intervention on relatives''' mental health distress: a multicenter, randomized controlled trial",
     "雑誌名_巻号_出版年_ページ": "Crit Care. 2025; 29:62",
     "pmid": 39910674,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39910674/"
@@ -346,7 +346,7 @@
   {
     "id": 51,
     "登録日": "2025-07-10",
-    "original_title": "A Crossover Trial of Hospital-Wide Lactated Ringer's Solution versus Normal Saline",
+    "original_title": "A Crossover Trial of Hospital-Wide Lactated Ringer'''s Solution versus Normal Saline",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Jun 12;392(24):2233-2243.",
     "pmid": 40503714,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40503714"
@@ -562,7 +562,7 @@
   {
     "id": 79,
     "登録日": "2024-03-21",
-    "original_title": "ACETATE RINGER'S SOLUTION VERSUS NORMAL SALINE SOLUTION IN SEPSIS: A RANDOMIZED, CONTROLLED TRIAL",
+    "original_title": "ACETATE RINGER'''S SOLUTION VERSUS NORMAL SALINE SOLUTION IN SEPSIS: A RANDOMIZED, CONTROLLED TRIAL",
     "雑誌名_巻号_出版年_ページ": "SHOCK, Vol. 61, No. 4, pp. 520-526, 2024",
     "pmid": 38369528,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38369528"
@@ -770,7 +770,7 @@
   {
     "id": 107,
     "登録日": "2024-08-02",
-    "original_title": "Tranexamic Acid in Patients Undergoing Liver Resection: The HeLiX Randomized Clinical Trial",
+    "original_title": "Vitamin K Antagonist Reversal for Urgent Surgery Using 4-Factor Prothrombin Complex Concentrates: A Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. 2024 Oct 1;332(13):1080-1089.",
     "pmid": 39158894,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39158894"
@@ -860,15 +860,32 @@
     "登録日": "2025-09-07",
     "original_title": "Society of Critical Care Medicine Guidelines on Family-Centered Care for Adult ICUs: 2024",
     "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Feb;53(2):e465-e482",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 39982184,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982184/"
   },
   {
     "id": 121,
     "登録日": "2025-09-20",
     "original_title": "Alteplase for Acute Ischemic Stroke at 4.5 to 24 Hours: The HOPE Randomized Clinical Trial",
     "雑誌名_巻号_出版年_ページ": "JAMA. Published online August 7, 2025. doi:10.1001/jama.2025.12063",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 40773205,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40773205/"
+  },
+  {
+    "id": 122,
+    "登録日": "2025-09-20",
+    "original_title": "Immediate “sipping” vs. delayed oral fluid intake after extubation：A randomized controlled trial",
+    "雑誌名_巻号_出版年_ページ": "Intensive Care Med. 2025;51:1638-1648",
+    "pmid": 40780083,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40780083/"
+  },
+  {
+    "id": 123,
+    "登録日": "2025-09-21",
+    "original_title": "Effect of lateral versus supine positioning on hypoxaemia in sedated adults: multicentre randomised controlled trial",
+    "雑誌名_巻号_出版年_ページ": "BMJ. 2025;390:e084539",
+    "pmid": 40829895,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40829895/"
+
   }
 ]
