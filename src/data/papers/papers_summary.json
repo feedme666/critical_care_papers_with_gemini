@@ -874,8 +874,8 @@
   {
     "id": 122,
     "登録日": "2025-09-20",
-    "original_title": "Immediate “sipping” vs. delayed oral fluid intake after extubation：A randomized controlled trial",
-    "雑誌名_巻号_出版年_ページ": "Intensive Care Med. 2025;51:1638-1648",
+    "original_title": "Early use of norepinephrine in high-risk patients undergoing major abdominal surgery: a randomized controlled trial",
+    "雑誌名_巻号_出版年_ページ": "Anesthesiology. 2025; doi:10.1097/ALN.0000000000005704",
     "pmid": 40780083,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40780083/"
   },
@@ -887,5 +887,21 @@
     "pmid": 40829895,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40829895/"
 
+  },
+  {
+    "id": 124,
+    "登録日": "2025-09-21",
+    "original_title": "Dapagliflozin in Patients Hospitalized for Heart Failure: Primary Results of the DAPA ACT HF-TIMI 68 Randomized Clinical Trial and Meta-Analysis of Sodium-Glucose Cotransporter-2 Inhibitors in Patients Hospitalized for Heart Failure",
+    "雑誌名_巻号_出版年_ページ": "Circulation. 2025",
+    "pmid": null,
+    "pubmed_link": null
+  },
+  {
+    "id": 125,
+    "登録日": "2025-09-21",
+    "original_title": "Digitoxin in Patients with Heart Failure and Reduced Ejection Fraction",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025",
+    "pmid": null,
+    "pubmed_link": null
   }
 ]
