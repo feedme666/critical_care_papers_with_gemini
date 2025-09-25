@@ -1,3 +1,4 @@
+
 [
   {
     "id": 10,
@@ -18,7 +19,7 @@
   {
     "id": 16,
     "登録日": "2025-03-01",
-    "original_title": "Effect of an intensive care unit virtual reality intervention on relatives''' mental health distress: a multicenter, randomized controlled trial",
+    "original_title": "Effect of an intensive care unit virtual reality intervention on relatives'''' mental health distress: a multicenter, randomized controlled trial",
     "雑誌名_巻号_出版年_ページ": "Crit Care. 2025; 29:62",
     "pmid": 39910674,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39910674/"
@@ -346,7 +347,7 @@
   {
     "id": 51,
     "登録日": "2025-07-10",
-    "original_title": "A Crossover Trial of Hospital-Wide Lactated Ringer'''s Solution versus Normal Saline",
+    "original_title": "A Crossover Trial of Hospital-Wide Lactated Ringer''''s Solution versus Normal Saline",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Jun 12;392(24):2233-2243.",
     "pmid": 40503714,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40503714"
@@ -562,7 +563,7 @@
   {
     "id": 79,
     "登録日": "2024-03-21",
-    "original_title": "ACETATE RINGER'''S SOLUTION VERSUS NORMAL SALINE SOLUTION IN SEPSIS: A RANDOMIZED, CONTROLLED TRIAL",
+    "original_title": "ACETATE RINGER''''S SOLUTION VERSUS NORMAL SALINE SOLUTION IN SEPSIS: A RANDOMIZED, CONTROLLED TRIAL",
     "雑誌名_巻号_出版年_ページ": "SHOCK, Vol. 61, No. 4, pp. 520-526, 2024",
     "pmid": 38369528,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38369528"
@@ -886,22 +887,29 @@
     "雑誌名_巻号_出版年_ページ": "BMJ. 2025;390:e084539",
     "pmid": 40829895,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40829895/"
-
   },
   {
     "id": 124,
     "登録日": "2025-09-21",
     "original_title": "Dapagliflozin in Patients Hospitalized for Heart Failure: Primary Results of the DAPA ACT HF-TIMI 68 Randomized Clinical Trial and Meta-Analysis of Sodium-Glucose Cotransporter-2 Inhibitors in Patients Hospitalized for Heart Failure",
-    "雑誌名_巻号_出版年_ページ": "Circulation. 2025",
-    "pmid": null,
-    "pubmed_link": null
+    "雑誌名_巻号_出版年_ページ": "Circulation. 2025. Online ahead of print.",
+    "pmid": 40884036,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40884036/"
   },
   {
     "id": 125,
     "登録日": "2025-09-21",
     "original_title": "Digitoxin in Patients with Heart Failure and Reduced Ejection Fraction",
-    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025",
-    "pmid": null,
-    "pubmed_link": null
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Sep 25;393(12):1155-1165.",
+    "pmid": 40879434,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40879434/"
+  },
+  {
+    "id": 126,
+    "登録日": "2025-09-24",
+    "original_title": "Effect of Low-Dose Ketamine Infusion in the Intensive Care Unit on Postoperative Opioid Consumption and Traumatic Memories After Hospital Discharge: A Randomized Controlled Trial",
+    "雑誌名_巻号_出版年_ページ": "Anesth Analg. 2025 Sep;141(3):598-607.",
+    "pmid": 39908192,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39908192/"
   }
 ]
