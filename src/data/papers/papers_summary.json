@@ -1,4 +1,3 @@
-
 [
   {
     "id": 10,
@@ -19,7 +18,7 @@
   {
     "id": 16,
     "登録日": "2025-03-01",
-    "original_title": "Effect of an intensive care unit virtual reality intervention on relatives'''' mental health distress: a multicenter, randomized controlled trial",
+    "original_title": "Effect of an intensive care unit virtual reality intervention on relatives' mental health distress: a multicenter, randomized controlled trial",
     "雑誌名_巻号_出版年_ページ": "Crit Care. 2025; 29:62",
     "pmid": 39910674,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39910674/"
@@ -347,7 +346,7 @@
   {
     "id": 51,
     "登録日": "2025-07-10",
-    "original_title": "A Crossover Trial of Hospital-Wide Lactated Ringer''''s Solution versus Normal Saline",
+    "original_title": "A Crossover Trial of Hospital-Wide Lactated Ringer's Solution versus Normal Saline",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Jun 12;392(24):2233-2243.",
     "pmid": 40503714,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40503714"
@@ -563,7 +562,7 @@
   {
     "id": 79,
     "登録日": "2024-03-21",
-    "original_title": "ACETATE RINGER''''S SOLUTION VERSUS NORMAL SALINE SOLUTION IN SEPSIS: A RANDOMIZED, CONTROLLED TRIAL",
+    "original_title": "ACETATE RINGER'S SOLUTION VERSUS NORMAL SALINE SOLUTION IN SEPSIS: A RANDOMIZED, CONTROLLED TRIAL",
     "雑誌名_巻号_出版年_ページ": "SHOCK, Vol. 61, No. 4, pp. 520-526, 2024",
     "pmid": 38369528,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38369528"
@@ -911,5 +910,53 @@
     "雑誌名_巻号_出版年_ページ": "Anesth Analg. 2025 Sep;141(3):598-607.",
     "pmid": 39908192,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39908192/"
+  },
+  {
+    "id": 127,
+    "登録日": "2025-10-01",
+    "original_title": "Effects of Preoxygenation With Intratracheal Suctioning During Extubation: An Alternating Cluster-Controlled Trial (INtratracheal suctioning and oxygenation AT Extubation [INNOVATE])",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025;53(00):XX-XX",
+    "pmid": 40772798,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40772798/"
+  },
+  {
+    "id": 128,
+    "登録日": "2025-10-01",
+    "original_title": "Efficacy and safety of adamgammadex for reversing rocuronium-induced deep neuromuscular block: a multicentre, randomised, double-blind, positive-controlled phase III trial",
+    "雑誌名_巻号_出版年_ページ": "Br J Anaesth. 2025;135(2):331-339",
+    "pmid": 40461346,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40461346/"
+  },
+  {
+    "id": 129,
+    "登録日": "2025-10-01",
+    "original_title": "Gabapentin for pain management following major surgery: a placebo controlled, double blind, randomized clinical trial (The GAP Study)",
+    "雑誌名_巻号_出版年_ページ": "Anesthesiology. 2025 Oct 1;143(4):851-861.",
+    "pmid": 40663783,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40663783/"
+  },
+  {
+    "id": 130,
+    "登録日": "2025-10-02",
+    "original_title": "Immediate \"sipping\" vs. delayed oral fluid intake after extubation: A randomized controlled trial",
+    "雑誌名_巻号_出版年_ページ": "J Crit Care. 2025 Aug 7:91:155212.",
+    "pmid": 40780083,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40780083/"
+  },
+  {
+    "id": 131,
+    "登録日": "2025-10-04",
+    "original_title": "KDIGO 2024 CLINICAL PRACTICE GUIDELINE FOR THE MANAGEMENT OF ANTINEUTROPHIL CYTOPLASMIC ANTIBODY (ANCA)–ASSOCIATED VASCULITIS",
+    "雑誌名_巻号_出版年_ページ": "Kidney Int. 2024;105(3S):S71–S116.",
+    "pmid": 38388102,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38388102"
+  },
+  {
+    "id": 132,
+    "登録日": "2025-10-04",
+    "original_title": "European Society of Intensive Care Medicine guidelines on end of life and palliative care in the intensive care unit",
+    "雑誌名_巻号_出版年_ページ": "Intensive Care Med (2024) 50:1740-1766",
+    "pmid": 39361081,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39361081/"
   }
 ]
