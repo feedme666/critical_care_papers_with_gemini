@@ -958,5 +958,45 @@
     "雑誌名_巻号_出版年_ページ": "Intensive Care Med (2024) 50:1740-1766",
     "pmid": 39361081,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39361081/"
+  },
+  {
+    "id": 133,
+    "登録日": "2025-10-05",
+    "original_title": "Implementing Artificial Intelligence in Critical Care Medicine: a consensus of 22",
+    "雑誌名_巻号_出版年_ページ": "Crit Care. 2025;29:290",
+    "pmid": 40629428,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40629428/"
+  },
+  {
+    "id": 134,
+    "登録日": "2025-10-05",
+    "original_title": "Association of Anaesthetists guidelines: the use of blood components and their alternatives",
+    "雑誌名_巻号_出版年_ページ": "Anaesthesia. 2025;80:425–447",
+    "pmid": 39781579,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39781579/"
+  },
+  {
+    "id": 135,
+    "登録日": "2025-10-05",
+    "original_title": "Treatment of Invasive Pulmonary Aspergillosis and Preventive and Empirical Therapy for Invasive Candidiasis in Adult Pulmonary and Critical Care Patients",
+    "雑誌名_巻号_出版年_ページ": "Am J Respir Crit Care Med. 2025 Jan;211(1):34-53",
+    "pmid": 39556361,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39556361/"
+  },
+  {
+    "id": 136,
+    "登録日": "2025-10-05",
+    "original_title": "Endovascular management of haemorrhage and vascular lesions in patients with multiple and/or severe injuries: a systematic review and clinical practice guideline update",
+    "雑誌名_巻号_出版年_ページ": "Eur J Trauma Emerg Surg. 2025;51:22",
+    "pmid": 39820621,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39820621/"
+  },
+  {
+    "id": 137,
+    "登録日": "2025-10-05",
+    "original_title": "A Focused Update to the Clinical Practice Guidelines for the Prevention and Management of Pain, Anxiety, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Mar;53(3):e711-e727",
+    "pmid": 39982143,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982143/"
   }
 ]

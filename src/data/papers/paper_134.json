@@ -1,0 +1,137 @@
+{
+  "id": 134,
+  "type": "guideline",
+  "題名": "英国麻酔科医協会ガイドライン：血液製剤とその代替品の使用法",
+  "original_title": "Association of Anaesthetists guidelines: the use of blood components and their alternatives",
+  "作成団体": "Association of Anaesthetists",
+  "雑誌名_巻号_出版年_ページ": "Anaesthesia 2025; 80: 425-447",
+  "登録日": "2025-10-05",
+  "タグ": ["血液・免疫系", "ガイドライン・提言"],
+  "概要": "このガイドラインは、周術期の血液製剤およびその代替品の最適な使用に関するエビデンスに基づいた推奨事項を提供することを目的としています。",
+  "対象": "麻酔科医、周術期医療に関わる医師、および関連する医療専門家。",
+  "作成プロセス": {
+    "開発方法論": "専門家による多分野のワーキングパーティが、対象を絞った文献レビューを行い、3ラウンドのデルファイ法を用いてガイドラインを作成。",
+    "検索戦略と選定基準": "MEDLINE, EMBASE, CINAHL, CENTRAL, Transfusion Evidence Libraryで、\"blood\", \"transfusion\", \"haemorrhage\", \"bleeding\", \"peri-operative\"などのキーワードで検索。"
+  },
+  "推奨事項": {
+    "title": "主要な推奨事項",
+    "recommendations": [
+      {
+        "cq": "術前ヘモグロビン測定",
+        "recommendation_statement": "全ての大手術予定患者は、手術登録前にヘモグロビン濃度を測定すべきである。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "術前貧血の評価と管理は患者血液マネジメントの重要な要素である。"
+      },
+      {
+        "cq": "インフォームド・コンセント",
+        "recommendation_statement": "輸血が予測される場合、輸血とその代替法について患者と話し合い、同意を地域のプロトコルに従って文書化すべきである。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "患者の自己決定権を尊重する。"
+      },
+      {
+        "cq": "周術期の抗凝固薬管理",
+        "recommendation_statement": "周術期の抗凝固薬の管理は、出血リスクと血栓症リスクのバランスをとるべきである。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "個々の患者のリスク評価が重要となる。"
+      },
+      {
+        "cq": "血液温存療法",
+        "recommendation_statement": "出血があり、血液損失が500mlを超える可能性がある、または献血が受けられない患者には、セルサルベージと抗線溶薬（トラネキサム酸など）の使用が推奨される。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "同種血輸血を回避するための積極的な戦略。"
+      },
+      {
+        "cq": "医原性貧血の最小化",
+        "recommendation_statement": "血液サンプリングを適切に管理し、医原性の貧血を最小限に抑える。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "特に集中治療室での頻回な採血に注意が必要。"
+      },
+      {
+        "cq": "産科出血の管理",
+        "recommendation_statement": "産科出血の早期認識は不可欠であり、累積的に測定し、明確な介入と多職種チームの関与へのエスカレーションプランにつなげるべきである。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "産科出血は急速に進行する可能性があるため、迅速な対応が求められる。"
+      },
+      {
+        "cq": "大出血プロトコル",
+        "recommendation_statement": "すべての施設は、定期的に監査・見直しをされる大出血プロトコルを持つべきである。簡潔かつ対象を絞り、血液製剤の即時放出とプロトコル化された投与を可能にすべきである。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "標準化された対応が、混乱を防ぎ、アウトカムを改善する。"
+      },
+      {
+        "cq": "外科的ダメージコントロール",
+        "recommendation_statement": "緊急時には、出血が制御されるまで、ダメージコントロール/近位制御戦略の外科的実施が必要になる場合がある。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "生理的破綻を防ぐための重要な戦略。"
+      },
+      {
+        "cq": "緊急時のO型赤血球",
+        "recommendation_statement": "生命を脅かす出血の場合に備え、O型赤血球を臨床エリアですぐに利用できるようにすべきである。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "ユニバーサルドナー血液の確保は救命に不可欠。"
+      },
+      {
+        "cq": "外傷蘇生",
+        "recommendation_statement": "外傷による大出血中は、赤血球と新鮮凍結血漿の輸血を優先すべきである。著明な低血圧があり、血液製剤がすぐに利用できない場合を除き、晶質液は避けるべきである。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "希釈性凝固障害を避けるためのバランス蘇生の原則。"
+      },
+      {
+        "cq": "小児輸血",
+        "recommendation_statement": "小児への血液製剤は、単位ではなく容量（ml/kg）で処方すべきである。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "体格差が大きい小児では、体重に基づいた投与が安全。"
+      },
+      {
+        "cq": "持続する出血のモニタリング",
+        "recommendation_statement": "活動性出血が続く患者は、凝固、フィブリノゲン、血小板数/機能について、ポイントオブケアまたは定期的な検査室検査で監視すべきである。",
+        "strength_of_recommendation": "N/A",
+        "level_of_evidence": "N/A",
+        "remarks": "目標指向型の凝固管理が重要。"
+      }
+    ]
+  },
+  "ガイドラインの批判的吟味": {
+    "title": "ガイドラインの批判的吟味 (AGREE IIの観点を含む)",
+    "points": [
+      {
+        "subtitle": "範囲と目的",
+        "content": "本ガイドラインは、麻酔科医を対象に血液製剤とその代替品の使用に関するエビデンスに基づく推奨を提供するという目的が明確に述べられている。対象利用者も適切に定義されている。"
+      },
+      {
+        "subtitle": "ステークホルダーの関与",
+        "content": "麻酔、血液学、産科、外科など、様々な分野の専門家からなる多職種ワーキングパーティが招集され、複数の専門学会を代表している。患者の視点や価値観は患者血液マネジメントの中で言及されているが、ガイドライン作成プロセスへの直接的な患者参加は明記されていない。"
+      },
+      {
+        "subtitle": "作成の厳密さ",
+        "content": "対象を絞った文献レビューと3ラウンドのデルファイ法を用いて作成されている。検索戦略も記載されている。可能な限りシステマティックレビュー、メタアナリシス、RCTに基づいているが、エビデンスが限られる領域では観察研究や実用的なガイダンスも含まれている。"
+      },
+      {
+        "subtitle": "明確さ",
+        "content": "推奨事項は明確かつ簡潔で、容易に識別できる。文書の構成も論理的である。"
+      },
+      {
+        "subtitle": "適用性",
+        "content": "外傷、産科、心臓外科など、様々な臨床状況に対する具体的な推奨が提供されている。地域のプロトコルや定期的な監査の必要性など、適用の促進要因や障壁についても議論されている。"
+      },
+      {
+        "subtitle": "編集の独立性",
+        "content": "本ガイドラインは麻酔科医協会によって作成されたものである。著者の利益相反については提供されたテキストでは明確に述べられていないが、プロセスは専門学会主導であるように見える。"
+      }
+    ]
+  },
+  "主要な改訂点": null,
+  "pmid": 39781579,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39781579/"
+}
