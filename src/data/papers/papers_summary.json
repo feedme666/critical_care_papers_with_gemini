@@ -388,8 +388,8 @@
     "登録日": "2025-07-20",
     "original_title": "Early Tirofiban Infusion after Intravenous Thrombolysis for Stroke",
     "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2025 Jul 4. doi: 10.1056/NEJMoa2503678.",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 40616232,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40616232/"
   },
   {
     "id": 57,
@@ -998,5 +998,61 @@
     "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Mar;53(3):e711-e727",
     "pmid": 39982143,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982143/"
+  },
+  {
+    "id": 138,
+    "登録日": "2025-10-06",
+    "original_title": "Clinical Policy: Critical Issues in the Management of Adult Patients Requiring Endotracheal Intubation in the Emergency Department",
+    "雑誌名巻号出版年_ページ": "Annals of Emergency Medicine. 2025 Aug;86(2):e29-e68.",
+    "pmid": 40685219,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40685219/"
+  },
+  {
+    "id": 139,
+    "登録日": "2025-10-06",
+    "original_title": "Palliative and End-of-Life Care During Critical Cardiovascular Illness: A Scientific Statement From the American Heart Association",
+    "雑誌名_巻号_出版年_ページ": "Circulation. 2025;151:e1–e29",
+    "pmid": 40371484,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40371484/"
+  },
+  {
+    "id": 140,
+    "登録日": "2025-10-06",
+    "original_title": "Environmental Sustainability in ICUs: A Report From the Society of Critical Care Medicine Sustainability Task Force",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Mar;53(3):e632-e644",
+    "pmid": 39982135,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982135/"
+  },
+  {
+    "id": 141,
+    "登録日": "2025-10-06",
+    "original_title": "Evidence-based, cost-effective management of large bowel obstruction: An algorithm of the Journal of Trauma and Acute Care Surgery Emergency General Surgery Algorithms Work Group",
+    "雑誌名_巻号_出版年_ページ": "J Trauma Acute Care Surg. 2025;99(4):514-517",
+    "pmid": 40802490,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40802490/"
+  },
+  {
+    "id": 142,
+    "登録日": "2025-10-06",
+    "original_title": "The Extracorporeal Life Support Organization (ELSO) 2024 Guidelines for Adult and Pediatric Extracorporeal Membrane Oxygenation",
+    "雑誌名_巻号_出版年_ページ": "ASAIO Journal. 2024;70:1–115",
+    "pmid": 38895400,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38895400/"
+  },
+  {
+    "id": 144,
+    "登録日": "2025-10-08",
+    "original_title": "Management of severe acute encephalopathy in the ICU: an expert consensus statement from the french society of intensive care medicine",
+    "雑誌名_巻号_出版年_ページ": "Annals of Intensive Care. 2025;15(1):37",
+    "pmid": 40113665,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40113665"
+  },
+  {
+    "id": 143,
+    "登録日": "2025-10-06",
+    "original_title": "Palliative Care and Advanced Cardiovascular Disease in Adults: Not Just End-of-Life Care: A Scientific Statement From the American Heart Association",
+    "雑誌名_巻号_出版年_ページ": "Circulation. 2025;151:e1030-e1042",
+    "pmid": null,
+    "pubmed_link": null
   }
 ]
