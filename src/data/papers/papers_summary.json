@@ -835,7 +835,7 @@
     "id": 116,
     "登録日": "2025-08-29",
     "original_title": "Economic analysis of high-flow nasal oxygen compared with noninvasive ventilation in patients with acute respiratory failure: results from the RENOVATE randomized clinical trial",
-    "雑誌名巻号出版年_ページ": "Respir Med. 2025;247:108270.",
+    "雑誌名_巻号_出版年_ページ": "Respir Med. 2025;247:108270.",
     "pmid": 40744283,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40744283/"
   },
@@ -843,7 +843,7 @@
     "id": 117,
     "登録日": "2025-08-29",
     "original_title": "High-Flow Nasal Oxygen versus Mechanical Ventilation Through a Laryngeal Mask During General Anesthesia Without Muscle Paralysis: A Randomized Clinical Trial",
-    "雑誌名巻号出版年_ページ": "Anesth Analg. 2025;XXX:00-00. Online ahead of print",
+    "雑誌名_巻号_出版年_ページ": "Anesth Analg. 2025;XXX:00-00. Online ahead of print",
     "pmid": 40690380,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40690380/"
   },
@@ -1003,7 +1003,7 @@
     "id": 138,
     "登録日": "2025-10-06",
     "original_title": "Clinical Policy: Critical Issues in the Management of Adult Patients Requiring Endotracheal Intubation in the Emergency Department",
-    "雑誌名巻号出版年_ページ": "Annals of Emergency Medicine. 2025 Aug;86(2):e29-e68.",
+    "雑誌名_巻号_出版年_ページ": "Annals of Emergency Medicine. 2025 Aug;86(2):e29-e68.",
     "pmid": 40685219,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40685219/"
   },
@@ -1118,5 +1118,13 @@
     "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025 Mar;53(3):e690-e698",
     "pmid": 39982130,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982130/"
+  },
+  {
+    "id": 153,
+    "登録日": "2025-10-19",
+    "original_title": "Effects of Increased Cardiopulmonary Bypass Pump Flow on Renal Filtration, Perfusion, Oxygenation, and Tubular Injury in Cardiac Surgical Patients: A Randomized Controlled Trial",
+    "雑誌名_巻号_出版年_ページ": "Anesthesiology. 2025;143:906-16",
+    "pmid": 40622858,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40622858"
   }
 ]
