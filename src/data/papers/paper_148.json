@@ -1,0 +1,91 @@
+{
+  "id": 148,
+  "type": "guideline",
+  "題名": "急性冠症候群患者の管理に関する2025 ACC/AHA/ACEP/NAEMSP/SCAIガイドライン",
+  "original_title": "2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+  "作成団体": "American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+  "雑誌名_巻号_出版年_ページ": "Circulation. 2025;151:e771-e862",
+  "登録日": "2025-10-18",
+  "タグ": [
+    "循環器系",
+    "ガイドライン・提言"
+  ],
+  "概要": "このガイドラインは、急性冠症候群（ACS）患者の管理に関する新しいエビデンスを組み込むことを目的としている。2013年のST上昇型心筋梗塞（STEMI）ガイドライン、2014年の非ST上昇型急性冠症候群（NSTE-ACS）ガイドライン、およびその後の関連アップデート以降の新しいエビデンスを統合し、ACS患者管理のための包括的な推奨事項を提供する。この文書は、以前の複数のガイドラインを廃止・置換するものである。",
+  "対象": "急性冠症候群（ACS）の患者",
+  "作成プロセス": {
+    "開発方法論": "2023年7月から2024年4月にかけて包括的な文献検索が実施された。臨床研究、システマティックレビュー、メタアナリシス、およびその他のエビデンスが、MEDLINE（PubMed経由）、EMBASE、Cochrane Library、Agency for Healthcare Research and Qualityなどのデータベースから特定された。以前のガイドラインの多くの推奨事項が新しいエビデンスで更新され、新しい推奨事項が作成された。",
+    "検索戦略と選定基準": "検索は、ヒトを対象とした英語で発表された文献に限定された。キーワードには、「acute coronary syndrome(s)」「angina, unstable」「anticoagulants」「aspirin」「atrial fibrillation」「cardiovascular diseases」「coronary artery disease」「coronary syndrome」「emergency medical services」「fibrinolytic agents」「hemorrhage」「major adverse cardiovascular events」「morphine」「myocardial infarction」「non-ST-segment elevation myocardial infarction」「percutaneous coronary intervention」「prehospital」「revascularization」「risk」「ST-segment elevation myocardial infarction」「time factors」「treatment outcome」などが含まれた。"
+  },
+  "推奨事項": {
+    "title": "主要な推奨事項",
+    "recommendations": [
+      {
+        "cq": "ACS患者における二重抗血小板療法（DAPT）の推奨は何か？",
+        "recommendation_statement": "ACS患者にはDAPTが推奨される。PCIを受けるACS患者では、クロピドグレルよりもチカグレロルまたはプラスグレルが推奨される。血管造影のタイミングが24時間以上先の予定である非ST上昇型ACS患者では、主要な有害心血管イベントを減らすために、クロピドgrelまたはチカグレロルによるアップストリーム治療が考慮されることがある。",
+        "strength_of_recommendation": "強い",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "ACS患者におけるDAPTの期間は？",
+        "recommendation_statement": "出血リスクが高くないACS患者では、アスピリンと経口P2Y12阻害薬によるDAPTが、デフォルト戦略として少なくとも12ヶ月間適応となる。出血リスクを低減するためのいくつかの戦略が利用可能である。",
+        "strength_of_recommendation": "強い",
+        "level_of_evidence": "A",
+        "remarks": "出血リスク低減戦略には、プロトンポンプ阻害薬の併用、チカグレロル単剤療法への移行、長期抗凝固療法が必要な患者におけるアスピリンの中止などが含まれる。"
+      },
+      {
+        "cq": "ACS患者における脂質管理の推奨は？",
+        "recommendation_statement": "すべてのACS患者に高強度スタチン療法が推奨され、共存するエゼチミブの開始も選択肢となる。最大耐用量のスタチンを服用中の患者でLDL-Cが70 mg/dL以上の場合、非スタチン系脂質低下薬が推奨される。LDL-Cが55～70 mg/dL未満の場合でも、脂質低下療法の強化が合理的である。",
+        "strength_of_recommendation": "強い",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "虚血イベントのリスクが中等度から高い非ST上昇型ACS患者における侵襲的アプローチの推奨は？",
+        "recommendation_statement": "入院中に血行再建を意図した侵襲的アプローチが、主要な有害心血管イベントを減らすために推奨される。",
+        "strength_of_recommendation": "強い",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "PCIを受けるACS患者における手技的戦略の推奨は？",
+        "recommendation_statement": "PCIを受けるACS患者では、出血、血管合併症、死亡を減らすために大腿動脈アプローチよりも橈骨動脈アプローチが推奨される。また、複雑な冠動脈病変を持つACS患者のPCIをガイドするために血管内イメージングが推奨される。",
+        "strength_of_recommendation": "強い",
+        "level_of_evidence": "A",
+        "remarks": ""
+      }
+    ]
+  },
+  "ガイドラインの批判的吟味": {
+    "title": "ガイドラインの批判的吟味 (AGREE IIの観点を含む)",
+    "points": [
+      {
+        "subtitle": "範囲と目的",
+        "content": "このガイドラインは、急性冠症候群（ACS）患者の管理という明確な臨床領域を対象としている。目的、対象患者、および意図する利用者が明確に定義されている。"
+      },
+      {
+        "subtitle": "利害関係者の関与",
+        "content": "循環器内科医、心臓血管外科医、救急医、臨床薬剤師、看護師、患者代表など、多様な専門家からなる学際的な作成委員会によって作成された。複数の関連学術団体が協力・支持しており、幅広い利害関係者の関与が示されている。"
+      },
+      {
+        "subtitle": "作成の厳密さ",
+        "content": "システマティックな文献検索の方法、エビデンスの分類（COR/LOE）、および推奨事項の策定プロセスが明確に記述されている。エビデンスから推奨事項へのリンクは明確であり、外部査読も行われている。"
+      },
+      {
+        "subtitle": "明確さ",
+        "content": "推奨事項は具体的かつ明確に記載されている。「Top Take-Home Messages」セクションは、主要な推奨事項を簡潔に要約しており、臨床医にとって非常に分かりやすい。表や図も効果的に活用されている。"
+      },
+      {
+        "subtitle": "適用可能性",
+        "content": "ガイドラインは、実装を容易にするための具体的な推奨事項（例：DAPT戦略、脂質管理目標）を提示している。しかし、高度な治療（例：PCI、CABG）へのアクセスに関する格差など、実装における潜在的な障壁についても言及している。"
+      },
+      {
+        "subtitle": "編集の独立性",
+        "content": "ACC/AHAは商業的支援なしにガイドラインを作成・公表しており、作成委員会のメンバーは利益相反に関する厳格な方針に従っている。編集の独立性は確保されていると考えられる。"
+      }
+    ]
+  },
+  "主要な改訂点": "このガイドラインは、「2016 ACC/AHA Guideline Focused Update on Duration of Dual Antiplatelet Therapy in Patients With Coronary Artery Disease」を廃止し、置き換えるものである。",
+  "pmid": 40014670,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40014670/"
+}
