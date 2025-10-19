@@ -18,7 +18,8 @@ function App() {
           <main className="flex-grow-1">
             <Routes>
               <Route path="/" element={<HomePage />} />
-              <Route path="/paper/:id" element={<PaperOrGuidelinePage />} />
+              {/* /paper/:id でもHomePageをレンダリングし、モーダル表示を制御 */}
+              <Route path="/paper/:id" element={<HomePage />} />
             </Routes>
           </main>
           <Footer />

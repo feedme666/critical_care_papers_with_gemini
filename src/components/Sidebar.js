@@ -1,7 +1,7 @@
 import React from 'react';
 import './Sidebar.css';
 
-const Sidebar = ({ selectedTags, setSelectedTags, selectedYear, setSelectedYear, radioNamePrefix = '' }) => {
+const Sidebar = ({ selectedTags, selectedYear, handleSetQuery, radioNamePrefix = '' }) => {
 
   const allTags = {
     "臓器・疾患別": ["呼吸器系", "循環器系", "腎尿路系", "脳神経系", "消化器系", "内分泌・代謝系", "血液・免疫系", "皮膚・軟部組織系", "感染・炎症系", "外傷", "医療安全・倫理系", "その他"],
@@ -9,12 +9,16 @@ const Sidebar = ({ selectedTags, setSelectedTags, selectedYear, setSelectedYear,
   };
 
   const handleTagChange = (tag) => {
-    setSelectedTags(prevSelectedTags =>
-      prevSelectedTags.includes(tag)
-        ? prevSelectedTags.filter(t => t !== tag)
-        : [...prevSelectedTags, tag]
-    );
+    const newTags = selectedTags.includes(tag)
+      ? selectedTags.filter(t => t !== tag)
+      : [...selectedTags, tag];
+    handleSetQuery('tags', newTags);
   };
+
+  const handleYearChange = (e) => {
+    const newYear = e.target.value;
+    handleSetQuery('year', newYear === 'すべて' ? '' : newYear);
+  }
 
   return (
     <div className="sidebar-sticky">
@@ -28,12 +32,12 @@ const Sidebar = ({ selectedTags, setSelectedTags, selectedYear, setSelectedYear,
                 <input
                   className="form-check-input"
                   type="checkbox"
-                  id={`tag-${tag}`}
+                  id={`tag-${tag}-${radioNamePrefix}`}
                   value={tag}
                   checked={selectedTags.includes(tag)}
                   onChange={() => handleTagChange(tag)}
                 />
-                <label className="form-check-label" htmlFor={`tag-${tag}`}>
+                <label className="form-check-label" htmlFor={`tag-${tag}-${radioNamePrefix}`}>
                   {tag}
                 </label>
               </div>
@@ -50,12 +54,12 @@ const Sidebar = ({ selectedTags, setSelectedTags, selectedYear, setSelectedYear,
               className="form-check-input"
               type="radio"
               name={`${radioNamePrefix}registrationYear`}
-              id={`year-${year}`}
+              id={`year-${year}-${radioNamePrefix}`}
               value={year}
               checked={selectedYear === year}
-              onChange={(e) => setSelectedYear(e.target.value)}
+              onChange={handleYearChange}
             />
-            <label className="form-check-label" htmlFor={`year-${year}`}>
+            <label className="form-check-label" htmlFor={`year-${year}-${radioNamePrefix}`}>
               {year}
             </label>
           </div>

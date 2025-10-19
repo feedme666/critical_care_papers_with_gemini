@@ -1,5 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import papers from '../data/papers';
 import { Row, Col, Button, Offcanvas, Spinner } from 'react-bootstrap';
 import { BsGridFill, BsList } from 'react-icons/bs';
@@ -7,11 +8,14 @@ import Sidebar from './Sidebar';
 import PaperList from './PaperList';
 
 const FilterablePaperList = ({ onCardClick }) => {
-  const [searchTerm, setSearchTerm] = useState('');
-  const [selectedTags, setSelectedTags] = useState([]);
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  // URLクエリからstateを初期化
+  const [searchTerm, setSearchTerm] = useState(searchParams.get('q') || '');
+  const selectedTags = searchParams.get('tags') ? searchParams.get('tags').split(',') : [];
+  const selectedYear = searchParams.get('year') || 'すべて';
+
   const [sortOrder, setSortOrder] = useState('desc');
-  const [selectedYear, setSelectedYear] = useState('すべて');
-  
   const [isLoading, setIsLoading] = useState(true);
   const [layout, setLayout] = useState('grid');
   const [showOffcanvas, setShowOffcanvas] = useState(false);
@@ -22,6 +26,22 @@ const FilterablePaperList = ({ onCardClick }) => {
     }, 500);
     return () => clearTimeout(timer);
   }, []);
+
+  const handleSetQuery = (key, value) => {
+    setSearchParams(prevParams => {
+      if (value === '' || (Array.isArray(value) && value.length === 0)) {
+        prevParams.delete(key);
+      } else {
+        prevParams.set(key, Array.isArray(value) ? value.join(',') : value);
+      }
+      return prevParams;
+    });
+  };
+
+  const handleSearchChange = (e) => {
+    setSearchTerm(e.target.value);
+    handleSetQuery('q', e.target.value);
+  }
 
   const handleShowOffcanvas = () => setShowOffcanvas(true);
   const handleCloseOffcanvas = () => setShowOffcanvas(false);
@@ -58,9 +78,8 @@ const FilterablePaperList = ({ onCardClick }) => {
       <Col md={3} className="d-none d-md-block">
         <Sidebar 
           selectedTags={selectedTags}
-          setSelectedTags={setSelectedTags}
           selectedYear={selectedYear}
-          setSelectedYear={setSelectedYear}
+          handleSetQuery={handleSetQuery}
           radioNamePrefix="desktop-"
         />
       </Col>
@@ -79,7 +98,7 @@ const FilterablePaperList = ({ onCardClick }) => {
               className="form-control"
               placeholder="キーワードで論文を検索..."
               value={searchTerm}
-              onChange={(e) => setSearchTerm(e.target.value)}
+              onChange={handleSearchChange}
             />
           </div>
           <div className="col-md-4">
@@ -118,9 +137,8 @@ const FilterablePaperList = ({ onCardClick }) => {
         <Offcanvas.Body>
           <Sidebar 
             selectedTags={selectedTags}
-            setSelectedTags={setSelectedTags}
             selectedYear={selectedYear}
-            setSelectedYear={setSelectedYear}
+            handleSetQuery={handleSetQuery}
             radioNamePrefix="mobile-"
           />
         </Offcanvas.Body>

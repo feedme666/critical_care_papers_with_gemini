@@ -1,8 +1,27 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Modal, Button, Badge } from 'react-bootstrap';
 import { Bar } from 'react-chartjs-2';
 
 const PaperDetailModal = ({ show, onHide, paper }) => {
+  const [copyStatus, setCopyStatus] = useState('URLをコピー');
+
+  useEffect(() => {
+    // モーダルが非表示になる時にボタンのテキストをリセット
+    if (!show) {
+      setTimeout(() => setCopyStatus('URLをコピー'), 300); // アニメーション後にリセット
+    }
+  }, [show]);
+
+  const handleCopyUrl = () => {
+    navigator.clipboard.writeText(window.location.href).then(() => {
+      setCopyStatus('コピーしました！');
+      setTimeout(() => setCopyStatus('URLをコピー'), 2000);
+    }, () => {
+      setCopyStatus('コピーに失敗');
+      setTimeout(() => setCopyStatus('URLをコピー'), 2000);
+    });
+  };
+
   if (!paper) return null;
 
   const chartOptions = {
@@ -21,7 +40,12 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
   return (
     <Modal show={show} onHide={onHide} size="lg" centered dialogClassName="custom-modal">
       <Modal.Header closeButton>
-        <Modal.Title>{paper.題名}</Modal.Title>
+        <div className="d-flex justify-content-between align-items-center w-100 pe-2">
+          <Modal.Title as="h5" className="mb-0">{paper.題名}</Modal.Title>
+          <Button variant="outline-primary" size="sm" onClick={handleCopyUrl} style={{ whiteSpace: 'nowrap' }}>
+            {copyStatus === 'URLをコピー' ? 'URLコピー' : copyStatus}
+          </Button>
+        </div>
       </Modal.Header>
       <Modal.Body>
         {paper.original_title && <p className="text-muted">Original Title: {paper.original_title}</p>}
@@ -134,6 +158,9 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
 
       </Modal.Body>
       <Modal.Footer>
+        <Button variant="info" onClick={handleCopyUrl}>
+          {copyStatus}
+        </Button>
         <Button variant="secondary" onClick={onHide}>
           閉じる
         </Button>
