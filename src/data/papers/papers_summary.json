@@ -269,7 +269,7 @@
     "original_title": "Implementing Artificial Intelligence in Critical Care Medicine: a consensus of 22",
     "雑誌名巻号出版年_ページ": "Crit Care. 2025;29:290",
     "pmid": 40629428,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40629428/"
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.goy/40629428/"
   },
   {
     "id": 134,
@@ -1174,5 +1174,53 @@
     "雑誌名巻号出版年_ページ": "J Trauma Acute Care Surg. 2025;99: 619-627.",
     "pmid": 40604863,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40604863/"
+  },
+  {
+    "id": 160,
+    "登録日": "2025-11-04",
+    "original_title": "Factors in the Initial Resuscitation of Patients With Severe Trauma: The FiiRST-2 Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "JAMA Netw Open. 2025 Sep 2;8(9):e2532702.",
+    "pmid": 40982282,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40982282"
+  },
+  {
+    "id": 161,
+    "登録日": "2025-11-04",
+    "original_title": "Effects of Increased Cardiopulmonary Bypass Pump Flow on Renal Filtration, Perfusion, Oxygenation, and Tubular Injury in Cardiac Surgical Patients: A Randomized Controlled Trial",
+    "雑誌名巻号出版年_ページ": "ANESTHESIOLOGY 2025; 143:906-16",
+    "pmid": 40622858,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40622858/"
+  },
+  {
+    "id": 162,
+    "登録日": "2025-11-05",
+    "original_title": "Proactive vs Reactive Treatment of Hypotension During Surgery: The PRETREAT Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "JAMA. Published online October 12, 2025.",
+    "pmid": 41076587,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41076587/"
+  },
+  {
+    "id": 163,
+    "登録日": "2025-11-05",
+    "original_title": "Individualized Perioperative Blood Pressure Management in Patients Undergoing Major Abdominal Surgery: The IMPROVE-multi Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "JAMA. Published online October 12, 2025. doi:10.1001/jama.2025.17235",
+    "pmid": 41076588,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41076588/"
+  },
+  {
+    "id": 164,
+    "登録日": "2025-11-05",
+    "original_title": "Randomized trial of activated vitamin D for acute kidney injury prevention in critically ill patients",
+    "雑誌名巻号出版年_ページ": "JCI Insight . 2025 Sep 9;10(20):e193523",
+    "pmid": 40924491,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40924491/"
+  },
+  {
+    "id": 165,
+    "登録日": "2025-11-06",
+    "original_title": "Phenylephrine Vs. Norepinephrine on the Renin-Angiotensin-Aldosterone System and Postoperative Complications in Acute Abdomen Emergency Surgery: A Randomized Controlled Trial",
+    "雑誌名巻号出版年_ページ": "Crit Care Med . 2025 Oct 22. Online ahead of print.",
+    "pmid": 41123386,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41123386/"
   }
 ]
