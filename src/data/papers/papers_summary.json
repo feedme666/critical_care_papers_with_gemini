@@ -1222,5 +1222,45 @@
     "雑誌名巻号出版年_ページ": "Crit Care Med . 2025 Oct 22. Online ahead of print.",
     "pmid": 41123386,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41123386/"
+  },
+  {
+    "id": 166,
+    "登録日": "2025-11-10",
+    "original_title": "Continuous positive airway pressure to prevent reintubation in patients recovering from cardiac surgery: A multicentre randomised clinical trial.",
+    "雑誌名巻号出版年_ページ": "Eur J Anaesthesiol. 2025 Jun 27;42(11):958-965.",
+    "pmid": 40574561,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40574561"
+  },
+  {
+    "id": 167,
+    "登録日": "2025-11-10",
+    "original_title": "Slow-Tempo Music and Delirium/Coma-Free Days Among Older Adults Undergoing Mechanical Ventilation: A Randomized Clinical Trial",
+    "雑誌名_巻号_出版年_ページ": "JAMA Intern Med. 2025 Oct 13. doi: 10.1001/jamainternmed.2025.5263. Online ahead of print.",
+    "pmid": 41082215,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41082215"
+  },
+  {
+    "id": 168,
+    "登録日": "2025-11-10",
+    "original_title": "Restrictive fluid management with early de-escalation versus usual care in critically ill patients (reduce trial): a feasibility randomized controlled trial",
+    "雑誌名_巻号_出版年_ページ": "Crit Care. 2025 Sep 25;29(1):405.",
+    "pmid": 40999428,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40999428/"
+  },
+  {
+    "id": 169,
+    "登録日": "2025-11-10",
+    "original_title": "Restrictive versus liberal oxygenation in patients undergoing cardiopulmonary bypass-assisted heart surgery: a randomised controlled trial",
+    "雑誌名_巻号_出版年_ページ": "Br J Anaesth. 2025 Aug 12;S0007-0912(25)00445-X.",
+    "pmid": 40975689,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40975689/"
+  },
+  {
+    "id": 170,
+    "登録日": "2025-11-10",
+    "original_title": "Targeted Tissue Perfusion Versus Macrocirculatory-Guided Standard Care in Patients With Septic Shock: A Randomized Clinical Trial—The TARTARE-2S Trial",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025;53:XX-XX",
+    "pmid": null,
+    "pubmed_link": null
   }
 ]
