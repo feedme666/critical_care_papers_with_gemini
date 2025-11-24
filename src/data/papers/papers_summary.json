@@ -124,8 +124,8 @@
     "登録日": "2025-08-07",
     "original_title": "Reduction of Central Venous Pressure in Elective Robotic and Laparoscopic Liver Resection：The PRESSURE Trial-A Randomized Clinical Study",
     "雑誌名巻号出版年_ページ": "Ann Surg 2025;282:210–218",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 40197483,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40197483"
   },
   {
     "id": 116,
@@ -364,8 +364,8 @@
     "登録日": "2025-10-14",
     "original_title": "Diagnosis and Management of Community-acquired Pneumonia: An Official American Thoracic Society Clinical Practice Guideline",
     "雑誌名巻号出版年_ページ": "Am J Respir Crit Care Med. Published online July 18, 2025.",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 40679934,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40679934/"
   },
   {
     "id": 146,
@@ -1020,8 +1020,8 @@
     "登録日": "2024-01-21",
     "original_title": "ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies",
     "雑誌名巻号出版年_ページ": "Intensive Care Med (2023) 49:727-759",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 37326646,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37326646"
   },
   {
     "id": 81,
@@ -1260,7 +1260,23 @@
     "登録日": "2025-11-10",
     "original_title": "Targeted Tissue Perfusion Versus Macrocirculatory-Guided Standard Care in Patients With Septic Shock: A Randomized Clinical Trial—The TARTARE-2S Trial",
     "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2025;53:XX-XX",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 41105050,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41105050"
+  },
+  {
+    "id": 171,
+    "登録日": "2025-11-22",
+    "original_title": "Deferring Arterial Catheterization in Critically Ill Patients with Shock",
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. Published online October 29, 2025. doi:10.1056/NEJMoa2502136",
+    "pmid": 41159885,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41159885/"
+  },
+  {
+    "id": 172,
+    "登録日": "2025-11-22",
+    "original_title": "Development and Validation of the Sequential Organ Failure Assessment (SOFA)-2 Score",
+    "雑誌名_巻号_出版年_ページ": "JAMA. Published online October 29, 2025. doi:10.1001/jama.2025.20516",
+    "pmid": 41159833,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41159833"
   }
 ]
