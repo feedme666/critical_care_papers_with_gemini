@@ -15,25 +15,74 @@
     "O": "主要評価項目は、7日間の介入期間中のせん妄・昏睡フリー日数（DCFDs）。副次評価項目は、せん妄重症度（CAM-ICU-7）、痛み（CPOT）、不安（VAS-A）。"
   },
   "結果": "158人の患者がランダム化された（平均年齢68歳、女性45.5%）。intention-to-treat解析において、音楽介入群と対照群の間で、せん妄・昏睡フリー日数の中央値に有意差は認められなかった（2.5日 [IQR 0-5] vs 3日 [IQR 0-5]; P = .66）。また、7日間の介入期間を通じて、せん妄重症度（CAM-ICU-7）、痛み（CPOT）、不安（VAS-A）の平均スコアにも統計的に有意な差はなかった。7日間の期間終了時、両群の平均CAM-ICU-7スコア（2.72 vs 2.56）、CPOTスコア（0.20 vs 0.61）、VAS-Aスコア（43.6 vs 28.8）は類似していた。",
-  "chartData": {
-    "labels": ["せん妄・昏睡フリー日数（中央値）", "CAM-ICU-7スコア（7日目平均）", "CPOTスコア（7日目平均）", "VAS-Aスコア（7日目平均）"],
-    "datasets": [
-      {
-        "label": "音楽介入群",
-        "data": [2.5, 2.72, 0.20, 43.6],
-        "backgroundColor": "rgba(75, 192, 192, 0.6)",
-        "borderColor": "rgba(75, 192, 192, 1)",
-        "borderWidth": 1
-      },
-      {
-        "label": "対照群",
-        "data": [3, 2.56, 0.61, 28.8],
-        "backgroundColor": "rgba(255, 99, 132, 0.6)",
-        "borderColor": "rgba(255, 99, 132, 1)",
-        "borderWidth": 1
+  "charts": [
+    {
+      "title": "主要アウトカム：せん妄・昏睡フリー日数",
+      "chartData": {
+        "labels": ["せん妄・昏睡フリー日数（中央値）"],
+        "datasets": [
+          {
+            "label": "音楽介入群",
+            "data": [2.5],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "対照群",
+            "data": [3],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
       }
-    ]
-  },
+    },
+    {
+      "title": "せん妄重症度と痛みスコア（7日目平均）",
+      "chartData": {
+        "labels": ["CAM-ICU-7スコア", "CPOTスコア"],
+        "datasets": [
+          {
+            "label": "音楽介入群",
+            "data": [2.72, 0.20],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "対照群",
+            "data": [2.56, 0.61],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    },
+    {
+      "title": "不安スコア（VAS-A 7日目平均）",
+      "chartData": {
+        "labels": ["VAS-Aスコア"],
+        "datasets": [
+          {
+            "label": "音楽介入群",
+            "data": [43.6],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "対照群",
+            "data": [28.8],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    }
+  ],
   "考察": "人工呼吸器を装着した高齢ICU患者を対象としたこのランダム化比較試験において、低速テンポの音楽介入は、せん妄の期間、重症度、痛み、または不安の症状を統計的に有意に減少させなかった。この結果は、ICU患者のせん妄を改善するための大規模な薬理学的試験の既存の否定的な文献に追加されるものである。",
   "批判的吟味": {
     "title": "批判的吟味",

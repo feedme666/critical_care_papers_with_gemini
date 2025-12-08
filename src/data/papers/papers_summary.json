@@ -1157,7 +1157,7 @@
     "original_title": "Effect of Tele-ICU on Clinical Outcomes of Critically Ill Patients: The TELESCOPE Randomized Clinical Trial",
     "雑誌名巻号出版年_ページ": "JAMA. 2024;332(21):1798-1807.",
     "pmid": 39382244,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39382244/"
+    "pubmed_link": "https://pubmed.nlm.nih.gov/39382244/"
   },
   {
     "id": 98,
@@ -1278,5 +1278,53 @@
     "雑誌名_巻号_出版年_ページ": "JAMA. Published online October 29, 2025. doi:10.1001/jama.2025.20516",
     "pmid": 41159833,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41159833"
+  },
+  {
+    "id": 173,
+    "登録日": "2025-12-05",
+    "original_title": "A Pragmatic Trial of Glucocorticoids for Community-Acquired Pneumonia",
+    "雑誌名巻号出版年_ページ": "N Engl J Med. 2025 Oct 29. doi: 10.1056/NEJMoa2507100.",
+    "pmid": 39480000,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39480000"
+  },
+  {
+    "id": 174,
+    "登録日": "2025-12-06",
+    "original_title": "Personalized Hemodynamic Resuscitation Targeting Capillary Refill Time in Early Septic Shock: The ANDROMEDA-SHOCK-2 Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "JAMA. 2025 Oct 29. doi: 10.1001/jama.2025.20402.",
+    "pmid": 41159835,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41159835"
+  },
+  {
+    "id": 175,
+    "登録日": "2025-12-06",
+    "original_title": "A Conservative Dialysis Strategy and Kidney Function Recovery in Dialysis-Requiring Acute Kidney Injury: The Liberation From Acute Dialysis (LIBERATE-D) Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "JAMA. 2025 Nov 7. doi: 10.1001/jama.2025.21530.",
+    "pmid": 41201895,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41201895/"
+  },
+  {
+    "id": 176,
+    "登録日": "2025-12-06",
+    "original_title": "Liberal or Restrictive Postoperative Transfusion in Patients at High Cardiac Risk: The TOP Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "JAMA. 2025 Nov 8. doi: 10.1001/jama.2025.20841.",
+    "pmid": 41205227,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41205227/"
+  },
+  {
+    "id": 177,
+    "登録日": "2025-12-06",
+    "original_title": "Selective Decontamination of the Digestive Tract during Ventilation in the ICU",
+    "雑誌名巻号出版年_ページ": "N Engl J Med. 2025 Oct 29. doi: 10.1056/NEJMoa2506398.",
+    "pmid": 41159880,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41159880/"
+  },
+  {
+    "id": 178,
+    "登録日": "2025-12-06",
+    "original_title": "Sodium Bicarbonate for Severe Metabolic Acidemia and Acute Kidney Injury: The BICARICU-2 Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "JAMA. 2025 Oct 29. doi: 10.1001/jama.2025.20231.",
+    "pmid": 41159812,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41159812/"
   }
 ]
