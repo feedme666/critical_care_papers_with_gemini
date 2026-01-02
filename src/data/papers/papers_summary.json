@@ -1350,5 +1350,29 @@
     "雑誌名_巻号_出版年_ページ": "Circulation. 2025;152:1526-1537.",
     "pmid": 40878766,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40878766/"
+  },
+  {
+    "id": 185,
+    "登録日": "2026-01-02",
+    "original_title": "Intraoperative Driving Pressure-Guided High PEEP vs Standard Low PEEP for Postoperative Pulmonary Complications",
+    "雑誌名巻号出版年_ページ": "JAMA. 2025 Dec 3;[Epub ahead of print]",
+    "pmid": 41334859,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41334859"
+  },
+  {
+    "id": 186,
+    "登録日": "2025-05-01",
+    "original_title": "A Randomized Controlled Trial of Thoracentesis in Acute Heart Failure",
+    "雑誌名巻号出版年_ページ": "Circulation. 2025;151:1150-1161.",
+    "pmid": 40166829,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40166829"
+  },
+  {
+    "id": 187,
+    "登録日": "2025-03-01",
+    "original_title": "Intra-Arterial Tenecteplase Following Endovascular Reperfusion for Large Vessel Occlusion Acute Ischemic Stroke: The POST-TNK Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "JAMA. 2025 Feb 18;333(7):579-588.",
+    "pmid": 39804681,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39804681"
   }
 ]

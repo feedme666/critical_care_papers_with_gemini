@@ -24,6 +24,19 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
 
   if (!paper) return null;
 
+  const formatStudyType = (currentPaper) => {
+    const tags = currentPaper?.タグ || [];
+    const isRct = tags.includes('ランダム化比較試験');
+    const rawType = currentPaper?.研究の種類;
+    const subtype = typeof rawType === 'string' ? rawType : rawType?.判定;
+
+    if (isRct && subtype) return `ランダム化比較試験（${subtype}）`;
+    if (isRct) return 'ランダム化比較試験';
+    return subtype || null;
+  };
+
+  const studyTypeLabel = formatStudyType(paper);
+
   const chartOptions = {
     responsive: true,
     plugins: {
@@ -59,6 +72,9 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
             <Badge bg="primary" key={tag} className="me-1">{tag}</Badge>
           ))}
         </div>
+        {studyTypeLabel && (
+          <p className="mt-2"><strong>研究の種類:</strong> {studyTypeLabel}</p>
+        )}
         <hr />
 
         {/* 研究論文のセクション */}

@@ -5,7 +5,6 @@
   "original_title": "Immediate \"sipping\" vs. delayed oral fluid intake after extubation: A randomized controlled trial",
   "筆頭著者": "Šárka Sedláčková",
   "雑誌名_巻号_出版年_ページ": "J Crit Care. 2025 Aug 7:91:155212.",
-
   "登録日": "2025-10-02",
   "タグ": [
     "その他",
@@ -95,5 +94,33 @@
     ]
   },
   "pmid": 40780083,
-  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40780083/"
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40780083/",
+  "研究の種類": {
+    "判定": "優越性試験",
+    "確度": "中",
+    "根拠": [
+      {
+        "ソース": "pdf",
+        "内容": "PDF全文のキーワード探索で分類",
+        "位置": "全文検索"
+      },
+      {
+        "ソース": "pdf",
+        "内容": "明示語なしのため優越性として判定",
+        "位置": "要旨/方法/統計の再確認"
+      }
+    ],
+    "判定履歴": [
+      {
+        "日付": "2026-01-01",
+        "判定": "優越性試験",
+        "方法": "自動判定"
+      },
+      {
+        "日付": "2026-01-02",
+        "判定": "優越性試験",
+        "方法": "再評価（全文読解）"
+      }
+    ]
+  }
 }

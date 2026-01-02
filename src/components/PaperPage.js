@@ -26,6 +26,18 @@ const PaperPage = ({ data }) => {
     return <div>論文が見つかりません。</div>;
   }
 
+  const formatStudyType = (currentPaper) => {
+    const tags = currentPaper?.タグ || [];
+    const isRct = tags.includes('ランダム化比較試験');
+    const rawType = currentPaper?.研究の種類;
+    const subtype = typeof rawType === 'string' ? rawType : rawType?.判定;
+
+    if (isRct && subtype) return `ランダム化比較試験（${subtype}）`;
+    if (isRct) return 'ランダム化比較試験';
+    return subtype || null;
+  };
+
+  const studyTypeLabel = formatStudyType(data);
   
 
 
@@ -58,6 +70,9 @@ const PaperPage = ({ data }) => {
               <span key={tag} className="badge bg-primary me-1">{tag}</span>
             ))}
           </div>
+          {studyTypeLabel && (
+            <p className="mt-2"><strong>研究の種類:</strong> {studyTypeLabel}</p>
+          )}
           
         </header>
 

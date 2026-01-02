@@ -1,13 +1,15 @@
-
 {
   "id": 116,
   "type": "paper",
-    "題名": "急性呼吸不全患者における高流量鼻カニューラ酸素療法 (HFNC) と非侵襲的換気療法 (NIV) の経済性分析：RENOVATEランダム化比較試験の結果",
+  "題名": "急性呼吸不全患者における高流量鼻カニューラ酸素療法 (HFNC) と非侵襲的換気療法 (NIV) の経済性分析：RENOVATEランダム化比較試験の結果",
   "original_title": "Economic analysis of high-flow nasal oxygen compared with noninvasive ventilation in patients with acute respiratory failure: results from the RENOVATE randomized clinical trial",
   "筆頭著者": "Ana Paula Beck da Silva Etges",
   "雑誌名_巻号_出版年_ページ": "Respir Med. 2025;247:108270",
   "登録日": "2025-08-29",
-  "タグ": ["呼吸器系", "ランダム化比較試験"],
+  "タグ": [
+    "呼吸器系",
+    "ランダム化比較試験"
+  ],
   "要約": "本研究は、急性呼吸不全（ARF）患者に対する高流量鼻カニューラ酸素療法（HFNO）と非侵襲的換気療法（NIV）の費用対効果を比較した費用最小化分析である。RENOVATE試験のデータを用い、HFNOの臨床的非劣性が示された4つのARFグループ（非免疫不全の低酸素血症、COPD増悪、急性心原性肺水腫、低酸素血症性COVID-19）における増分費用を評価した。90日間のデシジョンツリーモデルを使用し、直接費用をマクロおよびミクロコスティングアプローチのハイブリッドで推定した。",
   "PICO": {
     "P": "急性呼吸不全（非免疫不全の低酸素血症、COPD増悪、急性心原性肺水腫、低酸素血症性COVID-19）で入院した成人患者",
@@ -17,32 +19,47 @@
   },
   "結果": "1716人の患者（HFNO群883人、NIV群883人）が解析対象となった。HFNOは、3つの非COVID-19グループにおいてNIVと比較してコスト削減の可能性が示された。具体的には、非免疫不全の低酸素血症患者で-$5105、COPD増悪患者で-$1267、急性心原性肺水腫患者で-$2493のコスト削減が見られた。しかし、これらの結果は95%信頼区間が0をまたいでおり、統計的に有意ではなかった。一方、低酸素血症性COVID-19患者では、HFNOはNIVよりもコストが$4388増加した。感度分析により、気管挿管率、死亡率、ICU滞在日数がコストの主要な駆動要因であることが特定された。",
   "chartData": {
-    "labels": ["7日間以内の気管挿管率 (%)", "28日死亡率 (%)"],
+    "labels": [
+      "7日間以内の気管挿管率 (%)",
+      "28日死亡率 (%)"
+    ],
     "datasets": [
       {
         "label": "HFNO群 (非COVID-19)",
-        "data": [23.8, 21.0],
+        "data": [
+          23.8,
+          21.0
+        ],
         "backgroundColor": "rgba(75, 192, 192, 0.6)",
         "borderColor": "rgba(75, 192, 192, 1)",
         "borderWidth": 1
       },
       {
         "label": "NIV群 (非COVID-19)",
-        "data": [25.6, 23.9],
+        "data": [
+          25.6,
+          23.9
+        ],
         "backgroundColor": "rgba(255, 99, 132, 0.6)",
         "borderColor": "rgba(255, 99, 132, 1)",
         "borderWidth": 1
       },
       {
         "label": "HFNO群 (COVID-19)",
-        "data": [50.3, 22.3],
+        "data": [
+          50.3,
+          22.3
+        ],
         "backgroundColor": "rgba(54, 162, 235, 0.6)",
         "borderColor": "rgba(54, 162, 235, 1)",
         "borderWidth": 1
       },
       {
         "label": "NIV群 (COVID-19)",
-        "data": [46.8, 22.8],
+        "data": [
+          46.8,
+          22.8
+        ],
         "backgroundColor": "rgba(255, 206, 86, 0.6)",
         "borderColor": "rgba(255, 206, 86, 1)",
         "borderWidth": 1
@@ -96,5 +113,33 @@
     ]
   },
   "pmid": 40744283,
-  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40744283/"
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40744283/",
+  "研究の種類": {
+    "判定": "非劣性試験",
+    "確度": "高",
+    "根拠": [
+      {
+        "ソース": "pdf",
+        "内容": "PDF全文のキーワード探索で分類",
+        "位置": "全文検索"
+      },
+      {
+        "ソース": "pdf",
+        "内容": "非劣性の明示記載（検出語: noninferior）",
+        "位置": "要旨/方法/統計の再確認"
+      }
+    ],
+    "判定履歴": [
+      {
+        "日付": "2026-01-01",
+        "判定": "非劣性試験",
+        "方法": "自動判定"
+      },
+      {
+        "日付": "2026-01-02",
+        "判定": "非劣性試験",
+        "方法": "再評価（全文読解）"
+      }
+    ]
+  }
 }
