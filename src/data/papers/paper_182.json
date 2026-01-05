@@ -65,67 +65,88 @@
       }
     ]
   },
-  "chartData": {
-    "labels": [
-      "臨床的に重要な上部消化管出血 (%)",
-      "90日死亡率 (%)",
-      "ICU滞在日数 (日)",
-      "総費用 (ドル)"
-    ],
-    "datasets": [
-      {
-        "label": "パントプラゾール群",
-        "data": [
-          1.0,
-          29.1,
-          12.4,
-          60466
+  "charts": [
+    {
+      "title": "臨床的アウトカム",
+      "chartData": {
+        "labels": [
+          "臨床的に重要な上部消化管出血 (%)",
+          "90日死亡率 (%)",
+          "ICU滞在日数 (日)"
         ],
-        "backgroundColor": "rgba(75, 192, 192, 0.6)",
-        "borderColor": "rgba(75, 192, 192, 1)",
-        "borderWidth": 1
-      },
-      {
-        "label": "非投与群",
-        "data": [
-          3.5,
-          30.9,
-          13.3,
-          65423
-        ],
-        "backgroundColor": "rgba(255, 99, 132, 0.6)",
-        "borderColor": "rgba(255, 99, 132, 1)",
-        "borderWidth": 1
+        "datasets": [
+          {
+            "label": "パントプラゾール群",
+            "data": [
+              1.0,
+              29.1,
+              12.4
+            ],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "非投与群",
+            "data": [
+              3.5,
+              30.9,
+              13.3
+            ],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
       }
-    ]
-  },
+    },
+    {
+      "title": "医療費",
+      "chartData": {
+        "labels": [
+          "総費用 (ドル)"
+        ],
+        "datasets": [
+          {
+            "label": "パントプラゾール群",
+            "data": [
+              60466
+            ],
+            "backgroundColor": "rgba(75, 192, 192, 0.6)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+          },
+          {
+            "label": "非投与群",
+            "data": [
+              65423
+            ],
+            "backgroundColor": "rgba(255, 99, 132, 0.6)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+          }
+        ]
+      }
+    }
+  ],
+  "chartData": null,
   "pmid": 41324956,
   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41324956",
   "研究の種類": {
-    "判定": "優越性試験",
-    "確度": "中",
+    "判定": "その他",
+    "確度": "高",
     "根拠": [
       {
         "ソース": "pdf",
-        "内容": "PDF全文のキーワード探索で分類",
-        "位置": "全文検索"
-      },
-      {
-        "ソース": "pdf",
-        "内容": "明示語なしのため優越性として判定",
-        "位置": "要旨/方法/統計の再確認"
+        "内容": "AbstractのMETHODSに'This prospective health economic evaluation...'と明記されており、標準的なRCTデザイン（優越性・非劣性等）ではなく経済評価を主目的としているため",
+        "位置": "Abstract"
       }
     ],
     "判定履歴": [
       {
-        "日付": "2026-01-01",
-        "判定": "優越性試験",
-        "方法": "自動判定"
-      },
-      {
-        "日付": "2026-01-02",
-        "判定": "優越性試験",
-        "方法": "再評価（全文読解）"
+        "日付": "2026-01-06",
+        "判定": "その他",
+        "方法": "手動修正（経済評価のため）"
       }
     ]
   }
