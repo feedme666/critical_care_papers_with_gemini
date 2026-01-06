@@ -1,6 +1,6 @@
 {
   "name": "critical-care-papers",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "homepage": "https://feedme666.github.io/critical_care_papers_with_gemini",
   "dependencies": {
