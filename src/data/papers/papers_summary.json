@@ -1404,15 +1404,39 @@
     "登録日": "2026-01-23",
     "original_title": "Remimazolam Besylate Versus Dexmedetomidine As a Sedative in ICU Patients Undergoing Mechanical Ventilation: A Multicenter, Single-blinded, Randomized, Noninferiority Trial",
     "雑誌名巻号出版年_ページ": "Crit Care Med . 2026 Jan 12; Online ahead of print.",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 41524483,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41524483/"
   },
   {
     "id": 192,
     "登録日": "2026-01-23",
     "original_title": "Anesthesia Type during Cancer Surgery: Results of the GA-CARES Randomized, Multicenter Trial",
     "雑誌名巻号出版年_ページ": "Anesthesiology. 2026;144:51-62",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 41363871,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41363871/"
+  },
+  {
+    "id": 193,
+    "登録日": "2026-01-24",
+    "original_title": "Ticagrelor and Aspirin or Aspirin Alone after Coronary Surgery for Acute Coronary Syndrome",
+    "雑誌名巻号出版年_ページ": "N Engl J Med 2025;393:2313-23.",
+    "pmid": 40888737,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40888737"
+  },
+  {
+    "id": 194,
+    "登録日": "2026-01-29",
+    "original_title": "Prophylactic norepinephrine infusion to reduce severe hypotension during induction of anaesthesia in patients undergoing cardiac surgery: a randomised controlled single-centre clinical trial",
+    "雑誌名巻号出版年_ページ": "Br J Anaesth. 2025; (In Press). doi: 10.1016/j.bja.2025.10.055",
+    "pmid": 41381314,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41381314/"
+  },
+  {
+    "id": 195,
+    "登録日": "2026-01-29",
+    "original_title": "Continuous furosemide does not prevent cardiopulmonary bypass-related acute kidney injury in minimally invasive cardiac surgery: the randomized furosemide trial",
+    "雑誌名巻号出版年_ページ": "J Extra Corpor Technol. 2025;57:209–217",
+    "pmid": 41405035,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41405035/"
   }
 ]
