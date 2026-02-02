@@ -72,6 +72,30 @@ const GuidelinePage = ({ data }) => {
           ))}
         </section>
 
+        {data.checklist && (
+          <section className="my-4">
+            <h4>{data.checklist.title}</h4>
+            <div className="table-responsive">
+              <table className="table table-bordered table-striped">
+                <tbody>
+                  {data.checklist.sections && data.checklist.sections.map((section, sIndex) => (
+                    <React.Fragment key={sIndex}>
+                      <tr className="table-secondary">
+                        <th colSpan="1">{section.section_title}</th>
+                      </tr>
+                      {section.items && section.items.map((item, iIndex) => (
+                        <tr key={iIndex}>
+                          <td style={{ whiteSpace: 'pre-wrap' }}>{item}</td>
+                        </tr>
+                      ))}
+                    </React.Fragment>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
+        )}
+
         {data.主要な改訂点 && (
           <section className="my-4">
             <h4>主要な改訂点</h4>

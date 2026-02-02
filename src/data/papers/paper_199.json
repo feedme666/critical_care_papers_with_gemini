@@ -1,0 +1,71 @@
+{
+  "id": 199,
+  "type": "guideline",
+  "題名": "胸部外傷 WSES-AAST ガイドライン",
+  "original_title": "Thoracic trauma WSES-AAST guidelines",
+  "作成団体": "World Society of Emergency Surgery (WSES) and American Association for the Surgery of Trauma (AAST)",
+  "雑誌名_巻号_出版年_ページ": "World J Emerg Surg. 2025;20(1):76.",
+  "登録日": "2026-01-31",
+  "タグ": [
+    "外傷",
+    "呼吸器系",
+    "ガイドライン・提言"
+  ],
+  "概要": "胸部外傷は外傷による一般的な結果であり、鈍的または穿通性の機転で生じる。鈍的胸部外傷の少数は外科的介入を必要とするが、穿通性胸部外傷は頻繁に手術を必要とし、死亡率が高い。胸部外傷の管理は、その解剖学的位置と他臓器系への潜在的な影響のため、多学的であるべきである。本ガイドラインは、World Society of Emergency Surgery (WSES) と American Association for the Surgery of Trauma (AAST) が提供する、胸部外傷の包括的な管理に関する推奨事項を記述している。",
+  "対象": "鈍的および穿通性胸部外傷を有する患者（小児、高齢者を含む）",
+  "作成プロセス": {
+    "開発方法論": "エビデンスに基づく推奨と専門家のコンセンサス。修正デルファイ法を用いて合意形成を行った。",
+    "検索戦略と選定基準": "2000年1月から2024年2月までのMEDLINE, Scopus, EMBASEを検索。システマティックレビュー、メタアナリシス、RCT、観察研究などを含めた。"
+  },
+  "推奨事項": {
+    "title": "主要な推奨事項",
+    "recommendations": [
+      {
+        "cq": "胸部外傷の分類と重症度評価",
+        "recommendation_statement": "胸部外傷の重症度評価には、Thoracic Trauma severity scoreの使用が予測に有用である。呼吸機能障害の評価にはBerlin definitionのARDS基準またはGlobal definitionの使用が提案される。",
+        "strength_of_recommendation": "記載なし",
+        "level_of_evidence": "記載なし",
+        "remarks": "詳細はPDF全文のTable 1-3を参照。"
+      },
+      {
+        "cq": "画像診断",
+        "recommendation_statement": "不安定な患者ではE-FASTや胸部X線が有用である。安定した患者では造影CTが推奨される。",
+        "strength_of_recommendation": "Strong",
+        "level_of_evidence": "Moderate",
+        "remarks": "小児や高齢者では特有の考慮が必要（Table 4参照）。"
+      }
+    ]
+  },
+  "ガイドラインの批判的吟味": {
+    "title": "ガイドラインの批判的吟味 (AGREE IIの観点を含む)",
+    "points": [
+      {
+        "subtitle": "領域と目的",
+        "content": "胸部外傷の包括的管理をカバーしており、目的と対象は明確である。"
+      },
+      {
+        "subtitle": "利害関係者の参画",
+        "content": "WSESとAASTという国際的な主要学会の合同作成であり、多職種の専門家が含まれていると推測される。"
+      },
+      {
+        "subtitle": "厳密性",
+        "content": "広範な文献検索とデルファイ法による合意形成が行われており、方法論的な厳密性は高いと考えられる。"
+      },
+      {
+        "subtitle": "推奨の明確さ",
+        "content": "具体的なクリニカルクエスチョンに対する推奨が提示されている（全文参照）。"
+      },
+      {
+        "subtitle": "適用可能性",
+        "content": "リソースの異なる設定（low resource settingsなど）についての言及もあり（ARDS定義など）、汎用性が考慮されている。"
+      },
+      {
+        "subtitle": "編集の独立性",
+        "content": "学会主導であり、利益相反の管理がなされていることが期待される。"
+      }
+    ]
+  },
+  "主要な改訂点": null,
+  "pmid": 41094688,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41094688/"
+}
