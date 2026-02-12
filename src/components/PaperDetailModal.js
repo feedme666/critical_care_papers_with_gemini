@@ -92,13 +92,20 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
 
         <section className="my-4">
           <h4>{paper.type === 'guideline' ? '概要' : '要約'}</h4>
-          <p>{paper.type === 'guideline' ? paper.概要 : paper.要約}</p>
+          <p style={{ whiteSpace: 'pre-wrap' }}>{paper.type === 'guideline' ? paper.概要 : paper.要約}</p>
         </section>
+
+        {paper.type === 'guideline' && paper.主要な改訂点 && (
+          <section className="my-4 p-3 bg-light border-start border-4 border-primary">
+            <h4>主要な改訂点</h4>
+            <p style={{ whiteSpace: 'pre-wrap' }} className="mb-0">{paper.主要な改訂点}</p>
+          </section>
+        )}
 
         {paper.type === 'paper' && paper.結果 && (
             <section className="my-4">
                 <h4>結果</h4>
-                <p>{paper.結果}</p>
+                <p style={{ whiteSpace: 'pre-wrap' }}>{paper.結果}</p>
                 <div style={{ maxWidth: '600px', margin: 'auto' }}>
                   {/* 新しい 'charts' 配列形式に対応 */}
                   {paper.charts && Array.isArray(paper.charts) && paper.charts.map((chart, index) => (
@@ -119,7 +126,7 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
         {paper.type === 'paper' && paper.考察 && (
             <section className="my-4">
                 <h4>考察</h4>
-                <p>{paper.考察}</p>
+                <p style={{ whiteSpace: 'pre-wrap' }}>{paper.考察}</p>
             </section>
         )}
         
@@ -128,14 +135,14 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
             <>
                 <section className="my-4">
                     <h4>対象</h4>
-                    <p>{paper.対象}</p>
+                    <p style={{ whiteSpace: 'pre-wrap' }}>{paper.対象}</p>
                 </section>
 
                 <section className="my-4">
                     <h4>作成プロセス</h4>
                     <ul className="list-group">
-                        <li className="list-group-item"><strong>開発方法論:</strong> {paper.作成プロセス?.開発方法論}</li>
-                        <li className="list-group-item"><strong>検索戦略と選定基準:</strong> {paper.作成プロセス?.検索戦略と選定基準}</li>
+                        <li className="list-group-item" style={{ whiteSpace: 'pre-wrap' }}><strong>開発方法論:</strong> {paper.作成プロセス?.開発方法論}</li>
+                        <li className="list-group-item" style={{ whiteSpace: 'pre-wrap' }}><strong>検索戦略と選定基準:</strong> {paper.作成プロセス?.検索戦略と選定基準}</li>
                     </ul>
                 </section>
 
@@ -145,10 +152,10 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
                         <div key={index} className="card mb-3">
                             <div className="card-header">Clinical Question: {rec.cq}</div>
                             <div className="card-body">
-                                <p className="card-text"><strong>推奨文:</strong> {rec.recommendation_statement}</p>
+                                <p className="card-text" style={{ whiteSpace: 'pre-wrap' }}><strong>推奨文:</strong> {rec.recommendation_statement}</p>
                                 <p className="card-text"><strong>推奨の強さ:</strong> {rec.strength_of_recommendation}</p>
                                 <p className="card-text"><strong>エビデンスのレベル:</strong> {rec.level_of_evidence}</p>
-                                {rec.remarks && <p className="card-text"><strong>補足事項:</strong> {rec.remarks}</p>}
+                                {rec.remarks && <p className="card-text" style={{ whiteSpace: 'pre-wrap' }}><strong>補足事項:</strong> {rec.remarks}</p>}
                             </div>
                         </div>
                     ))}
@@ -165,7 +172,7 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
                     <div key={index} className="card mb-3">
                         <div className="card-header">{point.subtitle}</div>
                         <div className="card-body">
-                            <p className="card-text">{point.content}</p>
+                            <p className="card-text" style={{ whiteSpace: 'pre-wrap' }}>{point.content}</p>
                         </div>
                     </div>
                 ))}

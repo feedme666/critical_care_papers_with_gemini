@@ -32,6 +32,13 @@ const GuidelinePage = ({ data }) => {
           <p style={{ whiteSpace: 'pre-wrap' }}>{data.概要.replace(/\\n/g, '\n')}</p>
         </section>
 
+        {data.主要な改訂点 && (
+          <section className="my-4 p-3 bg-light border-start border-4 border-primary">
+            <h4>主要な改訂点</h4>
+            <p style={{ whiteSpace: 'pre-wrap' }} className="mb-0">{data.主要な改訂点.replace(/\\n/g, '\n')}</p>
+          </section>
+        )}
+
         <section className="my-4">
           <h4>対象</h4>
           <p style={{ whiteSpace: 'pre-wrap' }}>{data.対象.replace(/\\n/g, '\n')}</p>
@@ -93,13 +100,6 @@ const GuidelinePage = ({ data }) => {
                 </tbody>
               </table>
             </div>
-          </section>
-        )}
-
-        {data.主要な改訂点 && (
-          <section className="my-4">
-            <h4>主要な改訂点</h4>
-            <p style={{ whiteSpace: 'pre-wrap' }}>{data.主要な改訂点.replace(/\\n/g, '\n')}</p>
           </section>
         )}
 
