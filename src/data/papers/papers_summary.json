@@ -1494,5 +1494,29 @@
     "雑誌名巻号出版年_ページ": "Acta Anaesthesiol Scand . 2025;69:e70015.",
     "pmid": null,
     "pubmed_link": null
+  },
+  {
+    "id": 203,
+    "登録日": "2026-02-11",
+    "original_title": "Acute-on-chronic liver failure (ACLF): the 'Kyoto Consensus'—steps from Asia",
+    "雑誌名巻号出版年_ページ": "Hepatol Int . 2025 Feb;19(1):1-69.",
+    "pmid": 39961976,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39961976"
+  },
+  {
+    "id": 204,
+    "登録日": "2026-02-12",
+    "original_title": "EASL Clinical Practice Guidelines on TIPS",
+    "雑誌名巻号出版年_ページ": "J Hepatol. 2025 Jul;83(1):177-210.",
+    "pmid": 40180845,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40180845/"
+  },
+  {
+    "id": 205,
+    "登録日": "2026-02-12",
+    "original_title": "International Association of Pancreatology Revised Guidelines on Acute Pancreatitis 2025: Supported and Endorsed by the American Pancreatic Association, European Pancreatic Club, Indian Pancreas Club, and Japan Pancreas Society",
+    "雑誌名巻号出版年_ページ": "Pancreatology . 2025;25(5):770-814.",
+    "pmid": 40651900,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40651900"
   }
 ]

@@ -1,0 +1,62 @@
+{
+  "id": 204,
+  "type": "guideline",
+  "題名": "TIPS（経頸静脈的肝内門脈大循環短絡術）に関するEASL臨床診療ガイドライン",
+  "original_title": "EASL Clinical Practice Guidelines on TIPS",
+  "作成団体": "European Association for the Study of the Liver (EASL)",
+  "雑誌名_巻号_出版年_ページ": "J Hepatol . 2025 Jul;83(1):177-210.",
+  "登録日": "2026-02-12",
+  "タグ": ["消化器系", "循環器系", "ガイドライン・提言"],
+  "概要": "本ガイドラインは、欧州肝臓学会（EASL）によって作成された、肝硬変に伴う門脈圧亢進症の管理におけるTIPSの位置付け、適応、手技、術後管理に関する最新かつ包括的な推奨事項を提供している。近年の技術的進歩や予後予測モデルの改善を反映している。",
+  "対象": "肝硬変および門脈圧亢進症を有し、TIPSの適応（食道・胃静脈瘤出血、難治性腹水、肝性胸水など）を検討されている成人の患者。",
+  "作成プロセス": {
+    "開発方法論": "PICOフレームワークを用い、Oxford Centre for Evidence-Based Medicine (OCEBM) 基準に基づいてエビデンスレベル（LoE）と推奨グレードを決定した。",
+    "検索戦略と選定基準": "PubMed, Scopus, Embase, Cochrane Libraryを網羅的に検索し、最新のエビデンスを抽出した。"
+  },
+  "推奨事項": {
+    "title": "主要な推奨事項",
+    "recommendations": [
+      {
+        "cq": "待機的TIPSの適応を検討する際、肝機能はどのように評価すべきか？",
+        "recommendation_statement": "MELDスコアはTIPS後の90日死亡率の最も正確な予測指標であり、患者の選択に使用されるべきである。MELDスコアが30を超える場合は、TIPS施行を避けるべきである。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "2",
+        "remarks": "Child-Pughスコアも併用されるが、MELDの方が予後予測能が高い。"
+      },
+      {
+        "cq": "静脈瘤出血に対する早期TIPS（p-TIPS）の適応は？",
+        "recommendation_statement": "食道静脈瘤出血で止血に成功した後、高リスク患者（Child-Pugh C 10-13点、またはChild-Pugh Bで活動性出血あり）に対しては、72時間以内の早期TIPS施行を検討すべきである。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "1",
+        "remarks": "標準的な治療よりも再出血率と死亡率を低下させることが示されている。"
+      },
+      {
+        "cq": "難治性腹水に対するTIPSの効果は？",
+        "recommendation_statement": "頻回な穿刺が必要な難治性腹水患者において、TIPSは腹水のコントロールを改善し、生存率を向上させる可能性があるため、推奨される。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "1",
+        "remarks": "適切な患者選択が術後の肝性脳症リスクを最小限にするために重要である。"
+      }
+    ]
+  },
+  "ガイドラインの批判的吟味": {
+    "title": "ガイドラインの批判的吟味 (AGREE IIの観点を含む)",
+    "points": [
+      {
+        "subtitle": "手技の標準化",
+        "content": "ePTFEカバー付きステントの使用や、術後の門脈圧勾配（PPG）の目標設定など、技術的な側面が非常に詳細に記述されており、手技の標準化に大きく寄与している。"
+      },
+      {
+        "subtitle": "安全性への配慮",
+        "content": "心機能評価や肝性脳症のリスク評価など、TIPSによる合併症を回避するための評価項目が厳密に設定されている。"
+      },
+      {
+        "subtitle": "多職種チームの推奨",
+        "content": "TIPSは単なる放射線科の手技ではなく、肝臓内医との密接な連携が不可欠であることが強調されており、包括的な管理を促している。"
+      }
+    ]
+  },
+  "主要な改訂点": "前回のガイドライン以降、ePTFEカバー付きステントの標準化、小径ステント（8mm）の有用性、および急性食道静脈瘤出血に対する早期TIPSの有効性に関する新たなランダム化比較試験の結果が統合された。",
+  "pmid": 40180845,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40180845/"
+}

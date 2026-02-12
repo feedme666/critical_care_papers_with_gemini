@@ -1,0 +1,90 @@
+{
+  "id": 205,
+  "type": "guideline",
+  "題名": "急性膵炎に関する国際膵臓学会（IAP）改訂ガイドライン 2025",
+  "original_title": "International Association of Pancreatology Revised Guidelines on Acute Pancreatitis 2025: Supported and Endorsed by the American Pancreatic Association, European Pancreatic Club, Indian Pancreas Club, and Japan Pancreas Society",
+  "作成団体": "International Association of Pancreatology (IAP), APA, EPC, IPC, JPS",
+  "雑誌名_巻号_出版年_ページ": "Pancreatology . 2025;25(5):770-814.",
+  "登録日": "2026-02-12",
+  "タグ": [
+    "消化器系",
+    "ガイドライン・提言"
+  ],
+  "概要": "2013年に発表されたIAP/APA急性膵炎管理ガイドラインの改訂版。過去10年間のエビデンスに基づき、診断、重症度予測、初期治療、合併症管理、特殊な状況下での管理など、急性膵炎管理の全般にわたる包括的な推奨事項を提供している。本ガイドラインは、臨床医がより効果的に急性膵炎患者を治療するためのエビデンスに基づいたリソースとなることを目的としている。",
+  "対象": "成人および小児の急性膵炎患者、およびその治療に従事する全ての医療従事者。",
+  "作成プロセス": {
+    "開発方法論": "GRADEフレームワークを用い、エビデンスの質と推奨の強さを評価。19のドメイン、96の臨床的質問（CQ）に対して推奨事項を作成。",
+    "検索戦略と選定基準": "PubMed、Embase、Cochrane Libraryなどのデータベースを使用し、英語で発表されたRCT、観察研究、システマティックレビュー、メタアナリシスを検索。"
+  },
+  "推奨事項": {
+    "title": "主要な推奨事項",
+    "recommendations": [
+      {
+        "cq": "急性膵炎の診断はどのように行うべきか？",
+        "recommendation_statement": "臨床的な上腹部痛、血清アミラーゼまたはリパーゼ値が正常上限の3倍以上、画像診断（US、CT、MRI）のうち2項目を満たす場合に診断する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "低",
+        "remarks": "USは胆石性膵炎の診断に有用だが、重症度評価のためのCTは発症72〜96時間後が最適。"
+      },
+      {
+        "cq": "重症度予測に最適な指標は何か？",
+        "recommendation_statement": "入院時および48時間時点での全身性炎症反応症候群（SIRS）基準、およびC反応性蛋白（CRP）またはインターロイキン-6（IL-6）を組み合わせて重症度を予測することを推奨する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中",
+        "remarks": "持続的な臓器不全（48時間超）が最も重要な予後因子である。"
+      },
+      {
+        "cq": "初期輸液療法にはどの輸液剤を使用すべきか？",
+        "recommendation_statement": "急性膵炎の初期輸液には乳酸リンゲル液を使用すべきである。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中",
+        "remarks": "過剰な輸液は避け、尿量や血行動態指標に基づいた目標指向型輸液を行う。"
+      },
+      {
+        "cq": "予防的抗菌薬投与は推奨されるか？",
+        "recommendation_statement": "膵外感染症がある場合、または感染性膵壊死が疑われる場合を除き、予防的抗菌薬投与は推奨されない。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "高",
+        "remarks": "予防的投与は耐性菌のリスクを高め、予後を改善しない。"
+      },
+      {
+        "cq": "栄養管理はどのように開始すべきか？",
+        "recommendation_statement": "軽症〜中等症では、耐容可能であれば早期に経口摂取を開始する。重症では、発症72時間以内に経腸栄養（経鼻胃管または経鼻空腸管）を開始することを推奨する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "高/中",
+        "remarks": "静脈栄養は経腸栄養が不可能な場合にのみ考慮する。"
+      },
+      {
+        "cq": "感染性膵壊死に対する介入のタイミングと方法は？",
+        "recommendation_statement": "介入は、壊死組織が境界明瞭（walled-off necrosis; WON）となる発症4週間以降まで延期することが望ましい。介入が必要な場合は、低侵襲アプローチ（経皮的ドレナージまたは内視鏡的壊死組織除去術）を第一選択とする。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "低/中",
+        "remarks": "早期の開放術は合併症と死亡率を高めるため避けるべきである。"
+      }
+    ]
+  },
+  "ガイドラインの批判的吟味": {
+    "title": "ガイドラインの批判的吟味 (AGREE IIの観点を含む)",
+    "points": [
+      {
+        "subtitle": "網羅性と専門性",
+        "content": "世界各国の膵臓学会が共同で作成しており、専門性が極めて高い。96ものCQを網羅しており、日常診療から高度な専門治療まで幅広くカバーしている。"
+      },
+      {
+        "subtitle": "エビデンスの質と限界",
+        "content": "GRADEシステムを導入し、透明性の高い推奨を行っている。しかし、いくつかの領域（例：ドレナージのタイミング、特殊な病因の管理）では依然として低レベルのエビデンスに基づかざるを得ない部分も残されている。"
+      },
+      {
+        "subtitle": "臨床的適応性",
+        "content": "低侵襲アプローチ（ステップアップストラテジー）の重視や、早期経腸栄養の推奨など、近年のパラダイムシフトを反映しており、実践的である。"
+      },
+      {
+        "subtitle": "今後の展望",
+        "content": "重症膵炎に対する標的療法（Targeted therapy）については、まだ十分なエビデンスが得られていないCQが多く、今後の研究が期待される分野として特定されている。"
+      }
+    ]
+  },
+  "主要な改訂点": "2013年版と比較し、輸液療法の最適化（過剰輸液の警告）、栄養管理の早期介入、感染性壊死に対する内視鏡的・低侵襲アプローチのより詳細なアルゴリズム、小児や妊娠中などの特殊状況下での管理項目の拡充がなされた。",
+  "pmid": 40651900,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40651900"
+}
