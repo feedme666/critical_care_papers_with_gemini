@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/critical_care_papers_with_gemini/static/css/main.71eb7733.css",
-    "main.js": "/critical_care_papers_with_gemini/static/js/main.41c80a62.js",
+    "main.js": "/critical_care_papers_with_gemini/static/js/main.c7f44969.js",
     "static/js/453.b41e37f4.chunk.js": "/critical_care_papers_with_gemini/static/js/453.b41e37f4.chunk.js",
     "index.html": "/critical_care_papers_with_gemini/index.html",
     "main.71eb7733.css.map": "/critical_care_papers_with_gemini/static/css/main.71eb7733.css.map",
-    "main.41c80a62.js.map": "/critical_care_papers_with_gemini/static/js/main.41c80a62.js.map",
+    "main.c7f44969.js.map": "/critical_care_papers_with_gemini/static/js/main.c7f44969.js.map",
     "453.b41e37f4.chunk.js.map": "/critical_care_papers_with_gemini/static/js/453.b41e37f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71eb7733.css",
-    "static/js/main.41c80a62.js"
+    "static/js/main.c7f44969.js"
   ]
 }
