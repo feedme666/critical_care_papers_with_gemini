@@ -224,14 +224,6 @@
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39658862/"
   },
   {
-    "id": 36,
-    "登録日": "2025-03-01",
-    "original_title": "Nonpharmacologic Interventions for Prevention and Treatment of Delirium in the Intensive Care Unit: A Systematic Review and Meta-analysis",
-    "雑誌名巻号出版年_ページ": "JAMA. 2025;333(4):340-352",
-    "pmid": 39804681,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39804681"
-  },
-  {
     "id": 37,
     "登録日": "2025-03-01",
     "original_title": "Effectiveness of an Artificial Intelligence Tool for Sepsis Screening and Treatment in the Emergency Department: A Cluster Randomized Clinical Trial",
@@ -896,14 +888,6 @@
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39908192/"
   },
   {
-    "id": 127,
-    "登録日": "2025-10-01",
-    "original_title": "Effects of Preoxygenation With Intratracheal Suctioning During Extubation: An Alternating Cluster-Controlled Trial (INtratracheal suctioning and oxygenation AT Extubation [INNOVATE])",
-    "雑誌名巻号出版年_ページ": "Crit Care Med. 2025 Aug 7.",
-    "pmid": 40772798,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40772798/"
-  },
-  {
     "id": 128,
     "登録日": "2025-10-01",
     "original_title": "Efficacy and safety of adamgammadex for reversing rocuronium-induced deep neuromuscular block: a multicentre, randomised, double-blind, positive-controlled phase III trial",
@@ -958,22 +942,6 @@
     "雑誌名巻号出版 年_ページ": "Anaesthesia 2025; 80: 425-447",
     "pmid": 39781579,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39781579/"
-  },
-  {
-    "id": 135,
-    "登録日": "2025-10-05",
-    "original_title": "Treatment of Invasive Pulmonary Aspergillosis and Preventive and Empirical Therapy for Invasive Candidiasis in Adult Pulmonary and Critical Care Patients",
-    "雑誌名巻号出版年_ページ": "Am J Respir Crit Care Med. 2025 Jan;211(1):34-53",
-    "pmid": 39556361,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39556361/"
-  },
-  {
-    "id": 136,
-    "登録日": "2025-10-05",
-    "original_title": "Endovascular management of haemorrhage and vascular lesions in patients with multiple and/or severe injuries: a systematic review and clinical practice guideline update",
-    "雑誌名巻号出版年_ページ": "Eur J Trauma Emerg Surg. 2025;51:22",
-    "pmid": 39820621,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39820621/"
   },
   {
     "id": 137,
@@ -1102,14 +1070,6 @@
     "雑誌名巻号出版年_ページ": "Crit Care Med. 2025 Mar;53(3):e690-e698",
     "pmid": 39982130,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982130/"
-  },
-  {
-    "id": 153,
-    "登録日": "2025-10-19",
-    "original_title": "Effects of Increased Cardiopulmonary Bypass Pump Flow on Renal Filtration, Perfusion, Oxygenation, and Tubular Injury in Cardiac Surgical Patients: A Randomized Controlled Trial",
-    "雑誌名巻号出版年_ページ": "Anesthesiology. 2025;143:906-16",
-    "pmid": 40622858,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40622858/"
   },
   {
     "id": 155,
@@ -1518,5 +1478,21 @@
     "雑誌名巻号出版年_ページ": "Pancreatology . 2025;25(5):770-814.",
     "pmid": 40651900,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40651900"
+  },
+  {
+    "id": 206,
+    "登録日": "2026-02-13",
+    "original_title": "Treatment of Invasive Pulmonary Aspergillosis and Preventive and Empirical Therapy for Invasive Candidiasis in Adult Pulmonary and Critical Care Patients: An Official American Thoracic Society Clinical Practice Guideline",
+    "雑誌名巻号出版年_ページ": "Am J Respir Crit Care Med . 2025 Jan 1;211(1):34-53.",
+    "pmid": 39556361,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39556361/"
+  },
+  {
+    "id": 207,
+    "登録日": "2026-02-13",
+    "original_title": "Endovascular management of haemorrhage and vascular lesions in patients with multiple and/or severe injuries: a systematic review and clinical practice guideline update",
+    "雑誌名巻号出版年_ページ": "Eur J Trauma Emerg Surg . 2025 Jan 16;51(1):22.",
+    "pmid": 39820621,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39820621"
   }
 ]
