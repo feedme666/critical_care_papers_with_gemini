@@ -1452,8 +1452,8 @@
     "登録日": "2026-02-09",
     "original_title": "Consensus statements on end-of-life care in ICU – A Scandinavian multidisciplinary Delphi study",
     "雑誌名巻号出版年_ページ": "Acta Anaesthesiol Scand . 2025;69:e70015.",
-    "pmid": null,
-    "pubmed_link": null
+    "pmid": 40066825,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40066825"
   },
   {
     "id": 203,
@@ -1494,5 +1494,21 @@
     "雑誌名巻号出版年_ページ": "Eur J Trauma Emerg Surg . 2025 Jan 16;51(1):22.",
     "pmid": 39820621,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39820621"
+  },
+  {
+    "id": 208,
+    "登録日": "2026-02-14",
+    "original_title": "Cardiac ultrasound in cardiovascular emergency and critical care: a clinical consensus statement of the European Association of Cardiovascular Imaging, the Acute CardioVascular Care Association of the European Society of Cardiology, and the European Association of Cardiothoracic Anaesthesia and Intensive Care",
+    "雑誌名巻号出版年_ページ": "Eur Heart J Cardiovasc Imaging. 2025 Jan 1;26(1):1699-1724.",
+    "pmid": 40838793,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40838793"
+  },
+  {
+    "id": 209,
+    "登録日": "2026-02-14",
+    "original_title": "The Definition of the Intensivist in the Era of Global Healthcare: 2024 Consensus Statement From the Society of Critical Care Medicine Defining Intensivist Task Force",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2025 Mar 1;53(3):e548-e554.",
+    "pmid": 39982148,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39982148/"
   }
 ]

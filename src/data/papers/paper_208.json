@@ -1,0 +1,80 @@
+{
+  "id": 208,
+  "type": "guideline",
+  "題名": "心血管救急および集中治療における心エコー：欧州心血管イメージング学会（EACVI）、欧州心臓病学会（ESC）急性心血管ケア協会（ACVC）、および欧州心臓胸郭麻酔・集中治療学会（EACTAIC）による臨床コンセンサス声明",
+  "original_title": "Cardiac ultrasound in cardiovascular emergency and critical care: a clinical consensus statement of the European Association of Cardiovascular Imaging, the Acute CardioVascular Care Association of the European Society of Cardiology, and the European Association of Cardiothoracic Anaesthesia and Intensive Care",
+  "作成団体": "欧州心血管イメージング学会 (EACVI), 欧州心臓病学会 (ESC) 急性心血管ケア協会 (ACVC), 欧州心臓胸郭麻酔・集中治療学会 (EACTAIC)",
+  "雑誌名_巻号_出版年_ページ": "Eur Heart J Cardiovasc Imaging. 2025 Jan 1;26(1):1699-1724.",
+  "登録日": "2026-02-14",
+  "タグ": [
+    "循環器系",
+    "ガイドライン・提言"
+  ],
+  "概要": "本コンセンサス声明は、救急および集中治療領域における心臓超音波（CUS）の活用に関する包括的な実践ガイドを提供することを目的としている。FoCUS（Focused Cardiac Ultrasound）からCCE（Critical Care Echocardiography）まで、多職種の専門家による合意に基づき、適切な適応、診断アプローチ、トレーニング、ガバナンスについて詳述している。救急・集中治療の現場で直面するショック、呼吸不全、胸痛などの主要な臨床シナリオにおけるCUSの役割を再定義し、最新の技術動向（AI、ストレイン、ハンドヘルドデバイス）を統合している。",
+  "対象": "救急外来や集中治療室（ICU）で管理される、心血管系の緊急事態（ショック、急性呼吸不全、胸痛、心停止など）を呈する成人患者、およびそれらに携わる多職種の医療従事者。",
+  "作成プロセス": {
+    "開発方法論": "EACVI、ACVC、EACTAICから選出された専門家パネルによるコンセンサス形成。既存の2011年EAE/ASEフォーカス心エコー声明を基盤とし、最新のエビデンスと臨床的知見を統合して作成された。",
+    "検索戦略と選定基準": "具体的な検索式は明記されていないが、各臨床領域の重要文献および既存のガイドラインを網羅的に検討し、専門家間での議論を通じて推奨事項が策定された。"
+  },
+  "推奨事項": {
+    "title": "主要な推奨事項",
+    "recommendations": [
+      {
+        "cq": "救急・集中治療におけるFoCUSの役割は何か？",
+        "recommendation_statement": "FoCUSは身体診察の延長として、左室・右室の全体的な機能評価、心嚢液貯留の有無、下大静脈の評価を迅速に行うために全ての心血管緊急事態で実施されるべきである。",
+        "strength_of_recommendation": "強い",
+        "level_of_evidence": "A",
+        "remarks": "適切なトレーニングを受けた非専門医によっても実施可能である。"
+      },
+      {
+        "cq": "心原性ショックにおけるCUSの活用は？",
+        "recommendation_statement": "ショックの鑑別診断（心原性、低容量性、閉塞性、分布性）のために、直ちにCUSを実施すべきである。特に機械的合併症（中隔穿孔、乳頭筋断裂、自由壁破裂）の迅速な除外に不可欠である。",
+        "strength_of_recommendation": "強い",
+        "level_of_evidence": "A",
+        "remarks": "経胸壁エコー（TTE）で不十分な場合は経食道エコー（TOE）を考慮する。"
+      },
+      {
+        "cq": "急性呼吸不全患者へのアプローチは？",
+        "recommendation_statement": "心エコー（CUS）と肺エコー（LUS）を組み合わせた統合的アプローチにより、心不全、肺塞栓、気胸、肺炎の鑑別を行うことが推奨される。",
+        "strength_of_recommendation": "強い",
+        "level_of_evidence": "B",
+        "remarks": "多臓器POCUSとしての評価が診断精度を高める。"
+      },
+      {
+        "cq": "心停止（CPR中）での使用は？",
+        "recommendation_statement": "CPRを中断することなく、可逆的な原因（タンパナーデ、肺塞栓、低容量）の特定のためにCUS（特にTOE）を使用することが推奨される。",
+        "strength_of_recommendation": "条件付き",
+        "level_of_evidence": "C",
+        "remarks": "胸骨圧迫の中断時間を最小限に抑えることが最優先である。"
+      }
+    ]
+  },
+  "ガイドラインの批判的吟味": {
+    "title": "ガイドラインの批判的吟味 (AGREE IIの観点を含む)",
+    "points": [
+      {
+        "subtitle": "適用範囲と目的",
+        "content": "救急・集中治療という時間的制約が厳しい臨床現場において、心エコーがいかに診断と治療方針の決定に寄与するかを具体的に示しており、目的は極めて明確である。"
+      },
+      {
+        "subtitle": "利害関係者の関与",
+        "content": "循環器、救急、麻酔、集中治療の欧州主要3学会が合同で作成しており、専門領域を超えた標準化が図られている点は高く評価できる。"
+      },
+      {
+        "subtitle": "作成の厳密性",
+        "content": "システマティックレビューのプロセスについての詳細な記載は欠けるが、最新の技術（3D、GLS、AI）やデバイス（HUD）の普及を踏まえた実戦的なアップデートとなっている。"
+      },
+      {
+        "subtitle": "提示の明瞭性",
+        "content": "ショック、胸痛、呼吸困難、心停止の各アルゴリズムや、適切な適応・不適応のリスト（Table 3）が非常に整理されており、臨床医にとって利便性が高い。"
+      },
+      {
+        "subtitle": "適用性",
+        "content": "トレーニングのレベル（Basic vs Advanced）やコンピテンシー（症例数など）についても具体的に言及しており、質の担保に向けた道筋が示されている。"
+      }
+    ]
+  },
+  "主要な改訂点": "2011年の前回声明以降、ハンドヘルドデバイス（HUD）の普及、ストレイン（GLS）解析の有用性、AIによる自動計測、多臓器POCUS（心・肺・血管）の統合、および高度なCCE（Critical Care Echocardiography）の定義について大幅な加筆が行われた。",
+  "pmid": 40838793,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40838793"
+}
