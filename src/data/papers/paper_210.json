@@ -1,0 +1,108 @@
+{
+  "id": 210,
+  "type": "guideline",
+  "題名": "フランスにおけるICUの医師配置、組織、および労働時間に関する専門家パネルによる正式なガイドライン：職場におけるQOL（Quality of Life at Work）の向上を目指して",
+  "original_title": "Formal guidelines from an expert panel: intensive care unit medical staffing, organisation and working hours to improve quality of life at work in France",
+  "作成団体": "French Intensive Care Society (FICS), French National Council of Intensive Care Medicine (CNP MIR)",
+  "雑誌名_巻号_出版年_ページ": "Ann Intensive Care. 2025 Jan 20;15(1):15.",
+  "登録日": "2026-02-26",
+  "タグ": [
+    "医療安全・倫理系",
+    "ガイドライン・提言"
+  ],
+  "概要": "フランス集中治療医学会（FICS）とフランス国家集中治療医学会議（CNP MIR）の主導により作成された、集中治療室（ICU）および中間ケア病棟（IICU）における医師の配置、組織運営、および労働時間に関する包括的なガイドライン。集中治療医の燃え尽き症候群（バーンアウト）の防止、ワークライフバランスの改善、そして最終的な患者の安全とケアの質の向上を目的としている。GRADE手法を用いた文献レビューと、デルファイ法に類する専門家合意形成プロセスを経て、6つの分野において22の推奨事項が策定された。",
+  "対象": "フランス国内のICUおよびIICUに従事する医師、医療機関の管理者、政策立案者。",
+  "作成プロセス": {
+    "開発方法論": "GRADE手法（Grade of Recommendation Assessment, Development and Evaluation）および専門家パネルによる合意形成プロセス。推奨の強さは「強い（Grade A）」「専門家意見（エキスパート・コンセンサス）」として分類された。",
+    "検索戦略と選定基準": "2024年までのPubMed、Cochrane Library等のデータベースを用いた体系的文献レビュー。ICUのスタッフ配置、組織、労働時間、QWL（Quality of Work Life）に関連するキーワードで検索。"
+  },
+  "推奨事項": {
+    "title": "主要な推奨事項",
+    "recommendations": [
+      {
+        "cq": "集中治療医の非臨床業務時間はどのように確保されるべきか？",
+        "recommendation_statement": "フルタイムの集中治療医は、臨床以外の業務（教育、研究、管理業務など）のために、週に2つの半日（計1日分）を確保することが推奨される。",
+        "strength_of_recommendation": "専門家意見",
+        "level_of_evidence": "強い合意",
+        "remarks": "継続的な学習と組織運営の質を維持するために不可欠である。"
+      },
+      {
+        "cq": "日中の適切な医師対患者比率は？",
+        "recommendation_statement": "日中のICUでは医師1人あたり最大6床、IICUでは最大8床の比率を維持することが推奨される。",
+        "strength_of_recommendation": "専門家意見",
+        "level_of_evidence": "強い合意",
+        "remarks": "患者の重症度とケアの質を考慮した基準である。"
+      },
+      {
+        "cq": "夜間および週末の医師配置はどうあるべきか？",
+        "recommendation_statement": "夜間および週末は、ICUおよびIICUを含む集中治療プラットフォーム全体で、医師1人あたり最大14床の比率を維持すべきである。",
+        "strength_of_recommendation": "専門家意見",
+        "level_of_evidence": "強い合意",
+        "remarks": "24時間365日の連続性を確保するための基準であり、夜間は複数のユニットを統合して管理することが想定されている。"
+      },
+      {
+        "cq": "連続勤務時間の上限と休息時間は？",
+        "recommendation_statement": "ICU内での連続勤務時間は最大16時間とし、24時間ごとに少なくとも11時間の連続した休息時間を確保しなければならない。",
+        "strength_of_recommendation": "Grade A (16h制限) / 専門家意見 (休息時間)",
+        "level_of_evidence": "強い合意",
+        "remarks": "16時間を超える連続勤務は医療過誤リスクを著しく高める。休息時間は法的・健康維持の観点から必須である。"
+      },
+      {
+        "cq": "週間および連続勤務日数の制限は？",
+        "recommendation_statement": "週あたりの平均労働時間は48時間を超えず、連続勤務日数は7日間のうち5日以内に制限することが推奨される。",
+        "strength_of_recommendation": "専門家意見",
+        "level_of_evidence": "強い合意",
+        "remarks": "長期的なバーンアウト防止のための基準である。"
+      },
+      {
+        "cq": "月あたりの夜勤回数と間隔は？",
+        "recommendation_statement": "1ヶ月あたりの夜勤回数は最大4回とし、各当直の間隔は少なくとも3日間空けることを推奨する。",
+        "strength_of_recommendation": "専門家意見",
+        "level_of_evidence": "強い合意",
+        "remarks": "睡眠パターンの回復と精神的健康の維持のため。"
+      },
+      {
+        "cq": "テレワークの導入は可能か？",
+        "recommendation_statement": "教育、研究、管理業務に関しては、集中治療医のテレワークを可能にする条件を整えるべきである。",
+        "strength_of_recommendation": "専門家意見",
+        "level_of_evidence": "強い合意",
+        "remarks": "柔軟な働き方の提供が、離職防止とQWL向上につながる。"
+      },
+      {
+        "cq": "加齢に伴う当直業務の扱いは？",
+        "recommendation_statement": "60歳以上の医師は本人の希望により当直業務を免除されることが可能であり、個人の身体的負荷に配慮した柔軟なキャリアパスを検討すべきである。",
+        "strength_of_recommendation": "専門家意見",
+        "level_of_evidence": "強い合意",
+        "remarks": "ベテラン医師の経験を維持しつつ、持続可能な働き方を支援する。"
+      }
+    ]
+  },
+  "ガイドラインの批判的吟味": {
+    "title": "ガイドラインの批判的吟味 (AGREE IIの観点を含む)",
+    "points": [
+      {
+        "subtitle": "スコープと目的",
+        "content": "ICU医師のQWLと組織運営に特化しており、極めて具体的かつ現代的な課題に応えている。目的は明確で、臨床医のウェルビーイングが患者アウトカムに直結するという視点が強調されている。"
+      },
+      {
+        "subtitle": "ステークホルダーの参加",
+        "content": "フランスの主要な集中治療関連学会が共同で作成しており、専門家パネルの構成も適切である。ただし、患者や家族の視点が推奨策の策定プロセスにどの程度反映されたかは不明確である。"
+      },
+      {
+        "subtitle": "厳格な作成方法",
+        "content": "GRADE手法を用いているが、多くの推奨事項が「専門家意見」に基づいている。これは、医師の配置や労働時間に関する高品質なRCT（ランダム化比較試験）が倫理的・組織的に困難であることを反映しているが、エビデンスの限界を認識する必要がある。"
+      },
+      {
+        "subtitle": "提示の明瞭性",
+        "content": "推奨事項は簡潔で分かりやすく、具体的な数値（16時間、医師1対6床など）が提示されているため、現場への導入が容易である。"
+      },
+      {
+        "subtitle": "適用可能性",
+        "content": "フランスの法規制や医療制度（クローズドICU体制）を背景としているため、日本を含む他国の制度にそのまま適用するには慎重な検討が必要である。しかし、16時間制限や医師対患者比率の考え方は普遍的な意義を持つ。"
+      }
+    ]
+  },
+  "主要な改訂点": null,
+  "pmid": 39833429,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39833429/"
+}
