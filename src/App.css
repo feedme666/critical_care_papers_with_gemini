@@ -23,6 +23,15 @@ body {
     background-color: #6c757d !important;
 }
 
+/* Card Background Colors */
+.bg-guideline {
+  background-color: #eaf2f8 !important; /* 洗練された淡いブルーグレー (サイトの青テーマに調和し、信頼感を与える) */
+}
+
+.bg-rct {
+  background-color: #f4f5f7 !important; /* 極うすいグレー (白より少しだけ沈んだ色調で、上品で洗練された印象) */
+}
+
 /* Clean & Modern Modal Style */
 .modal-dialog.custom-modal .modal-content {
   background-color: #ffffff; /* Clean white background */

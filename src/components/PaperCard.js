@@ -2,10 +2,19 @@ import React from 'react';
 import { Card, Badge, Col } from 'react-bootstrap';
 
 const PaperCard = ({ paper, onCardClick }) => {
+  let cardClass = "h-100 shadow-sm paper-card";
+  if (paper.タグ) {
+    if (paper.タグ.some(tag => tag === "ガイドライン・提言")) {
+      cardClass += " bg-guideline";
+    } else if (paper.タグ.some(tag => tag.includes("ランダム化比較試験"))) {
+      cardClass += " bg-rct";
+    }
+  }
+
   return (
     <Col key={paper.id}>
       <Card 
-        className="h-100 shadow-sm paper-card"
+        className={cardClass}
         onClick={() => onCardClick(paper)}
         style={{ cursor: 'pointer' }}
       >
