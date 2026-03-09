@@ -25,11 +25,11 @@ body {
 
 /* Card Background Colors */
 .bg-guideline {
-  background-color: #eaf2f8 !important; /* 洗練された淡いブルーグレー (サイトの青テーマに調和し、信頼感を与える) */
+  background-color: #f1fcf1 !important; /* さらに淡いグリーン */
 }
 
 .bg-rct {
-  background-color: #f4f5f7 !important; /* 極うすいグレー (白より少しだけ沈んだ色調で、上品で洗練された印象) */
+  background-color: #eaf2f8 !important; /* 洗練された淡いブルーグレー (以前のガイドライン色) */
 }
 
 /* Clean & Modern Modal Style */
