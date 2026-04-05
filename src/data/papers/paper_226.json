@@ -1,0 +1,958 @@
+{
+  "id": 226,
+  "type": "guideline",
+  "題名": "SSCG 2026：敗血症および敗血症性ショックの管理に関する国際ガイドライン 2026",
+  "original_title": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026",
+  "作成団体": "Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM)",
+  "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2026 Mar 23.",
+  "登録日": "2026-04-04",
+  "タグ": [
+    "ガイドライン・提言"
+  ],
+  "概要": "本ガイドラインは、病院前、病院内、および退院後の環境における敗血症および敗血症性ショックの成人患者の管理を支援することを目的としている。抗菌薬適正使用の原則、適切な診断戦略、早期治療、血行動態管理に重点を置いており、エビデンスに基づくベストプラクティスを臨床医に提供する。",
+  "対象": "敗血症および敗血症性ショックの成人患者",
+  "作成プロセス": {
+    "開発方法論": "GRADE (Grading of Recommendations, Assessment, Development, and Evaluations) アプローチおよびEvidence to Decision (EtD) フレームワーク",
+    "検索戦略と選定基準": "患者中心のアウトカムを優先し、PICOクエスチョンに基づくシステマティックレビューとメタアナリシスを実施。"
+  },
+  "推奨事項": {
+    "title": "主要な推奨事項",
+    "recommendations": [
+      {
+        "cq": "スクリーニングと早期対応",
+        "recommendation_statement": "病院および医療システムに対して、敗血症のパフォーマンス改善プログラムを使用することを推奨する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "スクリーニングと早期対応",
+        "recommendation_statement": "病院および医療システムに対して、プロトコルを使用しない場合と比較して、「コード・セプシス」または「敗血症ハドル」プロトコルを使用することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "プレホスピタル対応",
+        "recommendation_statement": "救急車または航空機で病院へ搬送中の急性期成人患者において、スクリーニングツールを使用しない場合と比較して、標準的な敗血症スクリーニングツールを使用することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "スクリーニングと早期対応",
+        "recommendation_statement": "病院内の急性期患者において、敗血症をスクリーニングするための単一のツールとして、qSOFAよりもNEWS、NEW2、MEWS、またはSIRSを使用することを推奨する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "診断",
+        "recommendation_statement": "敗血症は臨床診断であり、単一のバイオマーカーや診断テストを用いて確定診断または除外診断を行うべきではない。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "診断",
+        "recommendation_statement": "新規の迅速宿主応答診断薬の使用に関する推奨を行うには、エビデンスが不十分である。",
+        "strength_of_recommendation": "推奨なし（エビデンス不十分）",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "初期評価",
+        "recommendation_statement": "敗血症または敗血症性ショックの可能性がある、疑われる、あるいは確定している成人患者において、可能な限り早く、理想的には抗菌薬投与前に血液培養を採取することを推奨する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "初期評価",
+        "recommendation_statement": "敗血症または敗血症性ショックの可能性がある、疑われる、あるいは確定している成人患者において、血中乳酸値を測定することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "初期対応",
+        "recommendation_statement": "敗血症および敗血症性ショックは内科的救急疾患であり、治療と蘇生は直ちに開始されるべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "循環管理（初期蘇生）",
+        "recommendation_statement": "敗血症誘発性低灌流または敗血症性ショックの成人患者において、最初の3時間以内に少なくとも30 mL/kgの静脈内晶質液を投与することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "循環管理（初期蘇生）",
+        "recommendation_statement": "敗血症誘発性低血圧の成人患者において、初期の静脈内晶質液ボーラス蘇生を行い、低血圧が持続する場合には血管収縮薬のサポートを続けることを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "循環管理（血管収縮薬）",
+        "recommendation_statement": "敗血症性ショックの成人患者において、中心静脈アクセスの確保まで開始を遅らせるのではなく、平均動脈圧を回復させるために末梢から血管収縮薬を開始することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "循環管理（目標血圧）",
+        "recommendation_statement": "敗血症性ショックの成人患者において、より高いMAP目標よりも、初期の平均動脈圧（MAP）目標を65 mm Hgとすることを推奨する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "循環管理（目標血圧）",
+        "recommendation_statement": "65歳以上の敗血症性ショックの成人患者において、より高い範囲よりも、初期のMAP目標範囲を60〜65 mm Hgとすることを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "ICU入室",
+        "recommendation_statement": "ICU入室を必要とする敗血症または敗血症性ショックの成人患者において、6時間以内に患者をICUに入室させることを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬治療",
+        "recommendation_statement": "敗血症性ショックの可能性がある、疑われる、あるいは確定している成人患者において、直ちに、理想的には認識から1時間以内に抗菌薬治療を投与することを推奨する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬治療",
+        "recommendation_statement": "ショックを伴わない、敗血症が疑われる、または確定している成人患者において、直ちに、理想的には認識から1時間以内に抗菌薬治療を投与することを推奨する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬治療",
+        "recommendation_statement": "ショックを伴わない、敗血症の可能性がある成人患者において、期限を定めた迅速な評価を行い、感染の懸念が持続する場合は認識から3時間以内に抗菌薬治療を投与することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬治療",
+        "recommendation_statement": "臨床医は、ショックを伴わない敗血症の可能性がある成人患者において、急性疾患の原因が感染性か非感染性かの可能性について迅速な評価を行うべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬治療",
+        "recommendation_statement": "ショックを伴わず、感染の可能性が低い成人患者において、患者の綿密なモニタリングを継続しながら抗菌薬治療を延期することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "プレホスピタル対応",
+        "recommendation_statement": "敗血症が確定または疑われ、低血圧（すなわち敗血症性ショック）を伴い、病院内での医学的評価までに60分以上かかると予想される成人患者において、救急車または航空機内で抗菌薬治療を投与することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬治療",
+        "recommendation_statement": "敗血症または敗血症性ショックの可能性がある、または疑われる成人患者において、抗菌薬治療を開始するかどうかの決定に、プロカルシトニンと臨床評価の組み合わせよりも臨床評価単独を用いることを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "ソースコントロール",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者は、緊急のソースコントロールを必要とする特定の解剖学的診断または感染源について迅速に評価されるべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "ソースコントロール",
+        "recommendation_statement": "敗血症または敗血症性ショックであり、ソースコントロールを必要とする特定の解剖学的診断または感染源を有する成人患者において、遅いソースコントロールよりも、理想的には敗血症または敗血症性ショックの診断から6時間以内の早期ソースコントロールを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬治療",
+        "recommendation_statement": "特定の多剤耐性（MDR）病原体による感染リスクが高い敗血症または敗血症性ショックの成人患者において、このMDR病原体をカバーする経験的抗菌薬治療を使用することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬治療",
+        "recommendation_statement": "特定のMDR病原体による感染リスクが低い敗血症または敗血症性ショックの成人患者において、このMDR病原体をカバーする経験的抗菌薬治療を使用しないことを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "経験的抗真菌薬治療",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、経験的抗真菌薬治療の使用を「行わないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "経験的抗真菌薬治療は、免疫抑制状態、長期の抗菌薬使用、長期入院、腹腔内感染源などの真菌感染の危険因子を有する一部の敗血症または敗血症性ショック患者において、個別に考慮されるべきである。"
+      },
+      {
+        "cq": "経験的嫌気性菌カバー",
+        "recommendation_statement": "嫌気性菌感染の危険因子を持たない敗血症または敗血症性ショックの成人患者において、嫌気性菌をカバーしない経験的抗菌薬レジメンを使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "潜在的な多剤耐性（MDR）病原体のカバーが必要な場合、嫌気性菌カバーを持たない代替薬が不十分であるときには、嫌気性菌に対する活性を持つ薬剤（例：ピペラシリン・タゾバクタムやカルバペネム系）が適切である。"
+      },
+      {
+        "cq": "経験的嫌気性菌カバー",
+        "recommendation_statement": "嫌気性菌感染の特異的な危険因子を有する敗血症または敗血症性ショックの成人患者において、嫌気性菌をカバーする経験的抗菌薬レジメンを使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "嫌気性菌感染の危険因子には、腹腔内感染、深部の婦人科的/産科的感染源、壊死性軟部組織感染症、頭頸部感染症、中枢神経系膿瘍または膿胸が含まれる。"
+      },
+      {
+        "cq": "上気道の微生物学的サーベイランス",
+        "recommendation_statement": "経験的抗菌薬治療の指針とするために、部門（例：ICU全体）における上気道の微生物学的サーベイランスサンプルを使用することに関して、推奨を行うための「十分なエビデンスがない」。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "病原体特異的迅速診断検査",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、臨床的特徴、地域の病原体および耐性パターン、季節性、検査の利用可能性、ならびに抗菌薬適正使用支援（AS）のガイダンスに基づき、選択された患者において個別に病原体特異的迅速診断検査を使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "カンジダ真菌バイオマーカー（治療開始）",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、経験的抗真菌薬治療の開始の指標としてカンジダ真菌バイオマーカーを使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "経験的抗真菌薬治療の開始指標としてのカンジダバイオマーカーの使用は、免疫抑制、長期の抗菌薬曝露、長期入院、腹腔内感染源などのカンジダ感染の高リスク患者において、個別に考慮されてもよい。"
+      },
+      {
+        "cq": "βラクタム系薬の延長/持続投与",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、ボーラス投与よりも、（初回負荷投与後の）維持投与としてβラクタム系薬の持続または延長投与（prolonged infusion）を使用することを「推奨する」。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬の薬物血中濃度モニタリング（TDM）",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、臨床的特徴、地域の病原体および耐性パターン、薬剤クラス、ならびにTDMの利用可能性に基づき、選択された患者において個別に抗菌薬の薬物血中濃度モニタリング（TDM）を使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬の再評価と中止",
+        "recommendation_statement": "感染が未確定で敗血症または敗血症性ショックが疑われる成人患者において、代替となる疾患の原因が証明されるか強く疑われる場合、臨床医は患者を継続的に再評価し、代替診断を探索し、経験的抗菌薬治療を中止すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬治療のde-escalation",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、確定された微生物学的診断および感受性プロファイルが得られた場合、非de-escalation（継続）よりも抗菌薬治療のde-escalation（漸減）を行うことを「推奨する」。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "de-escalationには、不要な抗菌薬治療の中止や、適切な場合は抗菌薬のスペクトルを狭めることが含まれる。"
+      },
+      {
+        "cq": "抗菌薬治療のde-escalation",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、最終培養結果で病原体が特定されなかった場合、非de-escalationよりも抗菌薬治療のde-escalationを行うことを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "カンジダ真菌バイオマーカー（治療中止）",
+        "recommendation_statement": "経験的抗真菌薬治療を受けている敗血症または敗血症性ショックの成人患者において、経験的抗真菌薬治療の中止の指標としてカンジダ真菌バイオマーカーを使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "経験的抗真菌薬治療の中止指標としてのカンジダバイオマーカーの使用は、免疫抑制、長期の抗菌薬使用、長期入院、腹腔内感染源などのカンジダ感染の高リスクであり、臨床的に改善している一部の患者において、個別に考慮されてもよい。"
+      },
+      {
+        "cq": "抗菌薬治療の期間",
+        "recommendation_statement": "初回に敗血症または敗血症性ショックと診断され、適切な感染源コントロールが行われている成人患者において、長期間よりも短期間の抗菌薬治療を使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "抗菌薬中止のためのバイオマーカー",
+        "recommendation_statement": "初回に敗血症または敗血症性ショックと診断され、適切な感染源コントロールが行われているが最適な治療期間が不明な成人患者において、抗菌薬治療の中止時期を決定するために、臨床的評価単独よりもプロカルシトニンと臨床的評価の併用を使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "選択的消化管除菌（SDD）",
+        "recommendation_statement": "抗菌薬耐性の有病率が低い部門（ユニット）で人工呼吸器を装着している敗血症または敗血症性ショックの成人患者において、選択的消化管除菌（SDD）を使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "血圧モニタリング",
+        "recommendation_statement": "敗血症性ショックの成人患者において、観血的または非観血的血圧モニタリングのいずれかを使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "観血的血圧モニタリングは、中等量〜高用量の血管収縮薬、用量漸増中の血管収縮薬、または複数の血管収縮薬を必要とするショック患者、頻回な動脈血採血を受けている患者、または反復評価において非観血的血圧測定が一貫しないショック患者において推奨される。"
+      },
+      {
+        "cq": "蘇生輸液の選択",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、第一選択の蘇生輸液として晶質液を使用することを「推奨する」。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "蘇生輸液の選択（緩衝晶質液）",
+        "recommendation_statement": "初期蘇生を受けている敗血症または敗血症性ショックの成人患者において、0.9%生理食塩水よりも緩衝晶質液を使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": "敗血症および外傷性脳損傷を伴う患者には、0.9%生理食塩水の使用を提案する。"
+      },
+      {
+        "cq": "蘇生輸液の選択（アルブミン）",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、輸液蘇生のために晶質液にアルブミンを補充するよりも、晶質液単独を使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": "すでに大量の晶質液を投与された患者や肝硬変を有する患者には、アルブミンの補充が適切となる場合がある。外傷性脳損傷を伴う患者では、アルブミンの補充は避けるべきである。"
+      },
+      {
+        "cq": "蘇生輸液の選択（デンプン）",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、蘇生にヒドロキシエチルデンプン（HES）を使用「しないことを推奨する」。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "高い",
+        "remarks": null
+      },
+      {
+        "cq": "蘇生輸液の選択（ゼラチン）",
+        "recommendation_statement": "敗血症および敗血症性ショックの成人患者において、蘇生にゼラチンを使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "継続的輸液蘇生の戦略",
+        "recommendation_statement": "すでに30 mL/kgの輸液蘇生を受け、持続的な低灌流を有する敗血症または敗血症性ショックの成人患者において、個々の患者および医療システム要因に基づいて、リベラル（制限なし）または制限的輸液蘇生戦略のいずれかを使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "各試験のリベラル群と制限群間で、使用されたプロトコルや投与された輸液量には大きなばらつきがあった。考慮すべき患者および医療システム要因には、患者の現在の臨床状態および慢性疾患（例：心不全）、モニタリング機能付きベッドの利用可能性（すなわち、制限的アプローチによって血管収縮薬の使用が必要となる場合）が含まれる。"
+      },
+      {
+        "cq": "輸液反応性の評価",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、身体診察や静的指標単独よりも、動的指標を使用して輸液蘇生をガイドすることを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "動的指標には、一回拍出量（SV）、一回拍出量変動（SVV）、脈圧（PP）、または脈圧変動（PPV）を用いた、下肢挙上試験や急速輸液負荷に対する反応が含まれる。"
+      },
+      {
+        "cq": "心拍出量モニタリング",
+        "recommendation_statement": "敗血症性ショックの成人患者において、通常ケアに加えて低侵襲または非侵襲的心拍出量モニタリングを使用することに関して、推奨を行うための「十分なエビデンスがない」。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": "低侵襲心拍出量モニタリングは、動脈カテーテルを必要とするデバイスを指す。非侵襲的心拍出量モニタリングは、生体リアクタンスを用いるデバイスを指す。通常ケアは、肺動脈カテーテルを用いないケアを指す。集中治療における超音波エコーの使用は評価されなかった。"
+      },
+      {
+        "cq": "乳酸値ガイド下蘇生",
+        "recommendation_statement": "乳酸値が上昇している敗血症または敗血症性ショックの成人患者において、蘇生をガイドするために血中乳酸値の連続測定を使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "輸液投与は、乳酸値が正常化するまで継続するのではなく、初回の急速輸液後に乳酸値の低下をモニタリングしながら個別化して行われるべきである。"
+      },
+      {
+        "cq": "毛細血管再充満時間（CRT）ガイド下蘇生",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、他の灌流指標の補助として、毛細血管再充満時間（CRT）を使用して蘇生をガイドすることを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "血管収縮薬",
+        "recommendation_statement": "敗血症性ショックの成人患者において、ドパミン、エピネフリン、またはセレプレシンよりも第一選択薬としてノルエピネフリンを使用することを「推奨」する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "高い〜低い",
+        "remarks": null
+      },
+      {
+        "cq": "血管収縮薬",
+        "recommendation_statement": "敗血症性ショックの成人患者において、テルリプレシンの使用を「行わないよう提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "血管収縮薬",
+        "recommendation_statement": "敗血症性ショックの成人患者において、バソプレシンまたはアンジオテンシンIIよりも第一選択薬としてノルエピネフリンを使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い〜非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "血管収縮薬",
+        "recommendation_statement": "ノルエピネフリンが増量されている敗血症性ショックの成人患者において、バソプレシンを追加することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "血管収縮薬",
+        "recommendation_statement": "ノルエピネフリンおよびバソプレシンを使用しても平均動脈圧（MAP）が不十分な敗血症性ショックの成人患者において、エピネフリンを追加することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "バソプレシンが利用できない環境では、ノルエピネフリン単独にエピネフリンを追加することができる。"
+      },
+      {
+        "cq": "血管収縮薬",
+        "recommendation_statement": "心機能障害を合併する敗血症性ショックの成人患者において、第一選択の血管収縮薬としてノルエピネフリンまたはエピネフリンのいずれかを使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "頻脈性不整脈または有意な洞性頻脈を有する患者ではノルエピネフリンが好ましい場合がある。逆に、徐脈性不整脈または有意な洞性徐脈を有する患者ではエピネフリンが好ましい場合がある。"
+      },
+      {
+        "cq": "メチレンブルー",
+        "recommendation_statement": "難治性の敗血症性ショックで血管収縮薬の必要量が増加している成人患者に対して、静注メチレンブルーの使用を推奨するための「十分なエビデンスはない」。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": "メチレンブルーは血圧を改善する可能性があるが、レスキュー療法としての使用が生存率を改善するかどうかを判断するための十分なエビデンスはない。治療可能な疾患の可能性がある患者の中には、試みる価値を見出す者もいるかもしれない。「我々の診療では」、パネリストの69%はレスキュー療法としてメチレンブルーを「全く」または「ほとんど」使用せず、23%が「時々」使用し、6%が「通常」使用し、1.5%が「ほぼ常に」使用している。"
+      },
+      {
+        "cq": "強心薬",
+        "recommendation_statement": "適切な輸液状態および動脈圧にもかかわらず持続的な低灌流を伴う心機能障害を有する敗血症性ショックの成人患者において、強心薬を使用しないことよりも強心薬を使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "目標の平均動脈圧を維持するために血管収縮薬を必要とする患者に対しては、血管収縮薬の「代わりに」ではなく、「追加して」強心薬を使用すべきである。"
+      },
+      {
+        "cq": "強心薬",
+        "recommendation_statement": "適切な輸液蘇生および動脈圧にもかかわらず持続的な低灌流と心機能障害を有する敗血症性ショックの成人患者において、ノルエピネフリンにドブタミンを追加するか、またはエピネフリンを単独で使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "ドブタミンとミルリノンの比較に関する推奨を行うにはデータが不十分であった。"
+      },
+      {
+        "cq": "強心薬",
+        "recommendation_statement": "適切な循環血液量および動脈圧にもかかわらず持続的な低灌流を伴う心機能障害を有する敗血症性ショックの成人患者において、レボシメンダンの使用を「行わないよう提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "ミドドリン",
+        "recommendation_statement": "血管収縮薬を継続して必要とする敗血症性ショックの成人患者において、経口ミドドリンの使用に関する推奨を行うための「十分なエビデンスはない」。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "β遮断薬",
+        "recommendation_statement": "敗血症性ショックの成人患者において、敗血症性ショックの治療としてβ遮断薬を使用することを「行わないよう提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "この推奨は、敗血症性ショックの治療として処方された短時間作用型の静注β遮断薬（エスモロールおよびランジオロール）のエビデンスに基づいている。"
+      },
+      {
+        "cq": "低酸素血症のモニタリング",
+        "recommendation_statement": "敗血症の成人患者において、身体診察および臨床的洞察と併せて、パルスオキシメーター（SpO2）または動脈血ガス（SaO2）のいずれかによって酸素化を測定することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "動脈血ガス測定は酸素化を評価するためのゴールドスタンダードであり、pH、PaCO2、乳酸、重炭酸塩などの他の重要な情報を含み、利用可能な場合は好ましい。パルスオキシメーターによるSpO2/FiO2はPaO2/FiO2比の代わりになり得るが、ショック状態の患者、肌の色が濃い患者、および/または酸素飽和度が90%未満または97%を超える患者では精度が低い。"
+      },
+      {
+        "cq": "酸素化の目標",
+        "recommendation_statement": "敗血症および急性低酸素血症性呼吸不全の成人患者において、患者の要因およびリソースの制限に応じて、より高いリベラルな酸素化目標またはより低い保守的な酸素化目標のいずれかをターゲットとしてFiO2を滴定することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "この推奨の根拠となった試験間でばらつきがあったが、多くは下限目標として約90〜93%のSpO2、上限目標としてSpO2 96%以上を使用していた。「我々の診療では」、パネリストは敗血症および急性低酸素血症性呼吸不全の患者に対して90%（IQR 90〜92%）から96%（IQR 94〜98%）の間のSpO2を目標としている。"
+      },
+      {
+        "cq": "非侵襲的呼吸管理",
+        "recommendation_statement": "敗血症および急性低酸素血症性呼吸不全の成人患者において、従来の酸素療法よりもネーザルハイフロー（HFNC）療法を使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "この推奨は、PaO2/FiO2比が200未満またはSpO2/FiO2比が235未満の患者に関するものである。"
+      },
+      {
+        "cq": "非侵襲的呼吸管理",
+        "recommendation_statement": "敗血症および急性低酸素血症性呼吸不全の成人患者において、非侵襲的陽圧換気（NIPPV）よりもHFNCを初期治療として使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "非侵襲的呼吸管理",
+        "recommendation_statement": "敗血症および急性低酸素血症性呼吸不全の成人患者において、HFNCと非侵襲的陽圧換気（NIPPV）を交互に行うよりもHFNCを単独で使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "覚醒下腹臥位療法",
+        "recommendation_statement": "挿管されていない敗血症および急性低酸素血症性呼吸不全の成人患者において、覚醒下腹臥位療法の試みを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": "腹臥位の期間および頻度は患者の忍容性に依存する。非挿管患者において腹臥位の忍容性を高める目的で鎮静を使用すべきではない。"
+      },
+      {
+        "cq": "侵襲的機械換気",
+        "recommendation_statement": "敗血症およびARDSの成人患者において、高一回換気量（> 10 mL/kg）戦略よりも低一回換気量換気戦略（6 mL/kg）を使用することを「推奨」する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "高い",
+        "remarks": null
+      },
+      {
+        "cq": "侵襲的機械換気",
+        "recommendation_statement": "ARDSを伴わない敗血症関連の低酸素血症性呼吸不全の成人患者において、より低い一回換気量（4から6 mL/kg未満の予測体重[IBW]）よりも、6〜8 mL/kg IBWの一回換気量を使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "臨床現場ではARDSの診断が見逃されたり遅れたりすることが多いため、患者はARDSの発症について定期的にスクリーニングされるべきである。"
+      },
+      {
+        "cq": "侵襲的機械換気",
+        "recommendation_statement": "敗血症およびARDSの成人患者において、より高いプラトー圧よりも、プラトー圧の上限目標を30 cmH2Oとして使用することを「推奨」する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "高い",
+        "remarks": null
+      },
+      {
+        "cq": "侵襲的機械換気",
+        "recommendation_statement": "敗血症および中等症から重症のARDSの成人患者において、低いPEEPよりも高い呼気終末陽圧（PEEP）を使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "侵襲的機械換気",
+        "recommendation_statement": "敗血症および中等症から重症のARDSの成人患者において、漸増的なPEEP滴定戦略の使用を「行わないよう推奨」する。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "侵襲的機械換気",
+        "recommendation_statement": "敗血症および中等症から重症のARDSの成人患者において、1日12時間以上の腹臥位換気を使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "侵襲的機械換気",
+        "recommendation_statement": "敗血症および中等症から重症のARDSの成人患者において、持続的な神経筋遮断薬（NMBA）の注入よりも、NMBAの間欠的ボーラス投与を使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "静脈脱血静脈送血ECMO",
+        "recommendation_statement": "敗血症による重症ARDSの成人患者において、従来の機械換気が失敗した場合には、その使用をサポートするインフラが整った経験豊富な施設で静脈脱血静脈送血（veno-venous）ECMOを使用することを「提案」する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "コルチコステロイド",
+        "recommendation_statement": "敗血症性ショックの成人患者において、静注用コルチコステロイドを使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "解熱療法",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、臨床転帰の改善を目的とした解熱療法（薬物療法または体表冷却）を使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "ビタミンC",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、ビタミンCの静脈内投与を使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "免疫グロブリン",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、静注用免疫グロブリンを使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "血液浄化療法",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、血液灌流、高用量血液濾過、または血漿交換を含む血液浄化療法を使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "血液浄化療法",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、ポリミキシンB直接血液灌流法（PMX-DHP）を使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "ビタミンD",
+        "recommendation_statement": "敗血症および敗血症性ショックの成人患者において、敗血症治療のためにビタミンD療法を使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "XueBiJing注射液",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、規制当局の承認がある管轄区域外でXueBiJing注射液を使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "ストレス潰瘍予防",
+        "recommendation_statement": "消化管出血のリスク因子を有する敗血症または敗血症性ショックの成人患者において、ストレス潰瘍予防を行わないよりも、プロトンポンプ阻害薬を用いたストレス潰瘍予防を行うことを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "プロバイオティクス",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、プロバイオティクスを使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "除水",
+        "recommendation_statement": "急性期の蘇生フェーズを過ぎた敗血症性ショックの成人患者において、積極的な除水を行うことを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "輸血戦略",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、寛容な輸血戦略よりも制限的輸血戦略を使用することを「推奨する」。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "経腸栄養",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、早期（72時間以内）の経腸栄養の開始を「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "インスリン療法",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、血糖値が180 mg/dL（10 mmol/L）以上でインスリン療法を開始することを「推奨する」。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "腎代替療法",
+        "recommendation_statement": "腎代替療法の明確な適応がない、急性腎障害を伴う敗血症または敗血症性ショックの成人患者において、腎代替療法を使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "腎代替療法",
+        "recommendation_statement": "腎代替療法を要する急性腎障害を伴う敗血症または敗血症性ショックの成人患者において、持続的または間欠的腎代替療法のいずれかを使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "炭酸水素ナトリウム療法",
+        "recommendation_statement": "循環動態を改善するため、あるいは血管収縮薬の必要量を減らすために、血流低下による乳酸アシデミアを伴う敗血症性ショックの成人患者において、炭酸水素ナトリウム療法を使用「しないことを提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "炭酸水素ナトリウム療法",
+        "recommendation_statement": "重度の代謝性アシデミア（pH ≤7.2）および急性腎障害（AKINスコア2または3）を伴う敗血症性ショックの成人患者において、炭酸水素ナトリウム療法を使用することを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "静脈血栓塞栓症（VTE）予防",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、禁忌がない限り、薬理学的静脈血栓塞栓症（VTE）予防を使用することを「推奨する」。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "静脈血栓塞栓症（VTE）予防",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、VTE予防として未分画ヘパリンよりも低分子量ヘパリンを使用することを「推奨する」。",
+        "strength_of_recommendation": "強い推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "静脈血栓塞栓症（VTE）予防",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、薬理学的VTE予防と機械的VTE予防の併用よりも、薬理学的VTE予防の単独使用を「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "中程度",
+        "remarks": null
+      },
+      {
+        "cq": "ケアの目標",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者について、臨床医は患者および/または家族とケアの目標と予後について話し合うべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": "持ち越し"
+      },
+      {
+        "cq": "ケアの目標",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、ケアの目標に関する話し合いを遅い時期（72時間以降）よりも早い時期（72時間以内）に行うことを「提案する」。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "ケアの目標",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、ケアの目標についての話し合いを行う患者を特定するための特定の標準化された基準の使用に関する推奨を行うには「証拠が不十分」である。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": "再検討"
+      },
+      {
+        "cq": "ケアの目標",
+        "recommendation_statement": "医療システムは、敗血症または敗血症性ショックで退院する患者が事前指示書を作成する機会を確保するための戦略を実施すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": "新規"
+      },
+      {
+        "cq": "ケアの目標",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人患者において、退院前に事前指示書を体系的に作成することに関する推奨を行うには「証拠が不十分」である。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": "新規"
+      },
+      {
+        "cq": "Palliative Care",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人において、集中治療の正式な期間限定トライアル（TLT）に関する推奨を行うには「証拠が不十分」である。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": "TLTは、一定期間の生命維持治療を行うための共同計画であり、その後の治療への反応によって、治癒を目的としたICU治療を継続・強化するか、あるいは他の目標に向けたケアに切り替えるかを決定する情報を提供する。"
+      },
+      {
+        "cq": "Palliative Care",
+        "recommendation_statement": "患者および家族の症状や苦痛に対処するため、必要に応じて緩和ケアの原則（臨床医の判断に基づく緩和ケアへのコンサルテーションを含む場合がある）を治療計画に組み込むべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Palliative Care",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人において、臨床医の判断に基づく緩和ケアへのコンサルテーションよりも、全患者に対するルーチンの正式な緩和ケアへのコンサルテーションを行わないことを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": null
+      },
+      {
+        "cq": "In-Hospital Transitions",
+        "recommendation_statement": "ICUに入室した敗血症および敗血症性ショックの成人において、一般病棟への転棟時に、通常のケアと比較してクリティカルケア・トランジション・プログラムを使用することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "In-Hospital Transitions",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人において、移行期ケアにおいて、そのようなプロセスを持たない場合よりも、極めて重要な情報のハンドオフ（引き継ぎ）プロセスを使用することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "Screening for Economic and Social Support",
+        "recommendation_statement": "病院および医療システムは、敗血症または敗血症性ショックの患者に対して、経済的および社会的サポートの必要性（住宅、栄養、財政、および精神的サポートを含む）をスクリーニングし、これらのニーズを満たすために利用可能な紹介を行うべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Medication Reconciliation",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人において、ICUおよび病院からの退院を含むケアの移行時に、包括的な持参薬確認（メディケーション・レコンシリエーション）を実施すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Medication Reconciliation",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人において、ケアの移行時に薬剤師ベースのアプローチを用いた包括的な持参薬確認を行うことを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "Hospital Discharge Planning",
+        "recommendation_statement": "臨床チームは、退院計画が受容可能で実現可能なものとなるよう、敗血症または敗血症性ショックの成人とその家族に対し、ICU退出後および退院の計画における意思決定の共有に参加する機会を提供すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Hospital Discharge Planning",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人サバイバーとその家族に対し、臨床医は入院期間、敗血症と関連診断、治療、および敗血症後の一般的な障害に関する情報を、書面および口頭での退院サマリーにおいて提供すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Hospital Discharge Planning",
+        "recommendation_statement": "新たな障害を発症した敗血症または敗血症性ショックの成人において、退院計画には、新規および長期的な後遺症をサポート・管理できる臨床医によるフォローアップを含めるべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Hospital Discharge Planning",
+        "recommendation_statement": "医療システムは、患者、その家族、およびかかりつけ医が退院後の移行を乗り切るための適切な情報を提供されることを保証する戦略を実施すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Hospital Discharge Planning",
+        "recommendation_statement": "敗血症または敗血症性ショックによる入院から生存した成人において、特定の構造化された多要素の退院計画プロセスに関する推奨を行うための証拠は不十分である。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Education of Patients and Families on Sepsis",
+        "recommendation_statement": "敗血症または敗血症性ショックの成人サバイバーとその家族に対し、臨床医は入院期間、敗血症と関連診断、治療、および敗血症後の一般的な障害に関する情報を、書面および口頭での退院サマリーにおいて提供すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Education of Patients and Families on Sepsis",
+        "recommendation_statement": "敗血症および敗血症性ショックの成人とその家族に対して、退院前およびフォローアップの場で、書面および口頭による敗血症の教育（診断、治療、post-ICU/敗血症症候群）を提供することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "非常に低い",
+        "remarks": null
+      },
+      {
+        "cq": "Education of PCPs on Sepsis",
+        "recommendation_statement": "医療システムは、退院後の回復期間中に敗血症サバイバーとその家族をサポートするための知識と能力を臨床医が備えていることを保証する戦略を実施すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Education of PCPs on Sepsis",
+        "recommendation_statement": "かかりつけ医（PCP）に対して敗血症に焦点を当てた教育資料を提供することについて、通常のケアと比較して推奨を行うための証拠は不十分である。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Post-Discharge Care Coordination",
+        "recommendation_statement": "医療システムは、退院後の回復期間中に敗血症サバイバーとその家族をサポートする戦略を実施すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Post-Discharge Care Coordination",
+        "recommendation_statement": "早期の退院後フォローアップとルーチンの退院後フォローアップの比較について、推奨を行うための証拠は不十分である。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Post-hospital Evaluation and Management",
+        "recommendation_statement": "医療システムは、敗血症または敗血症性ショックでの退院後において、身体的、認知的、および精神的な問題の評価とフォローアップを促進すべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Post-hospital Evaluation and Management",
+        "recommendation_statement": "敗血症または敗血症性ショックでの入院からの成人サバイバーに対して、クリティカルケア後のフォローアップサービスを提供することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "フォローアップサービスは、地域で利用可能なリソースや患者のニーズに応じて、形式、強度、および期間が異なる場合がある。"
+      },
+      {
+        "cq": "Physical Rehabilitation",
+        "recommendation_statement": "48時間以上の侵襲的機械換気を受けた、敗血症または敗血症性ショックでの入院からの成人サバイバーに対して、退院後に身体リハビリテーションサービスを提供することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "身体リハビリテーションサービスは、地域で利用可能なリソースや患者のニーズに応じて、形式、強度、および期間が異なる場合がある。"
+      },
+      {
+        "cq": "Mental Health Services",
+        "recommendation_statement": "敗血症または敗血症性ショックでの入院からの成人サバイバーに対して、退院後にメンタルヘルスをサポートするサービスを提供することを提案する。",
+        "strength_of_recommendation": "条件付き推奨",
+        "level_of_evidence": "低い",
+        "remarks": "メンタルヘルスサポートサービスは、地域で利用可能なリソースや患者のニーズに応じて、形式、強度、および期間が異なる場合がある。"
+      },
+      {
+        "cq": "Mental Health Services",
+        "recommendation_statement": "メンタルヘルス疾患の臨床症状を示す敗血症または敗血症性ショックの成人サバイバーは、評価と管理のために適切な医療専門家に紹介されるべきである。",
+        "strength_of_recommendation": "実践上の望ましいステートメント",
+        "level_of_evidence": null,
+        "remarks": null
+      },
+      {
+        "cq": "Cognition-Targeted Therapy",
+        "recommendation_statement": "敗血症または敗血症性ショックでの入院からの成人サバイバーにおいて、通常のケアと比較した認知機能標的療法に関する推奨を行うための証拠は不十分である。",
+        "strength_of_recommendation": "推奨なし",
+        "level_of_evidence": null,
+        "remarks": "認知機能標的療法が使用されている場合、それらは受容可能で実現可能である可能性が高いため、使用を継続することは妥当である。"
+      }
+    ]
+  },
+  "ガイドラインの批判的吟味": {
+    "title": "ガイドラインの批判的吟味 (AGREE IIの観点を含む)",
+    "points": [
+      {
+        "subtitle": "範囲と目的",
+        "content": "敗血症と敗血症性ショックの管理という明確な臨床目的と対象患者が設定されており、病院前から退院後までの幅広いフェーズを網羅している。"
+      },
+      {
+        "subtitle": "利害関係者の関与",
+        "content": "23カ国から69名の専門家が参加し、LMIC（低・中所得国）からの参加者（38%）や患者・家族の代表者も含まれており、多様な視点が反映されている。産業界からの資金提供はなく、利益相反が適切に管理されている。"
+      },
+      {
+        "subtitle": "作成の厳密性",
+        "content": "GRADEアプローチおよびEtDフレームワークを用いて厳密にエビデンスを評価している。質向上（QI）の推奨や、各設定に合わせた「In our practice」ステートメントなど、実践的なガイダンスが強化されている。"
+      },
+      {
+        "subtitle": "明確さと提示",
+        "content": "強い推奨と条件付き推奨の区分が明確であり、臨床医が解釈しやすい。さらに視覚的なアルゴリズム（抗菌薬投与タイミングや血圧管理など）が提供されている。"
+      },
+      {
+        "subtitle": "適用性",
+        "content": "LMICでの適用を考慮した記載が追加されているが、いくつかの高度な介入や迅速診断については資源の限られた環境での実施には課題が残る。"
+      },
+      {
+        "subtitle": "編集の独立性",
+        "content": "SCCMおよびESICMにより全額資金提供されており、製薬企業等からの影響を受けていない点で独立性が高い。"
+      }
+    ]
+  },
+  "主要な改訂点": "病院前（救急車など）での抗菌薬投与や、より高度な質向上プログラムの導入が新たに推奨・提案された。また、65歳以上の高齢者においては初期MAPターゲットを60-65 mmHgへと低く設定することが条件付きで提案された。",
+  "pmid": 41869847,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41869847/"
+}

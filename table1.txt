@@ -1,0 +1,327 @@
+Table 1).
+METHODS
+Details on the guidelines scope, relationship to SSC bundles, history, and 
+sponsorship; committee selection, characteristics, and organization; conflicts 
+of interest management; patient, intervention, comparator, outcome (PICO) 
+question selection; outcomes prioritization; evidence synthesis; certainty of 
+evidence assessment; recommendation formulation; consensus voting; and 
+implications of strong vs. conditional recommendations are presented in 
+Supplemental Digital Content 1 (https://links.lww.com/CCM/H904). We 
+highlight key aspects of the methodology here.
+The SSC guidelines were fully funded by Society of Critical Care Medicine 
+(SCCM) and European Society of Intensive Care Medicine (ESICM), with meth-
+odological support from the Guidelines in Intensive Care Medicine, Development, 
+and Evaluation group. Sponsoring professional societies supported the partic-
+ipation of their representatives. There was no industry support. The 69-person 
+guidelines committee had broad geographic diversity, representing 23 countries, 
+with 38% of panelists currently or previously practicing in a low- or middle-
+income country (LMIC). The guidelines committee also had broad diversity of 
+clinical professions and disciplines, as detailed in Supplemental Digital Content 1 
+(https://links.lww.com/CCM/H904). We convened a patient and family advisory 
+panel who worked with the committee throughout the guidelines development 
+process to ensure incorporation of patients’ values and preferences.
+The guidelines committee was organized into six subgroups based on clin-
+ical domain: screening and early management; infection; hemodynamics; 
+Prescott et al
+2     www.ccmjournal.org April 2026 • Volume 54 • Number 4
+respiratory support; adjunctive and additional therapies; and goals of care, 
+transitions of care, and long-term outcomes, as well as a usability workgroup 
+that developed material to support dissemination and uptake of the guidelines. 
+Each subgroup had at least one panelist currently practicing in a LMIC.
+Evidence Synthesis
+The process for selecting PICO questions and completing evidence synthesis 
+is detailed in Supplemental Digital Content 1 (https://links.lww.com/CCM/
+H904). Prioritized patient-centered outcomes were selected a priori for each 
+question. PICO questions addressed in this guideline update are presented in 
+Supplemental Digital Content 2 (https://links.lww.com/CCM/H905).
+Evidence synthesis followed the Grading of Recommendations, Assessment, 
+Development, and Evaluations (GRADE) methodology. Evidence profiles for 
+each PICO question are presented in Supplemental Digital Content 3 (https://
+links.lww.com/CCM/H906), Supplemental Digital Content 4 (https://links.
+lww.com/CCM/H907), Supplemental Digital Content 5 (https://links.lww.
+com/CCM/H908), Supplemental Digital Content 6 (https://links.lww.com/
+CCM/H909), Supplemental Digital Content 7 (https://links.lww.com/CCM/
+H910), and Supplemental Digital Content 8 (https://links.lww.com/CCM/
+H911). The certainty of evidence was graded as high, medium, low, or very low 
+according to GRADE methodology. We used the Evidence to Decision (EtD) 
+framework (9) to support consistent, transparent, and structured formulation 
+of statements across the guideline. The EtD framework considers the balance 
+of effects, the certainty of evidence, as well as patient values, resource intensity, 
+equity, and cost effectiveness (9). The EtD summary of judgements for each 
+PICO question is presented in Supplemental Digital Content 3 (https://links.
+lww.com/CCM/H906), Supplemental Digital Content 4 (https://links.lww.
+com/CCM/H907), Supplemental Digital Content 5 (https://links.lww.com/
+CCM/H908), Supplemental Digital Content 6 (https://links.lww.com/CCM/
+H909), Supplemental Digital Content 7 (https://links.lww.com/CCM/H910), 
+and Supplemental Digital Content 8 (https://links.lww.com/CCM/H911). We 
+used standardized language to summarize the findings of evidence syntheses 
+based on effect size (i.e., point estimate) and certainty of the evidence, as rec-
+ommended by GRADE methodology (10).
+Process for Determining the Type of Statement
+Figure 1 summarizes the stepwise process we used to determine the type of 
+statement for each PICO question. In contrast to many other guidelines, we al-
+ways provided a graded recommendation when there was at least low certainty 
+evidence to inform a recommendation. For most PICO questions, we relied 
+most heavily on the balance of desirable and undesirable effects to inform rec-
+ommendations. However, when the balance of effects was equivalent, we relied 
+on other domains in the EtD framework to determine the type of recommen-
+dation and used “either/or” statements when the balance of all EtD domains 
+for two different approaches or therapies were equivalent. However, for PICOs 
+where the comparator was usual care alone, we used the language of “we make 
+no recommendation due to equal balance of effects” since suggestions to use or 
+Elie Azoulay, MD39
+Maurizio Cecconi, MD40,41
+Pauline F. Convocar, MD, MCHM42,43,44
+Gennaro De Pascale, MD3,4
+Kent Doi, MD, PhD45
+Bin Du, MD46
+Moritoki Egi, MD47
+Marie-Carmelle Elie-Turenne, MD48,49
+Ricard Ferrer, MD, PhD50,51
+Alison Fox-Robichaud, MD52,53
+Craig French, MBBS24,54
+Yonathan Freund, MD, PhD55,56
+Michelle Ng Gong, MD, MS57
+Caleb P. Hale, MD58
+Naomi E. Hammond, RN, BN, MN 
+(Crit.Care), MPH, PhD59,60
+Madiha Hashmi, MD, FFARCSI61
+Leo Heunks, MD, PhD62
+Theodore J. Iwashyna, MD, PhD63,64
+Shevin T. Jacob, MD, MPH65,66
+Michael Klompas, MD, MPH67,68
+Arthur Kwizera, MD69
+Murdoch Leeies, MD70,71
+Joanna D. Lejnieks, RN72
+Mitchell M. Levy, MD73
+Flavia R. Machado, MD, PhD74
+Marcelo O. Maia, MD75,76,77
+Henry Masur, MD78
+Ryan C. Maves, MD79,80
+Steven McGloughlin, MD25,81
+Joanne McPeake, PhD, MSc, BN 
+(Hons), RGN82
+Nicholas M. Mohr, MD, MS83,84,85
+Sheila Nainan Myatra, MD86
+Marlies Ostermann, MD, PhD87,88
+Sandra L. Peake, MD, PhD, 
+FCICM89,90,91
+Mathias W. Pletz, MD92,93
+Jason A. Roberts, PhD94,95,96
+Regis G. Rosa, MD97,98,99
+Robert G. Sawyer, MD100
+Christa A. Schorr, RN, DNP101,102
+Steven Q. Simpson, MD103
+Li Weng, MD104
+W. Joost Wiersinga, MD, PhD, 
+MBA105,106,107
+Andrew Rhodes, MBBS, MD108
+Craig M. Coopersmith, MD109
+Special Article
+Critical Care Medicine www.ccmjournal.org     3
+TABLE 1.
+Table of Statements
+  
+(Continued)
+Prescott et al
+4     www.ccmjournal.org April 2026 • Volume 54 • Number 4
+TABLE 1, continued
+ 
+(Continued)
+Special Article
+Critical Care Medicine www.ccmjournal.org     5
+ 
+TABLE 1,  continued
+(Continued)
+Prescott et al
+6     www.ccmjournal.org April 2026 • Volume 54 • Number 4
+ 
+TABLE 1, continued
+(Continued)
+Special Article
+Critical Care Medicine www.ccmjournal.org     7
+ 
+TABLE 1, continued
+(Continued)
+Prescott et al
+8     www.ccmjournal.org April 2026 • Volume 54 • Number 4
+ 
+(Continued)
+TABLE 1, continued
+Special Article
+Critical Care Medicine www.ccmjournal.org     9
+ 
+(Continued)
+TABLE 1, continued
+Prescott et al
+10     www.ccmjournal.org April 2026 • Volume 54 • Number 4
+not use a particular therapy were viewed as potentially 
+confusing and unhelpful.
+Types of Graded Recommendations
+Using the GRADE approach, we classified each graded 
+recommendation as either “strong” or “conditional” 
+(referred to as “weak” recommendations in prior SSC 
+guidelines). We used the language “we recommend” 
+for strong recommendations and “we suggest” for con-
+ditional recommendations, consistent with GRADE 
+guidance.
+Implications of Graded Recommendations
+A strong recommendation indicates that most, if not 
+all, individuals in the relevant clinical situation should 
+receive, or avoid, the intervention. In contrast, a condi-
+tional recommendation acknowledges that the balance 
+between desirable and undesirable may vary depend-
+ing on patient values, clinical circumstances, or re-
+source availability. Conditional recommendations may 
+not be universally implementable and are less likely to 
+be suitable for rigid performance metrics or enforce-
+ment. Flexibility and local context should guide their 
+ 
+TABLE 1, continued
+Special Article
+Critical Care Medicine www.ccmjournal.org     11
+adaptation into policy. Further details on implication 
+of strong vs. conditional recommendations are pre-
+sented in Table 2 and Supplemental Digital Content 1 
+(https://links.lww.com/CCM/H904).
+Good Practice Statements
+We followed the GRADE guidance to identify state-
+ments that were better classified as good practice 
+statements (previously referred to as “best practice 
+statements” in prior SSC guidelines (11, 12). These 
+statements represented guidance that did not rely on 
+a formal evidence profile. We used this classification 
+in situations where generating high-certainty evidence 
+was infeasible. To qualify as a good practice statement, 
+a recommendation had to meet all of the following 
+criteria: 1) it was clear and actionable, 2) it addressed 
+a necessary practice, 3) the net benefit (or harm) was 
+unequivocal, 4) the evidence was difficult or inappro-
+priate to summarize quantitatively, 5) the rationale was 
+explicit, and 6) GRADE methods were not suitable to 
+formally assess certainty of evidence.
+Figure 1. Process for selecting the type of statement.
+TABLE 2.
+Implications of Strong Vs. Conditional Recommendations
+Stakeholder Strong Recommendation Conditional Recommendation
+Patients and 
+families
+All or most would want the intervention. Most would want the intervention, but a 
+substantial proportion would not.
+Clinicians The intervention should be given to all or most patients. 
+There is little need for shared decision-making for tai-
+loring to context.
+The intervention should be done for most patients, 
+but clinicians should consider shared  
+decision-making, clinical context, and resources.
+Policy makers Often more appropriate for policy or performance 
+measure.
+May be less appropriate for policy or performance 
+measure.
+Researchers Research resources are better spent on other topics. Additional research may be warranted and may 
+change future recommendations.
+Prescott et al
+12     www.ccmjournal.org April 2026 • Volume 54 • Number 4
+Remarks
+Formal remarks were included to provide additional 
+context when the statement alone could not fully cap-
+ture important considerations influencing the recom-
+mendation. Remarks were used to clarify or qualify 
+recommendations—often in situations where the ev-
+idence was weak, conflicting, or incomplete.
+In Our Practice Statements
+We decided a priori to include “In Our Practice” state-
+ments describing the panel’s practice in areas where 
+evidence was insufficient to support a formal recom-
+mendation or where evidence was assessed as low or very 
+low certainty and the panel determined that an “in our 
+practice” statement would be helpful to end-users of the 
+guideline. In our practice statements are not guidance 
+or endorsement of a specific intervention. Instead, they 
+document how panelists currently approach situations 
+characterized by uncertainty, absence of data, or context-
+specific clinical variability. The goal of these statements 
+is to provide some information on current practice even 
+when rigorous evidence is lacking.
+Carryover Statements
+We retained several statements from the 2021 SSC 
+guidelines that remain clinically relevant, accurate, 
+and essential to comprehensive sepsis care. These state-
+ments typically addressed topics without significant 
+new evidence or where further research was unlikely 
+to alter prior SSC guidance. These carryover state-
+ments did not undergo updated evidence synthesis, as 
+they were deemed unlikely to have sufficient new ev-
+idence to warrant a change in guidance based on the 
+panels’ knowledge of the literature. However, the panel 
+reviewed and voted for each carryover statement for 
+continued relevance and accuracy.
+Consensus Voting
+We required a minimum 75% response rate and at least 
+80% agreement among eligible panelists to finalize a 
+recommendation (and associated formal remarks). For 
+new or updated statements that did not meet the con-
+sensus threshold on the first vote, we allowed two ad-
+ditional rounds of voting to reach consensus. Between 
+rounds, statements were refined based on panel feed-
+back before revoting. Carryover statements were 
+allowed just one round of voting. We achieved a greater 
+than 98% response rate for each round of voting.
+Sepsis Terminology
+These guidelines define sepsis as life-threatening acute 
+organ dysfunction due to infection, and septic shock 
+as a subset of patients with circulatory dysfunction that 
+confers a higher risk of mortality, consistent with the 
+third International Consensus Definitions for Sepsis 
+and Septic Shock (Sepsis-3) (1). In clinical practice, di-
+agnosis of sepsis and septic shock should be based on 
+holistic clinical assessment, which may vary across set-
+tings depending on local resources such as laboratory 
+testing availability. The recommendations in the SSC 
+guidelines are intended to be applied pragmatically to 
+patients diagnosed with sepsis and septic shock accord-
+ing to local practice. Furthermore, we did not restrict lit-
+erature searches or evidence syntheses to studies using 
+the Sepsis-3 definition, as studies using prior sepsis defi-
+nitions are still informative to current practice.
+Because the diagnosis of sepsis may be uncertain in 
+clinical practice, we developed standardized language for 
+definite, probable, possible, and unlikely sepsis, which 
+are used throughout the SSC guidelines (Table 3).
+TABLE 3.
+Sepsis Terminology in This Guideline
+Definite sepsis Sepsis is confirmed based on history, clinical examination, and diagnostic testing. An alternative diagnosis 
+is very unlikely. 
+Probable sepsis High suspicion for sepsis. Sepsis is the most likely diagnosis based on history, clinical examination, and 
+diagnostic testing. An alternative diagnosis is less likely.
+Possible sepsis Moderate suspicion for sepsis. Sepsis is a possible diagnosis; however, an alternative diagnosis is also 
+likely based on history, clinical examination, and diagnostic testing.
+Unlikely sepsis Low suspicion for sepsis. Clinical assessment is not consistent with sepsis, or an alternate diagnosis is 
+more likely based on history, clinical examination, and diagnostic testing.
+Special Article
+Critical Care Medicine www.ccmjournal.org     13
+SCREENING AND EARLY MANAGEMENT
+Performance Improvement Programs
+1. For hospitals and health 
+systems, we “recommend” 
+using a performance 
+improvement program for 
+sepsis, including sepsis 
+screening for acutely ill, 
+high-risk patients; standard 
+operating procedures for 
+treatment; and implementation 
+of sepsis quality improvement 
+strategies.
+(strong recommendation, 
+moderate certainty evidence 
+for screening)
+(strong recommendation, very low 
+certainty evidence for standard 
+operating procedures)
+(strong recommendation, 
+moderate certainty evidence for 
+quality improvement strategies)
+Remark: Performance 
+improvement programs and 
+qualit

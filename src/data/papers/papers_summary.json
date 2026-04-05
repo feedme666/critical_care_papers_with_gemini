@@ -1627,8 +1627,24 @@
     "id": 224,
     "登録日": "2026-04-03",
     "original_title": "Fiberoptic Bronchoscopy Monitoring During Percutaneous Dilatational Tracheostomy: A Multicenter, Randomized, Controlled Trial. The FIBERTRACH Randomized Clinical Trial",
-    "雑誌名巻号出版年_ページ": "Crit Care Med. 2026;54(00):XX-XX.",
-    "pmid": null,
-    "pubmed_link": null
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2026;54(00):XX-XX. Online ahead of print.",
+    "pmid": 41757863,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41757863/"
+  },
+  {
+    "id": 225,
+    "登録日": "2026-04-04",
+    "original_title": "Restrictive vs Liberal Physical Restraint Strategies in Critically Ill Patients: The R2D2-ICU Randomized Clinical Trial",
+    "雑誌名巻号出版年_ページ": "JAMA . 2026 Mar 17.",
+    "pmid": 41841304,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41841304/"
+  },
+  {
+    "id": 226,
+    "登録日": "2026-04-04",
+    "original_title": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2026 Mar 23.",
+    "pmid": 41869847,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41869847/"
   }
 ]
