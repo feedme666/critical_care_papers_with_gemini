@@ -1710,5 +1710,29 @@
     "雑誌名巻号出版年_ページ": "N Engl J Med 2026;394:1365-75.",
     "pmid": 41910315,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41910315/"
+  },
+  {
+    "id": 235,
+    "登録日": "2026-05-20",
+    "original_title": "A Phase 2, Randomized, Clinical Trial of Inhaled Nitric Oxide for Acute Severe Right Heart Failure With Pulmonary Hypertension (PHiNO Study)",
+    "雑誌名巻号出版年_ページ": "Circ J . 2026 Mar 21; doi: 10.1253/circj.CJ-26-0119.",
+    "pmid": 41866186,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41866186"
+  },
+  {
+    "id": 236,
+    "登録日": "2026-05-20",
+    "original_title": "Therapeutic plasma exchange improves short-term survival in patients with acute-on-chronic liver failure: A randomized controlled trial",
+    "雑誌名巻号出版年_ページ": "Hepatology. 2026 Mar 30.",
+    "pmid": 41911559,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41911559/"
+  },
+  {
+    "id": 237,
+    "登録日": "2026-05-21",
+    "original_title": "Prehospital Heparin Administration in Patients with Stemi Undergoing Primary PCI: Heparin Stemi Randomized Controlled Trial",
+    "雑誌名巻号出版年_ページ": "Circulation. 2026",
+    "pmid": 41910504,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41910504/"
   }
 ]
