@@ -1,5 +1,13 @@
 [
   {
+    "id": 239,
+    "登録日": "2026-05-28",
+    "original_title": "Efficacy of Surgeon-Administered Regional Anesthesia in Cardiac Surgery: A Double-Blinded, 2-Center, Randomized, Placebo-Controlled Trial",
+    "雑誌名巻号出版年_ページ": "J Cardiothorac Vasc Anesth. 2026;00:1-8.",
+    "pmid": 42034532,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42034532/"
+  },
+  {
     "id": 2,
     "登録日": "2025-06-29",
     "original_title": "Effects of a Hypotension-Avoidance Versus a Hypertension-Avoidance Strategy on Neurocognitive Outcomes After Noncardiac Surgery",
@@ -1734,5 +1742,13 @@
     "雑誌名巻号出版年_ページ": "Circulation. 2026",
     "pmid": 41910504,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41910504/"
+  },
+  {
+    "id": 238,
+    "登録日": "2026-05-27",
+    "original_title": "Mosapride versus Metoclopramide in Critically Ill Patients with Enteral Feeding Intolerance: A Randomized, Double-Blinded Comparison",
+    "雑誌名巻号出版年_ページ": "Drug Des Devel Ther. 2026;20:582745.",
+    "pmid": 41908938,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41908938"
   }
 ]

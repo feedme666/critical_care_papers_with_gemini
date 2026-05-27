@@ -4,7 +4,6 @@ import ScrollToTopWrapper from './components/ScrollToTopWrapper';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HomePage from './components/HomePage';
-import PaperOrGuidelinePage from './components/PaperOrGuidelinePage';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';

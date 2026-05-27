@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Modal, Button, Badge } from 'react-bootstrap';
-import { Bar } from 'react-chartjs-2';
+import SafeBarChart from './SafeBarChart';
 
 const PaperDetailModal = ({ show, onHide, paper }) => {
   const [copyStatus, setCopyStatus] = useState('URLをコピー');
@@ -111,13 +111,13 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
                   {paper.charts && Array.isArray(paper.charts) && paper.charts.map((chart, index) => (
                     <div key={index} className="mb-4">
                       <h5>{chart.title}</h5>
-                      <Bar options={{...chartOptions, plugins: {...chartOptions.plugins, title: {...chartOptions.plugins.title, text: chart.title}}}} data={chart.chartData} />
+                      <SafeBarChart options={{...chartOptions, plugins: {...chartOptions.plugins, title: {...chartOptions.plugins.title, text: chart.title}}}} data={chart.chartData} />
                     </div>
                   ))}
 
                   {/* 古い 'chartData' オブジェクト形式にフォールバック */}
                   {!paper.charts && paper.chartData && (
-                    <Bar options={chartOptions} data={paper.chartData} />
+                    <SafeBarChart options={chartOptions} data={paper.chartData} />
                   )}
                 </div>
             </section>

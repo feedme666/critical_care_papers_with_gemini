@@ -1,24 +1,6 @@
 import React from 'react';
 
-import { Bar } from 'react-chartjs-2';
-import {
-  Chart as ChartJS,
-  CategoryScale,
-  LinearScale,
-  BarElement,
-  Title,
-  Tooltip,
-  Legend,
-} from 'chart.js';
-
-ChartJS.register(
-  CategoryScale,
-  LinearScale,
-  BarElement,
-  Title,
-  Tooltip,
-  Legend
-);
+import SafeBarChart from './SafeBarChart';
 
 const PaperPage = ({ data }) => {
 
@@ -108,11 +90,11 @@ const PaperPage = ({ data }) => {
           <p style={{ whiteSpace: 'pre-wrap' }}>{data.結果.replace(/\\n/g, '\n')}</p>
           <div style={{ maxWidth: '600px', margin: 'auto' }}>
             {data.chartData && (
-              <Bar options={chartOptions} data={data.chartData} />
+              <SafeBarChart options={chartOptions} data={data.chartData} />
             )}
             {data.charts && data.charts.map((chart, index) => (
               <div key={index} className="mb-4">
-                <Bar options={{
+                <SafeBarChart options={{
                   ...chartOptions,
                   plugins: {
                     ...chartOptions.plugins,
