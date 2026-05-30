@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Modal, Button, Badge } from 'react-bootstrap';
 import SafeBarChart from './SafeBarChart';
 
-const PaperDetailModal = ({ show, onHide, paper }) => {
+const PaperDetailModal = ({ show, onHide, paper, isLoading }) => {
   const [copyStatus, setCopyStatus] = useState('URLをコピー');
 
   useEffect(() => {
@@ -13,6 +13,7 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
   }, [show]);
 
   const handleCopyUrl = () => {
+    if (!paper) return;
     navigator.clipboard.writeText(window.location.href).then(() => {
       setCopyStatus('コピーしました！');
       setTimeout(() => setCopyStatus('URLをコピー'), 2000);
@@ -22,9 +23,10 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
     });
   };
 
-  if (!paper) return null;
+  if (!paper && !isLoading) return null;
 
   const formatStudyType = (currentPaper) => {
+    if (!currentPaper) return null;
     const tags = currentPaper?.タグ || [];
     const isRct = tags.includes('ランダム化比較試験');
     const rawType = currentPaper?.研究の種類;
@@ -54,14 +56,26 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
     <Modal show={show} onHide={onHide} size="lg" centered dialogClassName="custom-modal">
       <Modal.Header closeButton>
         <div className="d-flex justify-content-between align-items-center w-100 pe-2">
-          <Modal.Title as="h5" className="mb-0">{paper.題名}</Modal.Title>
-          <Button variant="outline-primary" size="sm" onClick={handleCopyUrl} style={{ whiteSpace: 'nowrap' }}>
-            {copyStatus === 'URLをコピー' ? 'URLコピー' : copyStatus}
-          </Button>
+          <Modal.Title as="h5" className="mb-0">
+            {isLoading ? '読み込み中...' : paper?.題名}
+          </Modal.Title>
+          {!isLoading && paper && (
+            <Button variant="outline-primary" size="sm" onClick={handleCopyUrl} style={{ whiteSpace: 'nowrap' }}>
+              {copyStatus === 'URLをコピー' ? 'URLコピー' : copyStatus}
+            </Button>
+          )}
         </div>
       </Modal.Header>
       <Modal.Body>
-        {paper.original_title && <p className="text-muted">Original Title: {paper.original_title}</p>}
+        {isLoading ? (
+          <div className="text-center my-5">
+            <div className="spinner-border text-primary" role="status">
+              <span className="visually-hidden">読み込み中...</span>
+            </div>
+          </div>
+        ) : paper ? (
+          <>
+            {paper.original_title && <p className="text-muted">Original Title: {paper.original_title}</p>}
         <p className="text-muted">{paper.雑誌名_巻号_出版年_ページ}</p>
         <p><strong>{paper.type === 'guideline' ? '作成団体:' : '筆頭著者:'}</strong> {paper.type === 'guideline' ? paper.作成団体 : paper.筆頭著者}</p>
         {paper.pmid && (
@@ -178,7 +192,8 @@ const PaperDetailModal = ({ show, onHide, paper }) => {
                 ))}
             </section>
         )}
-
+      </>
+    ) : null}
       </Modal.Body>
       <Modal.Footer>
         <Button variant="info" onClick={handleCopyUrl}>

@@ -3,10 +3,11 @@ import { useNavigate, useParams, useLocation } from 'react-router-dom';
 import metadata from '../data/papers/metadata.json';
 import PaperDetailModal from './PaperDetailModal';
 import FilterablePaperList from './FilterablePaperList';
-import allPapers from '../data/papers'; // すべての論文データをインポート
+import { loadPaperDetail } from '../data/papers'; // 非同期インポート用の関数
 
 const HomePage = () => {
   const [selectedPaper, setSelectedPaper] = useState(null);
+  const [isLoadingDetail, setIsLoadingDetail] = useState(false);
   const navigate = useNavigate();
   const { id } = useParams();
   const location = useLocation(); // locationオブジェクトを取得
@@ -15,13 +16,16 @@ const HomePage = () => {
   useEffect(() => {
     if (id) {
       const paperId = parseInt(id, 10);
-      const paper = allPapers.find(p => p.id === paperId);
-      if (paper) {
-        setSelectedPaper(paper);
-      } else {
-        // 論文が見つからない場合はホームページにリダイレクト
-        navigate(`/${location.search}`, { replace: true });
-      }
+      setIsLoadingDetail(true);
+      loadPaperDetail(paperId).then(paper => {
+        if (paper) {
+          setSelectedPaper(paper);
+        } else {
+          // 論文が見つからない場合はホームページにリダイレクト
+          navigate(`/${location.search}`, { replace: true });
+        }
+        setIsLoadingDetail(false);
+      });
     } else {
       setSelectedPaper(null);
     }
@@ -42,9 +46,10 @@ const HomePage = () => {
       <p className="text-muted text-end mb-1">最終更新日: {metadata.lastUpdatedAt}</p>
       <FilterablePaperList onCardClick={handleCardClick} />
       <PaperDetailModal 
-        show={!!selectedPaper} 
+        show={!!selectedPaper || isLoadingDetail} 
         onHide={handleCloseModal} 
         paper={selectedPaper} 
+        isLoading={isLoadingDetail}
       />
     </div>
   );
