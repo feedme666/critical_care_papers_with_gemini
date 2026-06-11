@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/critical_care_papers_with_gemini/static/css/main.96dad5ae.css",
-    "main.js": "/critical_care_papers_with_gemini/static/js/main.195d5ea9.js",
+    "main.js": "/critical_care_papers_with_gemini/static/js/main.f9b983bd.js",
     "static/js/2212.0cae5f7e.chunk.js": "/critical_care_papers_with_gemini/static/js/2212.0cae5f7e.chunk.js",
     "static/js/3108.da6de315.chunk.js": "/critical_care_papers_with_gemini/static/js/3108.da6de315.chunk.js",
     "static/js/8503.c47620e7.chunk.js": "/critical_care_papers_with_gemini/static/js/8503.c47620e7.chunk.js",
@@ -106,7 +106,7 @@
     "static/js/6495.939094f7.chunk.js": "/critical_care_papers_with_gemini/static/js/6495.939094f7.chunk.js",
     "static/js/3721.2aaeec44.chunk.js": "/critical_care_papers_with_gemini/static/js/3721.2aaeec44.chunk.js",
     "static/js/5614.1c4e41e4.chunk.js": "/critical_care_papers_with_gemini/static/js/5614.1c4e41e4.chunk.js",
-    "static/js/9407.28e7b883.chunk.js": "/critical_care_papers_with_gemini/static/js/9407.28e7b883.chunk.js",
+    "static/js/9407.0c0643fe.chunk.js": "/critical_care_papers_with_gemini/static/js/9407.0c0643fe.chunk.js",
     "static/js/4044.7c5fe918.chunk.js": "/critical_care_papers_with_gemini/static/js/4044.7c5fe918.chunk.js",
     "static/js/9325.0b039de0.chunk.js": "/critical_care_papers_with_gemini/static/js/9325.0b039de0.chunk.js",
     "static/js/261.820e681d.chunk.js": "/critical_care_papers_with_gemini/static/js/261.820e681d.chunk.js",
@@ -148,6 +148,7 @@
     "static/js/154.d44b62bc.chunk.js": "/critical_care_papers_with_gemini/static/js/154.d44b62bc.chunk.js",
     "static/js/7317.19f410b3.chunk.js": "/critical_care_papers_with_gemini/static/js/7317.19f410b3.chunk.js",
     "static/js/8707.7d083005.chunk.js": "/critical_care_papers_with_gemini/static/js/8707.7d083005.chunk.js",
+    "static/js/1317.debe6f85.chunk.js": "/critical_care_papers_with_gemini/static/js/1317.debe6f85.chunk.js",
     "static/js/8368.35537e94.chunk.js": "/critical_care_papers_with_gemini/static/js/8368.35537e94.chunk.js",
     "static/js/3885.6b6a9240.chunk.js": "/critical_care_papers_with_gemini/static/js/3885.6b6a9240.chunk.js",
     "static/js/4450.42bcccb5.chunk.js": "/critical_care_papers_with_gemini/static/js/4450.42bcccb5.chunk.js",
@@ -228,11 +229,11 @@
     "static/js/6453.690dbe2e.chunk.js": "/critical_care_papers_with_gemini/static/js/6453.690dbe2e.chunk.js",
     "index.html": "/critical_care_papers_with_gemini/index.html",
     "main.96dad5ae.css.map": "/critical_care_papers_with_gemini/static/css/main.96dad5ae.css.map",
-    "main.195d5ea9.js.map": "/critical_care_papers_with_gemini/static/js/main.195d5ea9.js.map",
+    "main.f9b983bd.js.map": "/critical_care_papers_with_gemini/static/js/main.f9b983bd.js.map",
     "6453.690dbe2e.chunk.js.map": "/critical_care_papers_with_gemini/static/js/6453.690dbe2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96dad5ae.css",
-    "static/js/main.195d5ea9.js"
+    "static/js/main.f9b983bd.js"
   ]
 }
