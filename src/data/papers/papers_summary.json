@@ -7741,17 +7741,17 @@
   },
   {
     "id": 202,
-    "type": "paper",
+    "type": "guideline",
     "題名": "集中治療室における人生の最終段階（エンドオブライフ）ケアに関するコンセンサス・ステートメント：スカンジナビアの多職種デルファイ研究",
     "original_title": "Consensus statements on end-of-life care in ICU – A Scandinavian multidisciplinary Delphi study",
-    "筆頭著者": "Iben Strøm Darfelt",
-    "作成団体": null,
+    "筆頭著者": null,
+    "作成団体": "スカンジナビア多職種研究グループ (筆頭著者: Iben Strøm Darfelt)",
     "雑誌名_巻号_出版年_ページ": "Acta Anaesthesiol Scand . 2025;69:e70015.",
     "雑誌名巻号出版年_ページ": "Acta Anaesthesiol Scand . 2025;69:e70015.",
     "登録日": "2026-02-09",
     "タグ": [
       "医療安全・倫理系",
-      "観察研究"
+      "ガイドライン・提言"
     ],
     "pmid": 40066825,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40066825"
@@ -8898,6 +8898,42 @@
       "判定履歴": [
         {
           "日付": "2026-05-28",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 240,
+    "type": "paper",
+    "題名": "多施設共同ランダム化比較試験による肋骨骨折観血的整復固定術（SSRF）と保存的療法の比較：SOFRIB試験",
+    "original_title": "A Multicenter Randomized Controlled Trial on the Surgery of Fractured Ribs: The SOFRIB Trial",
+    "筆頭著者": "Darwin Ang",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Ann Surg. 2026 Mar 26. doi: 10.1097/SLA.0000000000007053.",
+    "雑誌名巻号出版年_ページ": "Ann Surg. 2026 Mar 26. doi: 10.1097/SLA.0000000000007053.",
+    "登録日": "2026-05-30",
+    "タグ": [
+      "外傷",
+      "呼吸器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 41881849,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41881849",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "本試験は、肋骨骨折整復固定術（SSRF）が標準的保存治療と比較してICU滞在期間を短縮させるという仮説（優越性）を検証するために設計された。",
+          "位置": "Materials and Methods (Trial Design / Sample Size Calculation)"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-05-30",
           "判定": "優越性試験",
           "方法": "自動判定"
         }
