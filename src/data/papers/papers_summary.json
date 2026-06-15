@@ -8939,5 +8939,112 @@
         }
       ]
     }
+  },
+  {
+    "id": 241,
+    "type": "paper",
+    "題名": "超音波ガイド下マイクロコンベックス・インプレーン鎖骨下静脈穿刺と事前エコー走査併用ランドマーク法の比較：ランダム化比較試験",
+    "original_title": "Ultrasound-Guided In-Plane Subclavian Vein Puncture versus Prior Ultrasound and Landmark Technique: A Randomized Controlled Trial",
+    "筆頭著者": "David Conrad",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Anesth Analg. 2026 May 1;142(5):857–865.",
+    "雑誌名巻号出版年_ページ": "Anesth Analg. 2026 May 1;142(5):857–865.",
+    "登録日": "2026-06-15",
+    "タグ": [
+      "循環器系",
+      "その他",
+      "ランダム化比較試験"
+    ],
+    "pmid": 41980265,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41980265",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "MISP群がランドマーク群と比較して、複合リスクスコアや合併症発生率において優れている（安全である）ことを検証する優越性試験として設計されており、サンプルサイズ計算および統計検定（2-sided, alpha=0.05, power=90%）も優越性の検証を前提としている。",
+          "位置": "METHODS (Ethics / End Points / Sample Size Estimation)"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-06-15",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 242,
+    "type": "paper",
+    "題名": "テント上脳出血患者における遠隔虚血コンディショニング（RICH-2）：中国における多施設共同ランダム化シャム対照第3相試験",
+    "original_title": "Remote ischaemic conditioning in patients with supratentorial intracerebral haemorrhage (RICH-2): a multicentre, randomised, sham-controlled phase 3 trial in China",
+    "筆頭著者": "Wenbo Zhao",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "EClinicalMedicine . 2026 May;95:103900.",
+    "雑誌名巻号出版年_ページ": "EClinicalMedicine . 2026 May;95:103900.",
+    "登録日": "2026-06-15",
+    "タグ": [
+      "脳神経系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42011250,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42011250",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "統計解析の計画において、対照群（シャム群）の90日自立割合を30%、RIC群での期待割合を43%と仮定して、RIC群の優越性を検出するためのサンプルサイズ設計が行われているため。",
+          "位置": "Methods - Statistical analysis (370行目付近)"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-06-15",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 243,
+    "type": "paper",
+    "題名": "集中治療新生児における拡張接触予防策と手指衛生単独による新生児敗血症予防効果の比較：BALTICクラスターランダム化臨床試験",
+    "original_title": "Extended Barrier Precautions vs Hand Hygiene Alone and Neonatal Sepsis in Intensive Care Patients: The BALTIC Cluster-Randomized Clinical Trial",
+    "筆頭著者": "Kirstin Faust",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA Network Open . 2026 May 15;9(5):e2612759.",
+    "雑誌名巻号出版年_ページ": "JAMA Network Open . 2026 May 15;9(5):e2612759.",
+    "登録日": "2026-06-15",
+    "タグ": [
+      "感染・炎症系",
+      "医療安全・倫理系",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "非劣性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "標準衛生消毒が拡張接触予防策に対して非劣性（noninferiority）であることを検証するために設計されたクラスターランダム化臨床試験であり、統計解析やサンプルサイズ設計において非劣性限界（noninferiority limit）として5%が設定され、1側性の非劣性検定が行われているため。",
+          "位置": "OBJECTIVE, Sample Size Calculation, and Statistical Analysis sections."
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-06-15",
+          "判定": "非劣性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
   }
 ]
