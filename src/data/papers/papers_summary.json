@@ -9046,5 +9046,63 @@
         }
       ]
     }
+  },
+  {
+    "id": 244,
+    "type": "guideline",
+    "題名": "急性一酸化炭素中毒で救急外来を受診した成人患者の管理における重要課題：ACEP臨床ポリシー2025",
+    "original_title": "A Critical Issue in the Management of Adult Patients Presenting to the Emergency Department With Acute Carbon Monoxide Poisoning: Approved by the ACEP Board of Directors January 22, 2025",
+    "筆頭著者": null,
+    "作成団体": "アメリカ救急医学会 (ACEP) 一酸化炭素中毒臨床ポリシー小委員会",
+    "雑誌名_巻号_出版年_ページ": "Ann Emerg Med. 2025 Apr;85(4):e45-e59.",
+    "雑誌名巻号出版年_ページ": "Ann Emerg Med. 2025 Apr;85(4):e45-e59.",
+    "登録日": "2026-06-15",
+    "タグ": [
+      "脳神経系",
+      "その他",
+      "ガイドライン・提言"
+    ],
+    "pmid": 40118649,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40118649"
+  },
+  {
+    "id": 245,
+    "type": "paper",
+    "題名": "非心臓手術を受ける腹部手術患者における2セッションのリモート虚血プレコンディショニングが術後心筋障害に及ぼす影響：ランダム化臨床試験",
+    "original_title": "Effect of two-session remote ischaemic preconditioning on myocardial injury after noncardiac surgery in patients undergoing abdominal surgery: randomised clinical trial",
+    "筆頭著者": "Zhinan Zheng",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Br J Anaesth. 2026; xxx(xxx):xxx. doi: 10.1016/j.bja.2026.03.029.",
+    "雑誌名巻号出版年_ページ": "Br J Anaesth. 2026; xxx(xxx):xxx. doi: 10.1016/j.bja.2026.03.029.",
+    "登録日": "2026-06-15",
+    "タグ": [
+      "循環器系",
+      "消化器系",
+      "ランダム化比較試験"
+    ],
+    "研究の種類": {
+      "判定": "優越性試験"
+    },
+    "pmid": 42020240,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42020240/"
+  },
+  {
+    "id": 246,
+    "type": "guideline",
+    "題名": "成人熱傷患者における心停止：スコーピングレビューおよび管理に関するエキスパート推奨事項",
+    "original_title": "Cardiac arrest in adult patients following burn injury: a scoping review with expert recommendations on management",
+    "筆頭著者": "Kathryn A. Puxty",
+    "作成団体": "多職種専門家パネル（Delphi法）",
+    "雑誌名_巻号_出版年_ページ": "Scand J Trauma Resusc Emerg Med. 2026 Jan 9;34:28.",
+    "雑誌名巻号出版年_ページ": "Scand J Trauma Resusc Emerg Med. 2026 Jan 9;34:28.",
+    "登録日": "2026-06-15",
+    "タグ": [
+      "外傷",
+      "皮膚・軟部組織系",
+      "循環器系",
+      "ガイドライン・提言"
+    ],
+    "pmid": 41507944,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41507944"
   }
 ]
