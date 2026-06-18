@@ -9080,18 +9080,33 @@
       "消化器系",
       "ランダム化比較試験"
     ],
-    "研究の種類": {
-      "判定": "優越性試験"
-    },
     "pmid": 42020240,
-    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42020240/"
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42020240/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "麻酔前の2回のリモート虚血プレコンディショニングにより、腹部手術患者の術後心筋障害（MINS）発生率を減少できるという仮説の検証",
+          "位置": "Abstract, Introduction"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-06-15",
+          "判定": "優越性試験",
+          "方法": "マニュアル判定"
+        }
+      ]
+    }
   },
   {
     "id": 246,
     "type": "guideline",
     "題名": "成人熱傷患者における心停止：スコーピングレビューおよび管理に関するエキスパート推奨事項",
     "original_title": "Cardiac arrest in adult patients following burn injury: a scoping review with expert recommendations on management",
-    "筆頭著者": "Kathryn A. Puxty",
+    "筆頭著者": null,
     "作成団体": "多職種専門家パネル（Delphi法）",
     "雑誌名_巻号_出版年_ページ": "Scand J Trauma Resusc Emerg Med. 2026 Jan 9;34:28.",
     "雑誌名巻号出版年_ページ": "Scand J Trauma Resusc Emerg Med. 2026 Jan 9;34:28.",
@@ -9104,5 +9119,41 @@
     ],
     "pmid": 41507944,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41507944"
+  },
+  {
+    "id": 247,
+    "type": "paper",
+    "題名": "ST上昇を伴わない心停止後の即時冠動脈造影と遅延冠動脈造影の比較：COACTランダム化比較試験の5年アウトカム",
+    "original_title": "Immediate vs Delayed Coronary Angiography After Cardiac Arrest Without ST-Segment Elevation: 5-Year Outcomes From the COACT Randomized Trial",
+    "筆頭著者": "Eva M. Spoormans",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "J Am Coll Cardiol. 2026 Apr 28;87(16):2134-2143.",
+    "雑誌名巻号出版年_ページ": "J Am Coll Cardiol. 2026 Apr 28;87(16):2134-2143.",
+    "登録日": "2026-06-18",
+    "タグ": [
+      "循環器系",
+      "脳神経系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 41636663,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41636663/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "ST上昇を伴わない院外心停止患者において、即時冠動脈造影（CAG）が遅延CAGと比較して5年生存率を改善（優越性を示す）するかを評価した無作為化比較試験。",
+          "位置": "Abstract, Objectives, Methods"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-06-18",
+          "判定": "優越性試験",
+          "方法": "マニュアル判定"
+        }
+      ]
+    }
   }
 ]
