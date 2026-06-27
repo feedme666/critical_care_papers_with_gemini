@@ -9297,5 +9297,23 @@
     ],
     "pmid": 39417998,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39417998"
+  },
+  {
+    "id": 253,
+    "type": "guideline",
+    "題名": "集中治療室における高齢患者のケアに関する米国集中治療医学会（SCCM）ガイドライン：2026年",
+    "original_title": "Society of Critical Care Medicine Guidelines on Caring for Older Adults in the ICU",
+    "筆頭著者": null,
+    "作成団体": "Society of Critical Care Medicine (SCCM)",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2026 May 1;54(5):1060-1072.",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2026 May 1;54(5):1060-1072.",
+    "登録日": "2026-06-28",
+    "タグ": [
+      "脳神経系",
+      "その他",
+      "ガイドライン・提言"
+    ],
+    "pmid": 41860322,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41860322"
   }
 ]
