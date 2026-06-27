@@ -9155,5 +9155,147 @@
         }
       ]
     }
+  },
+  {
+    "id": 248,
+    "type": "guideline",
+    "題名": "成人・小児における急性期重症熱傷管理ガイドライン",
+    "original_title": "Management of severe thermal burns in the acute phase in adults and children",
+    "筆頭著者": null,
+    "作成団体": "フランス麻酔集中治療医学会 (SFAR)",
+    "雑誌名_巻号_出版年_ページ": "Anaesth Crit Care Pain Med. 2020 Apr;39(2):253-267. doi: 10.1016/j.accpm.2020.03.006.",
+    "雑誌名巻号出版年_ページ": "Anaesth Crit Care Pain Med. 2020 Apr;39(2):253-267. doi: 10.1016/j.accpm.2020.03.006.",
+    "登録日": "2026-06-19",
+    "タグ": [
+      "皮膚・軟部組織系",
+      "呼吸器系",
+      "ガイドライン・提言"
+    ],
+    "pmid": 32147581,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/32147581"
+  },
+  {
+    "id": 249,
+    "type": "paper",
+    "題名": "重症患者における経腸タンパク質投与量の増加は筋肉タンパク質合成をさらに増強しない：ランダム化比較試験",
+    "original_title": "Increasing protein dose does not further augment muscle protein synthesis in critical illness: a randomized, controlled clinical trial",
+    "筆頭著者": "Matthew J. Summers",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Am J Respir Crit Care Med. 2026 May;212(5):964-971.",
+    "雑誌名巻号出版年_ページ": "Am J Respir Crit Care Med. 2026 May;212(5):964-971.",
+    "登録日": "2026-06-26",
+    "タグ": [
+      "内分泌・代謝系",
+      "消化器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42085214,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42085214",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "高用量（40g）の投与が低用量（20g）と比較してより高い食後筋肉タンパク質合成率をもたらすという仮説（We hypothesized that greater protein provision will result in higher postprandial muscle protein synthesis rates）に基づき設計されているため。",
+          "位置": "Introduction (PAGE 2)"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-06-26",
+          "判定": "優越性試験",
+          "方法": "手動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 250,
+    "type": "paper",
+    "題名": "人工呼吸管理中の重症患者における早期ベッド上サイクルエルゴメーター運動と従来の理学療法の安全性および効果：ランダム化比較試験",
+    "original_title": "Safety and effects of early mobilization with in-bed cycloergometry versus conventional physiotherapy in critically ill patients: A randomized control trial",
+    "筆頭著者": "Gemma Rialp",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Medicina Intensiva. 2026 Apr;502512. doi: 10.1016/j.medine.2026.502512.",
+    "雑誌名巻号出版年_ページ": "Medicina Intensiva. 2026 Apr;502512. doi: 10.1016/j.medine.2026.502512.",
+    "登録日": "2026-06-26",
+    "タグ": [
+      "呼吸器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "中",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "サイクルエルゴメーターを併用した早期リハビリテーションが、従来の理学療法単独と比較して筋力や身体機能などの臨床的アウトカムにおいて優れているか（優越性）を検証するデザインおよびサンプルサイズ設計に基づき判定。",
+          "位置": "Abstract/Sample size calculation/Methods"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-06-26",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 251,
+    "type": "paper",
+    "題名": "機械換気患者における吸入酸素流量の自動制御：単施設ランダム化比較試験のプロトコル",
+    "original_title": "Automated control of inspired oxygen fraction in mechanically ventilated patients: A study protocol for a single-centre randomised controlled trial",
+    "筆頭著者": "Christine Eimer",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "BMJ Open. 2025 May 30;15(5):e089450.",
+    "雑誌名巻号出版年_ページ": "BMJ Open. 2025 May 30;15(5):e089450.",
+    "登録日": "2026-06-27",
+    "タグ": [
+      "呼吸器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 40447433,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/40447433/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "PDF本文のAbstractおよびTrial designにて「superiority study」、「superiority trial」と明記されている。",
+          "位置": "Abstract: Methods / Trial design"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-06-27",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 252,
+    "type": "guideline",
+    "題名": "遠隔集中治療におけるベストプラクティス：Telecritical Care Collaborative Networkによる専門家コンセンサス推奨事項",
+    "original_title": "Best Practices in Telecritical Care: Expert Consensus Recommendations From the Telecritical Care Collaborative Network",
+    "筆頭著者": null,
+    "作成団体": "Telecritical Care Collaborative Network (TC3N)",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2024 Nov 1;52(11):1750-1767.",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2024 Nov 1;52(11):1750-1767.",
+    "登録日": "2026-06-27",
+    "タグ": [
+      "医療安全・倫理系",
+      "ガイドライン・提言",
+      "その他"
+    ],
+    "pmid": 39417998,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39417998"
   }
 ]
