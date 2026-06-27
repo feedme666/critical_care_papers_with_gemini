@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/critical_care_papers_with_gemini/static/css/main.96dad5ae.css",
-    "main.js": "/critical_care_papers_with_gemini/static/js/main.4a18600f.js",
+    "main.js": "/critical_care_papers_with_gemini/static/js/main.b3d5479d.js",
     "static/js/2212.0cae5f7e.chunk.js": "/critical_care_papers_with_gemini/static/js/2212.0cae5f7e.chunk.js",
     "static/js/3108.da6de315.chunk.js": "/critical_care_papers_with_gemini/static/js/3108.da6de315.chunk.js",
     "static/js/8503.c47620e7.chunk.js": "/critical_care_papers_with_gemini/static/js/8503.c47620e7.chunk.js",
@@ -162,6 +162,7 @@
     "static/js/4424.8b3e517a.chunk.js": "/critical_care_papers_with_gemini/static/js/4424.8b3e517a.chunk.js",
     "static/js/5819.1a644625.chunk.js": "/critical_care_papers_with_gemini/static/js/5819.1a644625.chunk.js",
     "static/js/5706.37dc224f.chunk.js": "/critical_care_papers_with_gemini/static/js/5706.37dc224f.chunk.js",
+    "static/js/8789.ba48d904.chunk.js": "/critical_care_papers_with_gemini/static/js/8789.ba48d904.chunk.js",
     "static/js/3885.6b6a9240.chunk.js": "/critical_care_papers_with_gemini/static/js/3885.6b6a9240.chunk.js",
     "static/js/4450.42bcccb5.chunk.js": "/critical_care_papers_with_gemini/static/js/4450.42bcccb5.chunk.js",
     "static/js/7.237fa7cf.chunk.js": "/critical_care_papers_with_gemini/static/js/7.237fa7cf.chunk.js",
@@ -241,11 +242,11 @@
     "static/js/6453.690dbe2e.chunk.js": "/critical_care_papers_with_gemini/static/js/6453.690dbe2e.chunk.js",
     "index.html": "/critical_care_papers_with_gemini/index.html",
     "main.96dad5ae.css.map": "/critical_care_papers_with_gemini/static/css/main.96dad5ae.css.map",
-    "main.4a18600f.js.map": "/critical_care_papers_with_gemini/static/js/main.4a18600f.js.map",
+    "main.b3d5479d.js.map": "/critical_care_papers_with_gemini/static/js/main.b3d5479d.js.map",
     "6453.690dbe2e.chunk.js.map": "/critical_care_papers_with_gemini/static/js/6453.690dbe2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96dad5ae.css",
-    "static/js/main.4a18600f.js"
+    "static/js/main.b3d5479d.js"
   ]
 }
