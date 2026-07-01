@@ -11,16 +11,16 @@
       PMIDの特定率を向上させるため、以下の改訂されたフローを厳格に遵守してください。Web検索を積極的に活用し、精度を高めます。
       1. **手順1: DOIの探索と利用（優先度：高）**
          - 論文PDFのテキストから**DOI** (`10.`から始まる文字列)を最優先で探索します。
-         - DOIが見つかった場合、`google_web_search`を使い、そのDOIで直接Web検索を実行します。
+         - DOIが見つかった場合、`search_web`を使い、そのDOIで直接Web検索を実行します。
              - **検索クエリ例:** `(見つかったDOI)`
          - 検索結果からPubMedのURL (`https://pubmed.ncbi.nlm.nih.gov/...`) を探し、PMIDを特定します。
       2. **手順2: Web検索による論文特定（DOIがない場合）**
-         - DOIが見つからない場合、`google_web_search`を使い、論文のメタ情報でWeb検索を実行します。
+         - DOIが見つからない場合、`search_web`を使い、論文のメタ情報でWeb検索を実行します。
          - 検索クエリには、`original_title`（英語題名）、`筆頭著者`、`雑誌名`、`出版年`を組み合わせ、最後に`"pubmed"`というキーワードを追加します。
              - **検索クエリ例:** `"[original_title]" "[筆頭著者]" "[雑誌名]" [出版年] "pubmed"`
          - 検索結果の上位から、該当する論文のPubMedページまたはDOIを探します。DOIが見つかった場合は、手順1に戻ってPMIDを特定します。
       3. **手順3: 必須の検証プロセス**
-         - 上記いずれかの方法でPMIDの候補が見つかった場合、**必ず**そのPMIDに対応するPubMedのページ (`https://pubmed.ncbi.nlm.nih.gov/[PMID]`) の内容を`web_fetch`ツールで確認します。
+         - 上記いずれかの方法でPMIDの候補が見つかった場合、**必ず**そのPMIDに対応するPubMedのページ (`https://pubmed.ncbi.nlm.nih.gov/[PMID]`) の内容を`read_url_content`ツールで確認します。
          - **検証項目:** PubMedページに記載されている「論文の題名、著者リスト、雑誌情報」が、処理対象のPDFから抽出した情報と**完全に一致する**ことを検証します。
          - 一致が確認できた場合にのみ、そのPMIDを正しいものとして採用します。
       4. **手順4: 失敗した場合の処理**
@@ -185,4 +185,56 @@
       },
       // ... 他の論文データ
     ]
-  11. ユーザーが"go ahead"とプロンプトを入力したら、次のプロンプトを意味します。"未処理のpdfを1つ処理してください。.gitignoreで見えなくなっているディレクトリがあるので、lsコマンドでみてくだい。どのpdfを処理するかは、あなたが選んでください。pdfはReadFileで内容を確認してください。文献ページは、読者の理解が促進されるように、十分な分量を記載するようにしてください。作業は止まらずに続けてください。" このプロンプトに従って作業を開始してください。
+  11. **`go ahead` 実行時の標準ワークフロー (一貫性の担保):**
+      ユーザーから `"go ahead"` の指示があった場合、エージェントは以下のステップを**この順番で、指定されたツールを使用して**一貫性を持って自動的に実行します。
+      
+      *   **ステップ 1: 未処理PDFの検出**
+          *   **使用ツール:** `run_command`
+          *   **コマンド:** `ls -la raw_pdfs`
+          *   **目的:** `raw_pdfs/` ディレクトリ内のファイルを一覧表示し、処理対象のPDFファイル名（例: `abc.pdf`）を1つ特定する（`.gitignore` で無視されているファイルもあるため、必ず `run_command` で `ls` を実行すること）。
+      
+      *   **ステップ 2: PDFからのテキスト抽出（中間ファイルの作成）**
+          *   **使用ツール:** `run_command`
+          *   **コマンド:**
+              ```bash
+              ./venv_pdf/bin/python -c "import pypdf; reader = pypdf.PdfReader('raw_pdfs/<PDFファイル名>.pdf'); text = '\n'.join([page.extract_text() for page in reader.pages]); open('raw_pdfs/<PDFファイル名>.txt', 'w').write(text)"
+              ```
+          *   **目的:** 仮想環境 `venv_pdf` の `pypdf` を用いてPDFから全テキストを抽出し、一時的なテキストファイルとして保存する。これにより、次のステップで効率的に内容を読み込めるようにする。
+      
+      *   **ステップ 3: テキストの読み込みと内容分析**
+          *   **使用ツール:** `view_file` (対象: `raw_pdfs/<PDFファイル名>.txt`)
+          *   **目的:** 抽出されたテキストファイルを `StartLine` と `EndLine` を指定して分割して読み、DOI（`10.` で始まる文字列）、英語の題名、筆頭著者、雑誌名、出版年、PICO/PECO、主要結果などの情報を分析する。
+      
+      *   **ステップ 4: PMIDの特定とWeb検証**
+          *   **使用ツール:** `search_web`（Web検索用）および `read_url_content`（PubMedページ読み込み用）
+          *   **目的:**
+              1.  DOIがある場合は `search_web` でそのDOIを検索、ない場合は `search_web` で `"[original_title]" "[筆頭著者]" "[雑誌名]" [出版年] "pubmed"` を検索し、候補となるPubMedのURL (`https://pubmed.ncbi.nlm.nih.gov/[PMID]`) を探す。
+              2.  候補が見つかったら、**必ず** `read_url_content` でそのPubMedページを読み込み、PDFの内容と完全に一致するか検証する。
+              3.  一致した場合はそのPMIDを採用し、不一致または見つからない場合は `pmid` と `pubmed_link` を `null` とする。
+      
+      *   **ステップ 5: 重複チェック**
+          *   **使用ツール:** `view_file` (対象: `src/data/papers/papers_summary.json`)
+          *   **目的:** 特定したPMIDがすでに登録されていないかを確認する。重複がある場合は、その時点で処理を中断し、ユーザーに報告する。
+      
+      *   **ステップ 6: 新規IDの決定**
+          *   **使用ツール:** `view_file` (対象: `src/data/papers/metadata.json`)
+          *   **目的:** `metadata.json` から `lastId` を取得し、次の数値（`lastId + 1`）を新しいIDとする。
+      
+      *   **ステップ 7: 構造化JSONデータの生成**
+          *   **使用ツール:** `write_to_file`
+          *   **保存先:** `src/data/papers/paper_[新規ID].json`
+          *   **目的:** 抽出した情報から、`GEMINI.md` に定められた形式（研究論文なら `type: "paper"`、ガイドラインなら `type: "guideline"`）の日本語JSONファイルを生成する。
+      
+      *   **ステップ 8: PDFファイルの移動と一時ファイルの削除**
+          *   **使用ツール:** `run_command`
+          *   **コマンド:**
+              ```bash
+              mv raw_pdfs/<元のPDFファイル名>.pdf processed_pdfs/paper_[新規ID].pdf && rm raw_pdfs/<元のPDFファイル名>.txt
+              ```
+          *   **目的:** 処理済みのPDFを `processed_pdfs` ディレクトリへ移動し `paper_[新規ID].pdf` にリネームするとともに、作成した一時テキストファイルを削除する。
+      
+      *   **ステップ 9: メタデータとサマリーの更新**
+          *   **使用ツール:** `replace_file_content` および `run_command`
+          *   **手順:**
+              1.  `replace_file_content` で `src/data/papers/metadata.json` を更新（`lastId` を今回のIDに、`lastUpdatedAt` を現在の日付 `YYYY-MM-DD` に更新）。
+              2.  `run_command` で `node regenerate_summary.js` を実行し、`papers_summary.json` を自動更新する。

@@ -9315,5 +9315,42 @@
     ],
     "pmid": 41860322,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41860322"
+  },
+  {
+    "id": 254,
+    "type": "guideline",
+    "題名": "集中治療室における共有意思決定（SDM）：米国集中治療医学会（ACCM）および米国胸部疾患学会（ATS）のポリシー声明",
+    "original_title": "Shared Decision Making in Intensive Care Units: An American College of Critical Care Medicine and American Thoracic Society Policy Statement",
+    "筆頭著者": null,
+    "作成団体": "米国集中治療医学会 (ACCM) および米国胸部疾患学会 (ATS)",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2016 Jan;44(1):188-201.",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2016 Jan;44(1):188-201.",
+    "登録日": "2026-07-01",
+    "タグ": [
+      "医療安全・倫理系",
+      "ガイドライン・提言"
+    ],
+    "研究の種類": null,
+    "pmid": 26509317,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26509317"
+  },
+  {
+    "id": 255,
+    "type": "guideline",
+    "題名": "ICU外における患者の臨床的悪化の認識と対応に関する米国集中治療医学会（SCCM）ガイドライン：2023",
+    "original_title": "Society of Critical Care Medicine Guidelines on Recognizing and Responding to Clinical Deterioration Outside the ICU: 2023",
+    "筆頭著者": null,
+    "作成団体": "米国集中治療医学会 (SCCM)",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2024 Feb;52(2):314-330.",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2024 Feb;52(2):314-330.",
+    "登録日": "2026-07-01",
+    "タグ": [
+      "医療安全・倫理系",
+      "その他",
+      "ガイドライン・提言"
+    ],
+    "研究の種類": null,
+    "pmid": 38240510,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38240510"
   }
 ]
