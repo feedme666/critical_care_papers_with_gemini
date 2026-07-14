@@ -9330,7 +9330,6 @@
       "医療安全・倫理系",
       "ガイドライン・提言"
     ],
-    "研究の種類": null,
     "pmid": 26509317,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/26509317"
   },
@@ -9349,8 +9348,78 @@
       "その他",
       "ガイドライン・提言"
     ],
-    "研究の種類": null,
     "pmid": 38240510,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38240510"
+  },
+  {
+    "id": 256,
+    "type": "guideline",
+    "題名": "カンジダ症の診断と管理に関するグローバルガイドライン：ECMM、ISHAM、ASM共同イニシアチブ",
+    "original_title": "Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM",
+    "筆頭著者": null,
+    "作成団体": "欧州医真菌学会 (ECMM) / 国際人獣真菌学会 (ISHAM) / 米国微生物学会 (ASM)",
+    "雑誌名_巻号_出版年_ページ": "Lancet Infect Dis . 2025 May;25(5):e280-e293.",
+    "雑誌名巻号出版年_ページ": "Lancet Infect Dis . 2025 May;25(5):e280-e293.",
+    "登録日": "2026-07-14",
+    "タグ": [
+      "感染・炎症系",
+      "ガイドライン・提言"
+    ],
+    "pmid": 39956121,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/39956121"
+  },
+  {
+    "id": 257,
+    "type": "guideline",
+    "題名": "危機的状況下のサージにおける成人への集中治療資源配分に関する米国集中治療医学会ガイドライン",
+    "original_title": "Society of Critical Care Medicine Guidelines for the Allocation of Critical Care Resources to Adults During Crisis-Level Shortages",
+    "筆頭著者": null,
+    "作成団体": "Society of Critical Care Medicine (SCCM)",
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2026 Mar;54(3):619-629",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2026 Mar;54(3):619-629",
+    "登録日": "2026-07-14",
+    "タグ": [
+      "医療安全・倫理系",
+      "その他",
+      "ガイドライン・提言"
+    ],
+    "pmid": 41773927,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41773927/"
+  },
+  {
+    "id": 258,
+    "type": "paper",
+    "題名": "ICUにおける人工呼吸管理患者に対する早期積極的離床の効果：多施設共同ランダム化比較試験",
+    "original_title": "Early Active Mobilization during Mechanical Ventilation in the ICU",
+    "筆頭著者": "Carol L. Hodgson",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2022 Nov 10;387(19):1747-1758.",
+    "雑誌名巻号出版年_ページ": "N Engl J Med. 2022 Nov 10;387(19):1747-1758.",
+    "登録日": "2026-07-14",
+    "タグ": [
+      "呼吸器系",
+      "その他",
+      "ランダム化比較試験"
+    ],
+    "pmid": 36286256,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/36286256",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "早期積極的離床が生存退院日数を増加させる（increase the number of days）という仮説（優越性）を検証するため、サンプルサイズ設計において90%の検出力で7日間の群間差を検出できるように設定されている。",
+          "位置": "Methods - Trial Design and Oversight / Statistical Analysis"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-07-14",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
   }
 ]
