@@ -9421,5 +9421,40 @@
         }
       ]
     }
+  },
+  {
+    "id": 259,
+    "type": "guideline",
+    "題名": "ICUにおける精密医療開発のためのコンセンサスレポートと推奨事項：ICU症候群からICUサブフェノタイプへ",
+    "original_title": "From ICU Syndromes to ICU Subphenotypes: Consensus Report and Recommendations for Developing Precision Medicine in the ICU",
+    "筆頭著者": null,
+    "作成団体": "ラウンドテーブル会議専門家グループ（Anthony C. Gordonら、世界各地の集中治療専門医・研究者25名）",
+    "雑誌名_巻号_出版年_ページ": "Am J Respir Crit Care Med . 2024 Jul 15;210(2):155-166.",
+    "雑誌名巻号出版年_ページ": "Am J Respir Crit Care Med . 2024 Jul 15;210(2):155-166.",
+    "登録日": "2026-07-23",
+    "タグ": [
+      "その他",
+      "ガイドライン・提言"
+    ],
+    "pmid": 38687499,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/38687499"
+  },
+  {
+    "id": 260,
+    "type": "guideline",
+    "題名": "安楽死および介助死（MAiD）後の臓器提供の倫理的実施：移植学会（TTS）倫理委員会による推奨事項",
+    "original_title": "Ethical Implementation of Organ Donation Following Medical Assistance in Dying: Recommendations of the Ethics Committee of the Transplantation Society",
+    "筆頭著者": null,
+    "作成団体": "The Transplantation Society (TTS) Ethics Committee",
+    "雑誌名_巻号_出版年_ページ": "Transplantation. 2026 Jul 8. doi: 10.1097/TP.0000000000005812.",
+    "雑誌名巻号出版年_ページ": "Transplantation. 2026 Jul 8. doi: 10.1097/TP.0000000000005812.",
+    "登録日": "2026-07-23",
+    "タグ": [
+      "医療安全・倫理系",
+      "その他",
+      "ガイドライン・提言"
+    ],
+    "pmid": 42418265,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42418265"
   }
 ]
