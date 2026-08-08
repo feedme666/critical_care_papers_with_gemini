@@ -9456,5 +9456,78 @@
     ],
     "pmid": 42418265,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42418265"
+  },
+  {
+    "id": 261,
+    "type": "paper",
+    "題名": "肝機能障害を伴う急性非代償性心不全に対するアルブミンとフロセミドの併用療法の有効性と安全性",
+    "original_title": "Efficacy and safety of human albumin combined with furosemide in acute decompensated heart failure with hepatic dysfunction",
+    "筆頭著者": "Georgios Chalikias",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Am Heart J. 2026;107526",
+    "雑誌名巻号出版年_ページ": "Am Heart J. 2026;107526",
+    "登録日": "2026-08-09",
+    "タグ": [
+      "循環器系",
+      "消化器系",
+      "腎尿路系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42413681,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42413681",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "介入群が対照群よりも有効であるという仮説に基づき、群間差を評価するよう設計されている。抄録において、併用群の方が自覚症状の改善が大きくクレアチニン上昇が軽度であったことが示されているため。",
+          "位置": "Abstract, Methods"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-08-09",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 262,
+    "type": "paper",
+    "題名": "機械人工呼吸中の外傷および急性期外科患者における吸入酸素濃度の自動制御：ランダム化比較試験",
+    "original_title": "Automated control of inspired oxygen in mechanically ventilated trauma and acute care surgery patients: A randomized controlled trial",
+    "筆頭著者": "Richard D. Branson",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "J Trauma Acute Care Surg. 2026.",
+    "雑誌名巻号出版年_ページ": "J Trauma Acute Care Surg. 2026.",
+    "登録日": "2026-08-09",
+    "タグ": [
+      "呼吸器系",
+      "外傷",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42065671,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42065671/",
+    "研究の種類": {
+      "判定": "非劣性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "抄録および本文に noninferiority trial と明記されている",
+          "位置": "Abstract, Methods"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-08-09",
+          "判定": "非劣性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
   }
 ]
