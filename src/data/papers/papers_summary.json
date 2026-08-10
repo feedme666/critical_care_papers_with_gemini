@@ -9529,5 +9529,77 @@
         }
       ]
     }
+  },
+  {
+    "id": 263,
+    "type": "paper",
+    "題名": "PICU患者における筋弛緩薬投与量に対する末梢神経刺激を用いたTrain-of-Fourモニタリングの併用の効果：ランダム化クロスオーバー試験",
+    "original_title": "Effect of Adjunctive Train-of-Four Monitoring Using Peripheral Nerve Stimulation on Neuromuscular Blocking Agent Dose in PICU Patients: A Randomized Crossover Study",
+    "筆頭著者": "Kawewan Limprayoon",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Pediatr Crit Care Med . 2026 Jul 1;27(7):882-890.",
+    "雑誌名巻号出版年_ページ": "Pediatr Crit Care Med . 2026 Jul 1;27(7):882-890.",
+    "登録日": "2026-08-10",
+    "タグ": [
+      "呼吸器系",
+      "脳神経系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 41837728,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41837728",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "「To detect a difference...」という検出力計算の記載から、両群間の差を検出することを目的とした優越性デザインであると判断。",
+          "位置": "Sample Size Calculation and Analyses"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-08-10",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 264,
+    "type": "paper",
+    "題名": "敗血症誘発性低血圧における早期の制限的輸液戦略とリベラルな輸液戦略が長期的な患者中心のアウトカムに与える影響：非盲検ランダム化比較試験",
+    "original_title": "Effects of an early restrictive versus liberal fluid strategy on long-term patient-centered outcomes in sepsis-induced hypotension: an open-label, randomized controlled trial",
+    "筆頭著者": "Anselm Jorda",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Am J Respir Crit Care Med . 2026; 212(7): 1510-1521.",
+    "雑誌名巻号出版年_ページ": "Am J Respir Crit Care Med . 2026; 212(7): 1510-1521.",
+    "登録日": "2026-08-10",
+    "タグ": [
+      "循環器系",
+      "感染・炎症系",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "中",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "PDF全文の読解による分類。非劣性マージンの設定などはなく、2つの戦略の違いを検出する一般的な優越性デザインの文脈。",
+          "位置": "Methodology"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-08-10",
+          "判定": "優越性試験",
+          "方法": "LLMによる評価"
+        }
+      ]
+    }
   }
 ]
