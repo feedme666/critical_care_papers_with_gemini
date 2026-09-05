@@ -9601,5 +9601,152 @@
         }
       ]
     }
+  },
+  {
+    "id": 265,
+    "type": "paper",
+    "題名": "心臓手術中のCutibacterium acnesによる手術部位汚染の予防：ランダム化比較試験",
+    "original_title": "Prevention of Surgical Site Contamination With Cutibacterium acnes During Cardiac Surgery: A Randomized Clinical Trial",
+    "筆頭著者": "Isabell Moter",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA Netw Open. 2026 Jul 8;9(7):e2621857.",
+    "雑誌名巻号出版年_ページ": "JAMA Netw Open. 2026 Jul 8;9(7):e2621857.",
+    "登録日": "2026-08-16",
+    "タグ": [
+      "循環器系",
+      "感染・炎症系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42418201,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42418201",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "中",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "介入によって汚染が減少するかを評価し、相対リスクの減少を示している",
+          "位置": "要旨"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-08-16",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 266,
+    "type": "paper",
+    "題名": "気管支鏡下生検中の医原性出血を制御するための予防的止血治療 (PROTECT試験): 多施設無作為化単盲検プラセボ対照試験",
+    "original_title": "Prophylactic Hemostatic Treatment to Control Iatrogenic Bleeding During Endobronchial Biopsy (PROTECT Study): A Multicenter, Randomized, Single-Anonymized, Placebo-Controlled Study",
+    "筆頭著者": "Bei Li",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "CHEST 2026; 170(1):273-281",
+    "雑誌名巻号出版年_ページ": "CHEST 2026; 170(1):273-281",
+    "登録日": "2026-09-05",
+    "タグ": [
+      "呼吸器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 41802594,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/41802594",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "プラセボ対照を用いて治療の有効性を評価する通常の優越性デザイン",
+          "位置": "研究デザイン"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-05",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 267,
+    "type": "paper",
+    "題名": "第3世代セファロスポリン耐性腸内細菌目細菌による菌血症に対するテモシリンとカルバペネム系薬の比較 (ASTARTÉ)：多施設共同第3相オープンラベル非劣性ランダム化臨床試験",
+    "original_title": "Temocillin versus carbapenems for bacteraemia due to third-generation cephalosporin-resistant Enterobacterales in Spain (ASTARTÉ): a multicentre, phase 3, open-label, non-inferiority, randomised clinical trial",
+    "筆頭著者": "Francesco Cogliati Dezza",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "The Lancet. 2026",
+    "雑誌名巻号出版年_ページ": "The Lancet. 2026",
+    "登録日": "2026-09-05",
+    "タグ": [
+      "感染・炎症系",
+      "腎尿路系",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "非劣性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "PDF全文のキーワード探索で分類",
+          "位置": "全文検索"
+        },
+        {
+          "ソース": "pdf",
+          "内容": "タイトルおよび要旨にnon-inferiorityの記載あり",
+          "位置": "タイトル、要旨"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-05",
+          "判定": "非劣性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 268,
+    "type": "paper",
+    "題名": "大血管閉塞による急性脳梗塞に対する血管内治療後の頭部挙上（HeadSOAR）：多施設共同ランダム化比較試験",
+    "original_title": "Head positioning after endovascular therapy for acute stroke due to large vessel occlusion (HeadSOAR): multicentre randomised controlled trial",
+    "筆頭著者": "Zhengzhou Yuan",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "BMJ. 2026 Aug 20;394:e100363.",
+    "雑誌名巻号出版年_ページ": "BMJ. 2026 Aug 20;394:e100363.",
+    "登録日": "2026-09-05",
+    "タグ": [
+      "脳神経系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42624516,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42624516",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "統計解析において有意差の検出を目的としていること（powered to detect a 7.0 percentage point absolute difference in 90 day functional independence）",
+          "位置": "Discussion"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-05",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
   }
 ]
