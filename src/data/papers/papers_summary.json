@@ -9748,5 +9748,95 @@
         }
       ]
     }
+  },
+  {
+    "id": 269,
+    "type": "paper",
+    "題名": "ICUの熱中症患者に対する35℃と37℃の目標体温管理の比較：パイロットランダム化比較試験",
+    "original_title": "Targeted Temperature Management at 35°C vs. 37°C for Heatstroke in ICU: A Pilot Randomized Controlled Trial",
+    "筆頭著者": "Yu-cong Wang",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med . 2026;54(00):XX-XX.",
+    "雑誌名巻号出版年_ページ": "Crit Care Med . 2026;54(00):XX-XX.",
+    "登録日": "2026-09-06",
+    "タグ": [
+      "その他",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "A Pilot Randomized Controlled Trial. 比較試験。",
+          "位置": "Title, Methods"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-06",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 270,
+    "type": "paper",
+    "題名": "神経疾患を持つ気管切開患者における腹部電気刺激と気道クリアランステクニックの併用効果：ランダム化比較試験",
+    "original_title": "Effects of Abdominal Electrical Stimulation Combined With Airway Clearance Techniques in Tracheotomized Patients With Neurological Disorders: A Randomized, Controlled Trial",
+    "筆頭著者": "Feixiang Huo",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2026;54(00):XX-XX",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2026;54(00):XX-XX",
+    "登録日": "2026-09-07",
+    "タグ": [
+      "呼吸器系",
+      "脳神経系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42467907,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42467907",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "介入群が対照群よりも有効であることを仮説として検証している",
+          "位置": "全文検索"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-07",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 271,
+    "type": "paper",
+    "題名": "脳死前のホルモン補充は壊滅的脳損傷後の臓器提供率を増加させる：EAST多施設共同試験",
+    "original_title": "Hormone replacement before brain death increases organ donation rate after catastrophic brain injury: An EAST multicenter trial",
+    "筆頭著者": "Kristen D. Nordham",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "J Trauma Acute Care Surg. 2026 Jul",
+    "雑誌名巻号出版年_ページ": "J Trauma Acute Care Surg. 2026 Jul",
+    "登録日": "2026-09-07",
+    "タグ": [
+      "外傷",
+      "脳神経系",
+      "内分泌・代謝系",
+      "観察研究"
+    ],
+    "pmid": 42468021,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42468021/"
   }
 ]
