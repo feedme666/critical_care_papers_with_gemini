@@ -9838,5 +9838,76 @@
     ],
     "pmid": 42468021,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42468021/"
+  },
+  {
+    "id": 272,
+    "type": "paper",
+    "題名": "院外心停止後の治療的低体温療法の期間：ICECAPランダム化臨床試験",
+    "original_title": "Duration of Therapeutic Hypothermia After Out-of-Hospital Cardiac Arrest: The ICECAP Randomized Clinical Trial",
+    "筆頭著者": "William J. Meurer",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2026 Aug 5. doi:10.1001/jama.2026.10247",
+    "雑誌名巻号出版年_ページ": "JAMA. 2026 Aug 5. doi:10.1001/jama.2026.10247",
+    "登録日": "2026-09-08",
+    "タグ": [
+      "循環器系",
+      "脳神経系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42554995,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42554995",
+    "研究の種類": {
+      "判定": "容量反応関係試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "複数の冷却期間（6〜72時間）を割り付け、期間反応曲線（duration-response curve）を推定する適応型試験である",
+          "位置": "Abstract/Methods"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-08",
+          "判定": "容量反応関係試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 273,
+    "type": "paper",
+    "題名": "急性期疾患成人における正常酸素血症維持のための自律的酸素投与量調節：SAVE-O2 AIランダム化臨床試験",
+    "original_title": "Autonomous Oxygen Titration for Maintaining Normoxemia in Acutely Ill Adults: The SAVE-O2 AI Randomized Clinical Trial.",
+    "筆頭著者": "David J. Douin",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA Intern Med. 2026 Aug 3.",
+    "雑誌名巻号出版年_ページ": "JAMA Intern Med. 2026 Aug 3.",
+    "登録日": "2026-09-08",
+    "タグ": [
+      "呼吸器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42546017,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42546017/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "中",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "通常ケアよりも正常酸素血症時間を有意に「増加」させることを仮説としているため",
+          "位置": "要旨"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-08",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
   }
 ]
