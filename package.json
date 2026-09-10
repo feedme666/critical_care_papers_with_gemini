@@ -52,6 +52,6 @@
     "react-scripts": "^5.0.1",
     "resolve-url-loader": "^5.0.0",
     "svgo": "^4.0.0",
-    "webpack-dev-server": "^5.2.2"
+    "webpack-dev-server": "^6.0.0"
   }
 }
