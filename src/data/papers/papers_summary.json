@@ -9909,5 +9909,169 @@
         }
       ]
     }
+  },
+  {
+    "id": 274,
+    "type": "paper",
+    "題名": "主要非心臓手術における完全静脈麻酔と揮発性吸入麻酔の比較：無作為化臨床試験",
+    "original_title": "Total Intravenous vs Volatile Inhalational Anesthesia for Major Noncardiac Surgery A Randomized Clinical Trial",
+    "筆頭著者": "Shaman Jhanji",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2026 Aug 12. doi:10.1001/jama.2026.11065",
+    "雑誌名巻号出版年_ページ": "JAMA. 2026 Aug 12. doi:10.1001/jama.2026.11065",
+    "登録日": "2026-09-11",
+    "タグ": [
+      "その他",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42584898,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42584898",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "Introductionにおける記載「We hypothesized that TIVA would be superior to inhalational anesthesia with respect to patient outcomes.」より優越性試験としてデザインされている",
+          "位置": "Introduction"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-11",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 275,
+    "type": "paper",
+    "題名": "心臓手術における冷所保存血小板と室温保存血小板の比較：CHIPSランダム化臨床試験",
+    "original_title": "Cold and Room-Temperature Platelets in Cardiac Surgery: The CHIPS Randomized Clinical Trial",
+    "筆頭著者": "Philip C. Spinella",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2026 Aug 17. doi: 10.1001/jama.2026.13328",
+    "雑誌名巻号出版年_ページ": "JAMA. 2026 Aug 17. doi: 10.1001/jama.2026.13328",
+    "登録日": "2026-09-15",
+    "タグ": [
+      "循環器系",
+      "血液・免疫系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42606886,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42606886",
+    "研究の種類": {
+      "判定": "非劣性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "AbstractのDESIGN, SETTING, AND PARTICIPANTSに「noninferiority, storage duration-ranging trial」と明記されている",
+          "位置": "要旨"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-15",
+          "判定": "非劣性試験",
+          "方法": "LLM読解"
+        }
+      ]
+    }
+  },
+  {
+    "id": 276,
+    "type": "paper",
+    "題名": "急性心不全に対するReprieveシステムを用いた体液管理：無作為化比較対照FASTR試験",
+    "original_title": "Fluid Management of Acute Heart Failure With the Reprieve System: The Randomized Controlled FASTR Trial",
+    "筆頭著者": "James E. Udelson",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JACC Heart Fail. 2026;14(8):103062.",
+    "雑誌名巻号出版年_ページ": "JACC Heart Fail. 2026;14(8):103062.",
+    "登録日": "2026-09-15",
+    "タグ": [
+      "循環器系",
+      "腎尿路系",
+      "ランダム化比較試験",
+      "医療安全・倫理系"
+    ],
+    "pmid": 42068320,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42068320",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "PDF全文のキーワード探索で分類",
+          "位置": "全文検索"
+        },
+        {
+          "ソース": "pdf",
+          "内容": "速やかなうっ血解除の有効性を検証する目的であり、安全性に関して同等性をみているが、主目的は優越性の検証であると考えられるため",
+          "位置": "要旨/方法の再確認"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-15",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 277,
+    "type": "guideline",
+    "題名": "2026年 心不全の管理に関するESCガイドライン",
+    "original_title": "2026 ESC Guidelines for the management of heart failure",
+    "筆頭著者": null,
+    "作成団体": "European Society of Cardiology (ESC)",
+    "雑誌名_巻号_出版年_ページ": "Eur Heart J. 2026 Aug 28;ehag100",
+    "雑誌名巻号出版年_ページ": "Eur Heart J. 2026 Aug 28;ehag100",
+    "登録日": "2026-09-16",
+    "タグ": [
+      "ガイドライン・提言"
+    ],
+    "pmid": 42661420,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42661420"
+  },
+  {
+    "id": 278,
+    "type": "paper",
+    "題名": "周術期気管挿管における従来型直接喉頭鏡とビデオ喉頭鏡の比較：ランダム化臨床試験（COVALENT試験）",
+    "original_title": "Conventional vs Video-Assisted Laryngoscopy for Perioperative Endotracheal Intubations: A Randomized Clinical Trial",
+    "筆頭著者": "Benedikt Schmid",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA Netw Open. 2026;9(8):e2625965.",
+    "雑誌名巻号出版年_ページ": "JAMA Netw Open. 2026;9(8):e2625965.",
+    "登録日": "2026-09-16",
+    "タグ": [
+      "呼吸器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "事前定義された階層的検定手順において、最初に非劣性を検定し、その後優越性（superiority）を検定している。最終的にVLMおよびVLHのDLに対する優越性が示された。",
+          "位置": "Methods/Statistical Analysis および Resultsセクション"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-16",
+          "判定": "優越性試験",
+          "方法": "自動判定（LLM）"
+        }
+      ]
+    }
   }
 ]

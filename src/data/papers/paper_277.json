@@ -1,0 +1,860 @@
+{
+  "id": 277,
+  "type": "guideline",
+  "題名": "2026年 心不全の管理に関するESCガイドライン",
+  "original_title": "2026 ESC Guidelines for the management of heart failure",
+  "作成団体": "European Society of Cardiology (ESC)",
+  "雑誌名_巻号_出版年_ページ": "Eur Heart J. 2026 Aug 28;ehag100",
+  "登録日": "2026-09-16",
+  "タグ": [
+    "ガイドライン・提言"
+  ],
+  "概要": "このガイドラインは、欧州心臓病学会（ESC）による心不全（HF）の管理に関する最新の公式見解を提供する。病態の進行を重視したAからDの4段階のステージ分類を導入し、左室駆出率（LVEF）に基づく表現型を2つ（HFrEF、HFpEF）に簡略化している。さらに、治療法の位置づけを明確化するための新しい用語体系（FMT：基盤的薬物療法、AMT：追加的薬物療法、GDIT：ガイドライン主導の介入治療）を採用し、予防、早期診断、多職種連携を強調している。また、「急性心不全」という呼称を「代償不全性心不全（DHF）」に変更し、病態に即したアプローチを提唱している。",
+  "対象": "心不全リスク患者（ステージA, B）から、確立した心不全（ステージC）、および進行・重症心不全（ステージD）、代償不全性心不全に至るまでの全病期の患者。",
+  "作成プロセス": {
+    "開発方法論": "ESCの臨床実践ガイドライン（CPG）委員会の主導のもと、欧州の多様な専門学会、患者フォーラム等からの代表者によるタスクフォースが結成され、厳格な利益相反の管理と合意形成プロセスを経て作成。",
+    "検索戦略と選定基準": "無作為化比較試験（RCT）やメタアナリシスなど、最新の質の高いエビデンスを包括的に評価し、新たな推奨事項の追加や既存の推奨の改訂を行った。"
+  },
+  "推奨事項": {
+    "title": "主要な推奨事項",
+    "recommendations": [
+      {
+        "cq": "心不全の予防に関する推奨 (Prevention of heart failure)",
+        "recommendation_statement": "高血圧またはステージBの心不全患者において、心不全リスクを低減するため、厳格な血圧管理（収縮期血圧の目標値 <130 mmHg）を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全の予防に関する推奨 (Prevention of heart failure)",
+        "recommendation_statement": "心不全リスクのある（複数のASCVD危険因子または確立したASCVDを持つ）2型糖尿病患者において、心不全および心血管（CV）死亡リスクを低減するため、SGLT2阻害薬を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全の予防に関する推奨 (Prevention of heart failure)",
+        "recommendation_statement": "2型糖尿病および慢性腎臓病（CKD）患者において、心不全またはCV死亡リスクを低減するため、SGLT2阻害薬を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全の予防に関する推奨 (Prevention of heart failure)",
+        "recommendation_statement": "2型糖尿病およびCKD患者において、心不全リスクを低減するため、フィネレノンを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全の予防に関する推奨 (Prevention of heart failure)",
+        "recommendation_statement": "ステージAまたはBの全患者において、心不全の進行リスクを低減するため、健康的なライフスタイルの選択（適正体重の維持、バランスの取れた食事の摂取、座りっぱなしの回避、禁煙、過度な飲酒の制限、およびコカイン・アンフェタミン・アナボリックステロイド等の薬物使用の中止）に関するカウンセリングを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全の予防に関する推奨 (Prevention of heart failure)",
+        "recommendation_statement": "ASCVDの確立した患者またはハイリスク患者において、心不全リスクを低減するため、スタチンによる治療を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全の予防に関する推奨 (Prevention of heart failure)",
+        "recommendation_statement": "2型糖尿病かつ少なくとも1つの他のCV危険因子を持つ患者において、心不全またはCV死亡リスクを低減するため、GLP-1受容体作動薬を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全疑いの全患者に対する診断的検査に関する推奨 (Diagnostic investigations in all patients with suspected heart failure)",
+        "recommendation_statement": "心不全疑いの患者において、併存疾患のスクリーニングとして以下の臨床検査を推奨する：全血球計算、腎機能（eGFRおよびUACR）、電解質、肝機能、甲状腺機能、HbA1c、脂質、および鉄動態（TSATおよびフェリチン）。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全疑いの全患者に対する診断的検査に関する推奨 (Diagnostic investigations in all patients with suspected heart failure)",
+        "recommendation_statement": "心不全疑いの患者において、ナトリウム利尿ペプチドの測定を推奨する（患者の年齢、肥満、その他ナトリウム利尿ペプチド値に影響を与える既知の因子との関連で解釈する）。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全疑いの全患者に対する診断的検査に関する推奨 (Diagnostic investigations in all patients with suspected heart failure)",
+        "recommendation_statement": "心不全疑いの患者において、12誘導心電図を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全疑いの全患者に対する診断的検査に関する推奨 (Diagnostic investigations in all patients with suspected heart failure)",
+        "recommendation_statement": "心不全疑いの患者において、胸部X線検査を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全疑いの全患者に対する診断的検査に関する推奨 (Diagnostic investigations in all patients with suspected heart failure)",
+        "recommendation_statement": "心不全疑いの患者において、診断の確定、心不全フェノタイプの鑑別、および心不全の基礎疾患特定を支援するため、経胸壁心エコー図検査を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "心筋症が疑われる患者、または基礎にある病因が不明で、さらなる特徴づけが患者ケアに付加価値をもたらす可能性が高い場合、造影CMR（心臓MRI）を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "心不全を有し心アミロイドーシスが疑われる患者において、血清・尿の免疫固定法、血清遊離軽鎖アッセイ、およびDPD/PYP/HMDP骨シンチグラフィによる初期診断テストを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "心筋症の診断基準を満たす患者において、それが患者の診断、予後予測、治療層別化、生殖管理に役立つ場合、または長期監視の対象となる親族のカスケード遺伝子評価を可能にする場合、遺伝子検査を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "心不全、狭心症を有し、閉塞性冠動脈疾患（CAD）の確率が高く、血行再建術の候補となる患者において、侵襲的冠動脈造影を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "心サルコイドーシスが疑われる心筋症患者の診断ワークアップとして、18F-FDG-PETスキャンを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "標準的治療にもかかわらず急速に進行する心不全患者、または他の臨床検査結果から心筋の炎症、浸潤、蓄積が示唆され、他の手段では特定できない場合、診断および管理を支援するため心内膜心筋生検を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "収縮性心膜炎または先天性心疾患が心不全の原因と考えられる患者において、右心カテーテル検査を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "疑いのあるHFpEFまたは器質的心疾患を持つ選択された患者において、診断を確定するため、または臨床診察や非侵襲的検査では血行動態状態の理解が不十分な場合、右心カテーテル検査を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "HFrEFを有し閉塞性CADの検査前確率が高い患者において、手技のリスク・ベネフィット比と潜在的な血行再建戦略を考慮し、侵襲的冠動脈造影を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "HFrEFを有し閉塞性CADの検査前確率が低～中等度の患者において、CTCA（冠動脈CT造影）を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "CIED（心臓植込み型デバイス）を有し、新規発症または悪化するHFrEFの全患者において、右室（RV）ペーシング率の見直しを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "確立した心不全患者における可逆的/治療可能な病因検出のための特殊診断検査に関する推奨 (Specialized diagnostic investigations to detect reversible/treatable causes)",
+        "recommendation_statement": "持続性心房細動（AF）患者において、洞調律回復による症状への効果や左室機能の改善を評価することが不確実な場合、診断ツールとしての電気的除細動を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "LVEFに関わらず、症候性心不全患者において、心不全入院（HFH）またはCV死亡リスクを低減するため、SGLT2阻害薬（ダパグリフロジンまたはエンパグリフロジン）を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "LVEFに関わらず、症候性心不全患者において、HFHまたはCV死亡リスクを低減するため、MRA（HFrEFにはsMRA、HFpEFにはsMRA/nsMRA）を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "うっ血の徴候および/または症状がある心不全患者において、心不全症状の緩和、運動耐容能の改善、HFHリスクの低減のため、体液量に基づいたループ利尿薬の動的かつ個別化された用量調節を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "心不全患者において、HFHまたは死亡リスクを低減するため、症状、バイタルサイン、臨床検査所見を指標とし、RCTで有効性が示された最適な目標用量を達成すべく、少なくとも1〜2週間ごとに基礎的薬物療法（FMT）を漸増することを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "無症状になった患者やLVEFが改善した患者を含め、すべての心不全患者においてHFHおよび死亡リスクを低減するため、最高耐用量でのFMTの継続を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "安定した症候性HFrEF患者において、HFHおよび死亡リスクを低減するため、β遮断薬を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "症候性HFrEF患者において、HFHおよび死亡リスクを低減するため、ACE阻害薬またはARNIを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "症候性HFrEF患者において、HFHおよび死亡リスクを低減するため、ACE阻害薬またはARBからARNIへの切り替えを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "ACE阻害薬またはARNIに忍容性がない症候性HFrEF患者において、HFHおよびCV死亡リスクを低減するため、ARBを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "最適なFMTにもかかわらずLVEF≦40%の症候性HFrEF患者において、HFHリスクを低減するため、強心配糖体（ジゴキシンまたはジギトキシン）を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "洞調律、安静時心拍数>70 bpm、最高耐用量のACE-I/ARNI、MRA、SGLT2阻害薬、β遮断薬を使用している、LVEF≦35%の症候性HFrEF患者において、HFHまたはCV死亡リスクを低減するため、イバブラジンを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "β遮断薬に忍容性がなく、最高耐用量のACE-I/ARNIおよびMRAを使用している、洞調律のLVEF≦35%の症候性HFrEF患者において、HFHまたはCV死亡リスクを低減するため、イバブラジンを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "最適なFMTに加えて、LVEF≦40%の症候性HFrEFを有する自認黒人患者において、HFHおよび死亡リスクを低減するため、ヒドララジンと硝酸イソソルビドの併用を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B2",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "ARNI、ACE-I、またはARBに忍容性のないLVEF≦40%の症候性HFrEF患者において、HFHおよび死亡リスクを低減するため、ヒドララジンと硝酸イソソルビドの併用を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "最適なFMTによる治療にもかかわらず、LVEF<45%の症候性HFrEF患者において、HFHおよびCV死亡リスクを低減するため、ベルイシグアト（Vericiguat）を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "可逆的原因による心不全に対する特異的治療後、完全に無症状となり左室機能・容量・ナトリウム利尿ペプチドが正常化した厳選された患者において、患者の希望を考慮し、頻回な臨床・検査・画像監視下でのFMTの段階的中止を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "慢性心不全の薬物管理に関する推奨 (Pharmacological management of chronic heart failure)",
+        "recommendation_statement": "症候性HFpEF患者において、HFHリスクを低減するため、ACE-I/ARB/ARNIを考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "植込み型除細動器（ICD）に関する推奨 (Implantable cardioverter-defibrillator implantation)",
+        "recommendation_statement": "血行動態の不安定をもたらす心室性不整脈から回復した（二次予防）、可逆的原因がない、または心室性不整脈が心筋梗塞後48時間未満に発生したものでない患者において、良好な機能状態を伴って1年以上の生存が見込まれる場合、突然死および全原因死亡のリスクを低減するため、ICDを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "植込み型除細動器（ICD）に関する推奨 (Implantable cardioverter-defibrillator implantation)",
+        "recommendation_statement": "虚血性の病因（過去40日以内の心筋梗塞を除く）を有し、3ヶ月以上の最適FMT後もLVEF≦35%である症候性HFrEF（NYHAクラスII/III）患者において、良好な機能状態を伴って1年以上の生存が見込まれる場合、突然死および全原因死亡のリスクを低減するため、ICDを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "植込み型除細動器（ICD）に関する推奨 (Implantable cardioverter-defibrillator implantation)",
+        "recommendation_statement": "非虚血性の病因を有し、3ヶ月以上の最適FMT後もLVEF≦35%である症候性HFrEF（NYHAクラスII/III）患者において、良好な機能状態を伴って1年以上の生存が見込まれる場合、突然死および全原因死亡のリスクを低減するため、ICDを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "植込み型除細動器（ICD）に関する推奨 (Implantable cardioverter-defibrillator implantation)",
+        "recommendation_statement": "CIEDのジェネレーター交換前に、リスクとベネフィットのバランスが依然としてCIEDを支持することを確認するため、患者とCIEDおよび心不全に熟練した心臓専門医との間の共同意思決定プロセスを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "植込み型除細動器（ICD）に関する推奨 (Implantable cardioverter-defibrillator implantation)",
+        "recommendation_statement": "突然死のリスクがある心不全患者において、永続的ICD植込みのための決定へのブリッジ、または心移植リスト掲載中の限られた期間、生存率を向上させるため、着用型除細動器（WCD）を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "植込み型除細動器（ICD）に関する推奨 (Implantable cardioverter-defibrillator implantation)",
+        "recommendation_statement": "心筋梗塞後40日以内の一次予防のためのICD植込みは、この期間中の植込みが予後を改善しないため、推奨されない（禁忌）。",
+        "strength_of_recommendation": "III",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "植込み型除細動器（ICD）に関する推奨 (Implantable cardioverter-defibrillator implantation)",
+        "recommendation_statement": "薬物療法に不応な重度の症状を伴うNYHAクラスIVの患者へのICD植込みは、CRT、補助人工心臓、または心移植の候補でない限り、推奨されない（禁忌）。",
+        "strength_of_recommendation": "III",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心臓再同期療法（CRT）植込みに関する推奨 (Cardiac resynchronization therapy implantation)",
+        "recommendation_statement": "最適なFMTにもかかわらず、LVEF≦35%の症候性HFrEFであり、洞調律かつLBBBでQRS幅≧150msの患者において、症状の改善、入院および死亡リスクの低減のため、CRTを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "心臓再同期療法（CRT）植込みに関する推奨 (Cardiac resynchronization therapy implantation)",
+        "recommendation_statement": "従来のペースメーカーまたはICDが植え込まれているが、最適FMTにもかかわらず心不全が悪化し、高い右室（RV）ペーシングの割合があるLVEF≦35%の患者において、HFHまたは死亡リスクを低減するため、CRTへのアップグレードを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心臓再同期療法（CRT）植込みに関する推奨 (Cardiac resynchronization therapy implantation)",
+        "recommendation_statement": "高度房室ブロックに対する心室ペーシングの適応があるHFrEF患者において、NYHAクラスやQRS幅に関わらず、HFHおよび死亡リスクを低減するため、RVペーシングよりもCRTを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心臓再同期療法（CRT）植込みに関する推奨 (Cardiac resynchronization therapy implantation)",
+        "recommendation_statement": "最適なFMTにもかかわらず、LVEF≦35%の症候性HFrEFであり、洞調律かつ非LBBBのQRS波形を有しQRS幅≧150msの患者において、症状の改善、罹患率および死亡の低減のため、CRTを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心臓再同期療法（CRT）植込みに関する推奨 (Cardiac resynchronization therapy implantation)",
+        "recommendation_statement": "最適なFMTにもかかわらず、LVEF≦35%の症候性HFrEFであり、洞調律かつLBBBのQRS波形を有しQRS幅130〜149msの患者において、症状の改善、罹患率および死亡の低減のため、CRTを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心臓再同期療法（CRT）植込みに関する推奨 (Cardiac resynchronization therapy implantation)",
+        "recommendation_statement": "最適なFMTにもかかわらず、LVEF≦35%の症候性HFrEFであり、洞調律かつ非LBBBのQRS波形を有しQRS幅130〜149msの患者において、症状の改善、罹患率および死亡の低減のため、CRTを考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心臓再同期療法（CRT）植込みに関する推奨 (Cardiac resynchronization therapy implantation)",
+        "recommendation_statement": "HFrEF、QRS≧150msのLBBB、およびLVEF≦35%の症候性患者において、症状の改善、罹患率および死亡の低減のため、FMTの導入とCRT植込みの計画を同時に行うことを考慮してもよい（ただしCRT植込み前にLVEFを再評価すべきである）。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心臓再同期療法（CRT）植込みに関する推奨 (Cardiac resynchronization therapy implantation)",
+        "recommendation_statement": "高度房室ブロックによるペーシングの適応がないQRS幅<130msの患者へのCRTは推奨されない（禁忌）。",
+        "strength_of_recommendation": "III",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全患者の退院前および早期退院後フォローアップに関する推奨 (Pre-discharge and early post-discharge follow-up)",
+        "recommendation_statement": "DHF（代償不全性心不全）で入院した患者において、うっ血の徴候が持続していないかを除外するため、退院前の慎重な評価を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全患者の退院前および早期退院後フォローアップに関する推奨 (Pre-discharge and early post-discharge follow-up)",
+        "recommendation_statement": "心不全再入院または死亡リスクを低減するため、退院前および心不全入院後の最初の6週間における頻回のフォローアップ時において、FMTの迅速な導入と漸増を行う集中的な戦略を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B2",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "低酸素血症を是正するため、SpO2 <90% または PaO2 <60 mmHg の患者に酸素投与を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "酸素投与や非侵襲的換気にもかかわらず、持続的および進行性の呼吸不全があるDHF患者において、低酸素血症を是正するための気管挿管を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "呼吸窮迫（呼吸数 >25回/分、SpO2 <90%）のある患者において、呼吸窮迫を緩和し気管挿管のリスクを低減するため、非侵襲的陽圧換気をできるだけ早く開始することを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B2",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "体液過多で入院したすべてのDHF患者において、症状を改善するため、静脈内ループ利尿薬を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "ループ利尿薬で治療歴がある体液過多の患者において、うっ血を軽減するため、短期間の静脈内アセタゾラミドまたは経口ヒドロクロロチアジドの追加を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "ナトリウム利尿と利尿を改善するため、DHF患者の治療の最初の数日間において、尿中Na+ガイド下での利尿薬治療を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "QoLとうっ血症状を改善し、HFHリスクを低減するため、初期安定化後のDHF患者への入院中でのSGLT2阻害薬導入を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "収縮期血圧 >110 mmHg のDHF患者において、症状の改善とうっ血の軽減のため、初期治療としての静脈内血管拡張薬を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "補液などの標準的治療に反応しない、収縮期血圧 <90 mmHg および低灌流の証拠がある患者において、灌流を改善するため、強心薬を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "心原性ショック患者において、血圧を上昇させ重要臓器の灌流を維持するため、昇圧薬（できればノルエピネフリン）を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "代償不全性心不全の即時および中間治療に関する推奨 (Immediate and intermediate treatment of decompensated HF)",
+        "recommendation_statement": "重度・難治性の痛みや不安がない限り、DHF患者へのオピエートのルーチン使用は有害のリスクがあるため推奨されない（禁忌）。",
+        "strength_of_recommendation": "III",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心原性ショック患者における一時的機械的循環補助（MCS）の使用に関する推奨 (Temporary MCS in cardiogenic shock)",
+        "recommendation_statement": "一時的MCSの潜在的候補者において、患者と心不全の特徴に基づきデバイス選択（様式と種類）を導くため、多職種ショックチームを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心原性ショック患者における一時的機械的循環補助（MCS）の使用に関する推奨 (Temporary MCS in cardiogenic shock)",
+        "recommendation_statement": "左室収縮不全を伴うST上昇型心筋梗塞による心原性ショックであり、低酸素性脳損傷のリスクがない特定の患者において、死亡リスクを低減するため、マイクロアクシャルフローポンプを用いた一時的MCSを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心原性ショック患者における一時的機械的循環補助（MCS）の使用に関する推奨 (Temporary MCS in cardiogenic shock)",
+        "recommendation_statement": "急性心筋梗塞による心原性ショックの非選択的患者に対する一時的MCSは、有害のリスクがあるため推奨されない（禁忌）。",
+        "strength_of_recommendation": "III",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心原性ショック患者における一時的機械的循環補助（MCS）の使用に関する推奨 (Temporary MCS in cardiogenic shock)",
+        "recommendation_statement": "非選択的な心原性ショック患者へのIABPは、効果がないため推奨されない（禁忌）。",
+        "strength_of_recommendation": "III",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心原性ショック患者における一時的機械的循環補助（MCS）の使用に関する推奨 (Temporary MCS in cardiogenic shock)",
+        "recommendation_statement": "心筋梗塞に関連する機械的合併症の患者において、根治的治療へのブリッジとして一時的MCSを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心原性ショック患者における一時的機械的循環補助（MCS）の使用に関する推奨 (Temporary MCS in cardiogenic shock)",
+        "recommendation_statement": "進行心不全による心原性ショックにおいて、心不全に関連する血行動態不安定のある特定の患者に対し、BTR（回復へのブリッジ）、BTD（決定へのブリッジ）、BTB（ブリッジへのブリッジ）、BTC（候補へのブリッジ）、またはBTT（移植へのブリッジ）として、一時的MCSを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "進行心不全の診断と評価に関する推奨 (Diagnosis and evaluation of advanced heart failure)",
+        "recommendation_statement": "心移植または耐久性MCSの絶対的禁忌がなく、意欲のある進行心不全（またはそのリスクがある）患者において、適応を評価するため、進行心不全センターへの早期コンサルテーションを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "進行心不全の診断と評価に関する推奨 (Diagnosis and evaluation of advanced heart failure)",
+        "recommendation_statement": "進行心不全患者において、心移植および耐久性MCSの評価の一環として、心肺運動負荷試験を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "進行心不全の診断と評価に関する推奨 (Diagnosis and evaluation of advanced heart failure)",
+        "recommendation_statement": "進行心不全患者において、心移植および耐久性MCSの評価の一環として、右心カテーテル検査を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "進行心不全の薬物管理に関する推奨 (Medical management of advanced heart failure)",
+        "recommendation_statement": "初期治療にもかかわらず臓器低灌流の証拠がある進行HFrEFの特定の患者において、心拍出量を増やし症状を改善するため、β遮断薬またはイバブラジンの減量・中止を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "進行心不全の薬物管理に関する推奨 (Medical management of advanced heart failure)",
+        "recommendation_statement": "進行HFrEF、低心拍出量、低灌流または末端臓器不全の証拠がある患者において、心拍出量を増やし症状を改善するため、BTD、BTTまたは耐久性MCSへのブリッジとして持続的強心薬を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "進行心不全の薬物管理に関する推奨 (Medical management of advanced heart failure)",
+        "recommendation_statement": "難治性の体液過多および末期腎不全の患者において、症状を改善するため、腎代替療法を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "進行心不全の薬物管理に関する推奨 (Medical management of advanced heart failure)",
+        "recommendation_statement": "利尿薬治療の強化に反応しない難治性の体液過多の患者において、再入院リスクを低減するため、限外濾過（ウルトラフィルトレーション）を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "進行心不全における耐久性機械的循環補助（MCS）に関する推奨 (Durable MCS in advanced HF)",
+        "recommendation_statement": "FMTおよびGDITにもかかわらず、特定の進行HFrEF患者において、症状改善と死亡リスク低減のため、BTT、BTC、BTR、またはDestination Therapy（最終的治療）として、耐久性MCS（LVAD）を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "進行心不全における耐久性機械的循環補助（MCS）に関する推奨 (Durable MCS in advanced HF)",
+        "recommendation_statement": "治療可能な病因の特定または家族スクリーニングの促進のため、非虚血性心不全患者においてLVADまたは心移植手術時の摘出心組織の病理組織学的検査を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心移植に関する推奨 (Heart transplantation)",
+        "recommendation_statement": "FMTおよびGDITに不応であり禁忌を持たない特定の進行心不全患者において、QoLと生存率を改善するため、心移植を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における心房細動の管理に関する推奨 (Management of atrial fibrillation)",
+        "recommendation_statement": "CHA2DS2-VAScスコアによって血栓塞栓リスクが高いと判断された臨床的AF患者において、虚血性脳卒中と血栓塞栓症を予防するため、経口抗凝固療法を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における心房細動の管理に関する推奨 (Management of atrial fibrillation)",
+        "recommendation_statement": "持続性または永続性AFのHFrEF患者において、心拍数コントロールと症状改善の第一選択療法として、β遮断薬を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における心房細動の管理に関する推奨 (Management of atrial fibrillation)",
+        "recommendation_statement": "最適なFMTにもかかわらず安静時心拍数 >110 bpm が持続するAF患者において、心拍数コントロールのため、ジゴキシンを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における心房細動の管理に関する推奨 (Management of atrial fibrillation)",
+        "recommendation_statement": "症候性AFおよびHFrEFの特定の患者において、QoL改善およびHFH/死亡リスク低減のため、AFに対するカテーテルアブレーションを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における心房細動の管理に関する推奨 (Management of atrial fibrillation)",
+        "recommendation_statement": "薬物療法にもかかわらずレートコントロールが不良で少なくとも1回のHFH歴がある重症の永続性AF患者において、症状、身体的制限、再発性HFHおよび死亡を低減するため、房室（AV）結節アブレーションとCRTの併用を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全を伴う慢性冠症候群における血行再建に関する推奨 (Revascularization in chronic coronary syndrome)",
+        "recommendation_statement": "FMTおよび抗狭心症薬にもかかわらず狭心症が持続する心不全および閉塞性CAD患者において、症状緩和のため、冠動脈血行再建術を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全を伴う慢性冠症候群における血行再建に関する推奨 (Revascularization in chronic coronary syndrome)",
+        "recommendation_statement": "ハートチームの評価後に血行再建が計画された場合、LVEF≦35%かつ手術に適した多枝CADを持つ患者において、長期生存を改善するため、CABG（冠動脈バイパス術）を推奨される血行再建戦略として考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における弁膜症の管理に関する推奨 (Valvular heart disease)",
+        "recommendation_statement": "重度大動脈弁狭窄症と心不全を持つ患者において、症状改善と死亡リスク低減のため、大動脈弁への介入（SAVRまたはTAVI）を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における弁膜症の管理に関する推奨 (Valvular heart disease)",
+        "recommendation_statement": "最適化されたFMTと（適応があれば）CRTにもかかわらず重度二次性僧帽弁逆流が持続する、血行動態が安定した症候性HFrEF患者で、特定の臨床的・心エコー的基準を満たす場合、HFHリスク低減とQoL改善のため、経カテーテル的僧帽弁クリップ術（TEER）を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における弁膜症の管理に関する推奨 (Valvular heart disease)",
+        "recommendation_statement": "転帰改善の基準を満たさない場合でも、症状改善を目的として特定の症候性患者に対するTEERを考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における肥満の管理に関する推奨 (Obesity)",
+        "recommendation_statement": "LVEF≧45%、BMI≧30 kg/m2の症候性心不全患者に対し、糖尿病の有無にかかわらず、体重を減少し運動耐容能とQoLを改善するため、セマグルチドまたはチルゼパチドを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における肥満の管理に関する推奨 (Obesity)",
+        "recommendation_statement": "BMI≧35 kg/m2の肥満心不全患者において、生活習慣の改善と減量薬で体重減少が維持できない場合、体重を減らすために肥満外科手術を考慮してもよい。",
+        "strength_of_recommendation": "IIb",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における鉄欠乏の管理に関する推奨 (Iron deficiency)",
+        "recommendation_statement": "症候性HFrEFおよび鉄欠乏を有する患者において、心不全症状の緩和とQoL改善のため、静脈内鉄補充を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全患者における鉄欠乏の管理に関する推奨 (Iron deficiency)",
+        "recommendation_statement": "症候性HFrEFおよび鉄欠乏を有する患者において、HFHリスクを低減するため、静脈内鉄補充を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "不安、うつ、フレイルに関する推奨 (Anxiety, depression, and frailty)",
+        "recommendation_statement": "心不全患者において、個別化されたケアプランの策定を支援し有害転帰に寄与する要因を特定するため、不安、うつ、およびフレイルの評価を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "その他の非心血管併存疾患に関する推奨 (Other non-cardiovascular comorbidities)",
+        "recommendation_statement": "肺炎の合併症、入院、および死亡リスクを低減するため、心不全患者へのインフルエンザおよび肺炎球菌ワクチンの接種を考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "その他の非心血管併存疾患に関する推奨 (Other non-cardiovascular comorbidities)",
+        "recommendation_statement": "NSAIDsおよびCOX-2阻害薬は、心不全の悪化およびHFHリスクを増加させるため、心不全患者への使用は推奨されない（禁忌）。",
+        "strength_of_recommendation": "III",
+        "level_of_evidence": "B2",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全の多職種チーム管理に関する推奨 (Multidisciplinary management)",
+        "recommendation_statement": "心不全患者において、HFHおよび死亡リスクを低減するため、多職種チームによる心不全管理プログラムを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全の多職種チーム管理に関する推奨 (Multidisciplinary management)",
+        "recommendation_statement": "心不全患者において、HFHまたは死亡リスクを低減するため、心不全教育と自己管理戦略を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全の多職種チーム管理に関する推奨 (Multidisciplinary management)",
+        "recommendation_statement": "心不全患者において、入院および死亡リスクを低減するため、ヘルスリテラシーの評価やポリファーマシーのレビューを含む、アドヒアランス向上を目的とした多職種介入を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B2",
+        "remarks": ""
+      },
+      {
+        "cq": "運動トレーニングと心臓リハビリテーションに関する推奨 (Exercise training and cardiac rehabilitation)",
+        "recommendation_statement": "すべての安定した患者に対し、特別な禁忌がない限り、運動耐容能とQoLの改善、全原因入院リスク低減のため、多職種連携に基づく心臓リハビリテーションの一環として個別化された運動トレーニングを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "運動トレーニングと心臓リハビリテーションに関する推奨 (Exercise training and cardiac rehabilitation)",
+        "recommendation_statement": "心臓リハビリテーション施設外でも、すべての安定した患者に対し長期的な個別化運動トレーニングを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B2",
+        "remarks": ""
+      },
+      {
+        "cq": "運動トレーニングと心臓リハビリテーションに関する推奨 (Exercise training and cardiac rehabilitation)",
+        "recommendation_statement": "LVADを装着した患者において、機能的能力とQoL改善のため心臓リハビリテーションを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "運動トレーニングと心臓リハビリテーションに関する推奨 (Exercise training and cardiac rehabilitation)",
+        "recommendation_statement": "DHF患者において、安全に可能になり次第、機能的能力とQoL改善のため心臓リハビリテーションを考慮すべきである。",
+        "strength_of_recommendation": "IIa",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "長期フォローアップに関する推奨 (Long-term follow-up)",
+        "recommendation_statement": "進行心不全患者において、終末期やQoLに関するコミュニケーションを促進するため、心不全の軌跡、ケアの目標、およびアドバンス・ケア・プランニングに関する積極的な議論を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B1",
+        "remarks": ""
+      },
+      {
+        "cq": "長期フォローアップに関する推奨 (Long-term follow-up)",
+        "recommendation_statement": "進行心不全段階にある患者において、QoLの改善と症状負担の軽減のため、統合的心不全緩和ケア多職種チームへのアクセスを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "B2",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全と妊娠に関する推奨 (Heart failure and pregnancy)",
+        "recommendation_statement": "心不全患者に対し、心不全治療、妊娠、避妊、着床前遺伝学的スクリーニング、補助生殖医療を取り巻く意思決定を促進するため、プレコンセプション・ケアとカウンセリングを推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全と妊娠に関する推奨 (Heart failure and pregnancy)",
+        "recommendation_statement": "HFrEFを有する妊婦では、有害な胎児イベントのリスク軽減と低出生体重を防ぐため、非選択的β遮断薬からβ1選択的遮断薬（メトプロロール、ビソプロロール）への切り替えと、母体・胎児の厳重な監視を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心不全と妊娠に関する推奨 (Heart failure and pregnancy)",
+        "recommendation_statement": "ACE阻害薬、ARB、ARNI、MRA、イバブラジン、SGLT2阻害薬は、胎児毒性または催奇形性のリスクがあるため、妊娠中の使用は推奨されない（禁忌）。",
+        "strength_of_recommendation": "III",
+        "level_of_evidence": "C",
+        "remarks": ""
+      },
+      {
+        "cq": "心アミロイドーシスに関する推奨 (Cardiac amyloidosis)",
+        "recommendation_statement": "変異型または野生型トランスサイレチン心アミロイドーシス（TTR-CA）を有しNYHAクラスI〜IIIの患者において、症状の進行とCV入院・全原因死亡のリスクを低減するため、TTRサイレンサー（ブトリシラン）またはスタビライザー（タファミジスまたはアコラミジス）による治療を推奨する。",
+        "strength_of_recommendation": "I",
+        "level_of_evidence": "A",
+        "remarks": ""
+      }
+    ]
+  },
+  "ガイドラインの批判的吟味": {
+    "title": "ガイドラインの批判的吟味 (AGREE IIの観点を含む)",
+    "points": [
+      {
+        "subtitle": "スコープと目的",
+        "content": "心不全の管理に関わる全ての医療従事者を対象とし、ステージAからDまでの包括的な管理を明確に定義している点は非常に優れている。疾患の全経過をカバーしており、臨床的有用性が高い。"
+      },
+      {
+        "subtitle": "利害関係者の参加",
+        "content": "欧州の様々な学会や専門部会（心臓血管外科、看護学など）の専門家が広く参加し、多職種連携を強調する内容が反映されている。患者フォーラムの記載もあり、多様な視点が取り入れられていると評価できる。"
+      },
+      {
+        "subtitle": "作成の厳密性",
+        "content": "新しく登場したGLP-1受容体作動薬の推奨や、SGLT2阻害薬の入院中早期導入、アミロイドーシスへの治療など、最新のエビデンスを迅速に取り入れている。一方、HFmrEFの分類を削除しLVEF50%を単一のカットオフとした大胆な変更については、臨床現場での混乱を招く可能性や、境界領域の患者の治療方針に議論の余地を残す。"
+      },
+      {
+        "subtitle": "提示の明確さ",
+        "content": "FMT、AMT、GDITという新しい用語体系を導入したことで、どの治療を優先すべきかが直感的に理解しやすくなった。多職種チームの連携や、慢性心不全だけでなく「代償不全性心不全」という新しい用語での急性期管理へのつながりも分かりやすい。推奨の強さ（I〜III）とエビデンスレベルが明記されており視認性が高い。"
+      },
+      {
+        "subtitle": "適用可能性",
+        "content": "欧州を中心に作成されているものの、国際的なガイドラインの枠組みに沿った分類変更を行っているため、世界的に適用しやすい。しかし、推奨される薬剤（特にGLP-1受容体作動薬やSGLT2阻害薬など）やデバイス治療の医療経済学的コストが普及の障壁となる可能性がある。"
+      },
+      {
+        "subtitle": "編集の独立性",
+        "content": "ESCの厳格な利益相反の管理方針に則って作成されており、特定の企業や団体の影響を受けていないことが明記されている。信頼性は高い。"
+      }
+    ]
+  },
+  "主要な改訂点": "①HFmrEFを廃止しHFrEF（<50%）とHFpEF（≧50%）の2分類への統合。②ステージA〜D分類の導入。③基礎治療（FMT）、追加治療（AMT）、デバイス治療（GDIT）などの新しい治療呼称の導入。④肥満伴うHFpEFへのGLP-1受容体作動薬の推奨。⑤降圧目標（130mmHg未満）の厳格化。⑥「急性心不全」から「代償不全性心不全」への用語変更。⑦FMTの継続と早期漸増の強調。⑧心アミロイドーシスに対する特異的治療の推奨強化。",
+  "pmid": 42661420,
+  "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42661420"
+}
