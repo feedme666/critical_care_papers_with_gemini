@@ -10073,5 +10073,148 @@
         }
       ]
     }
+  },
+  {
+    "id": 279,
+    "type": "paper",
+    "題名": "ドイツの股関節骨折手術を受ける高齢患者における脊髄麻酔と全身麻酔および重篤な合併症の比較：多施設ランダム化臨床試験",
+    "original_title": "Spinal versus general anaesthesia and serious complications in older patients undergoing hip fracture surgery in Germany: a multicentre randomised clinical trial",
+    "筆頭著者": "Ana Kowark",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Lancet Healthy Longev . 2026",
+    "雑誌名巻号出版年_ページ": "Lancet Healthy Longev . 2026",
+    "登録日": "2026-09-22",
+    "タグ": [
+      "循環器系",
+      "呼吸器系",
+      "外傷",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42685733,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42685733",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "中",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "PDF全文のキーワード探索で分類",
+          "位置": "全文検索"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-22",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 280,
+    "type": "paper",
+    "題名": "機械換気を受ける成人における鎮痛鎮静のためのケタミン：二重盲検ランダム化試験",
+    "original_title": "Ketamine for Analgosedation in Mechanically Ventilated Adults: A Double-Blind Randomized Trial",
+    "筆頭著者": "Andrew J. Casamento",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2026",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2026",
+    "登録日": "2026-09-22",
+    "タグ": [
+      "呼吸器系",
+      "脳神経系",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "プラセボ群との比較によりケタミン群のオピオイド使用量低減（優越性）を評価している。",
+          "位置": "全文"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-22",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 281,
+    "type": "paper",
+    "題名": "二次性自然気胸に対する穿刺吸引と胸腔ドレナージの比較 (PRINCE-SSP試験)：多施設非劣性ランダム化比較試験",
+    "original_title": "Needle aspiration versus intercostal chest drain for secondary spontaneous pneumothorax (the PRINCE-SSP trial): a pragmatic, open-label, multi-centre, non-inferiority, randomised controlled trial",
+    "筆頭著者": "Steven Walker",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Eur Respir J . 2026; in press",
+    "雑誌名巻号出版年_ページ": "Eur Respir J . 2026; in press",
+    "登録日": "2026-09-22",
+    "タグ": [
+      "呼吸器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "非劣性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "タイトルおよび方法にnon-inferiorityの明示記載",
+          "位置": "タイトル、方法"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-22",
+          "判定": "非劣性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 282,
+    "type": "paper",
+    "題名": "敗血症の重症成人患者に対する経験的メロペネム対ピペラシリン/タゾバクタム：ランダム化試験のフィージビリティ",
+    "original_title": "Empirical Meropenem Versus Piperacillin/Tazobactam for Critically Ill Adults With Sepsis: Feasibility of a Randomised Trial",
+    "筆頭著者": "Nick Frørup Meier",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Acta Anaesthesiol Scand. 2026;70:e70324",
+    "雑誌名巻号出版年_ページ": "Acta Anaesthesiol Scand. 2026;70:e70324",
+    "登録日": "2026-09-22",
+    "タグ": [
+      "感染・炎症系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42674465,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42674465/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "中",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "Abstractにて \"whether one is superior to the other is uncertain\" との記載があり、将来的な適応的分析も優越性を探る方向性を含んでいると推測される",
+          "位置": "Abstract, Background"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-22",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
   }
 ]
