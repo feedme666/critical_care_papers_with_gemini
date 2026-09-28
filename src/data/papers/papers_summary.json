@@ -10216,5 +10216,77 @@
         }
       ]
     }
+  },
+  {
+    "id": 283,
+    "type": "paper",
+    "題名": "冠動脈バイパス術などの心臓手術における肺動脈カテーテルと中心静脈カテーテルの比較：PUMAパイロットランダム化臨床試験",
+    "original_title": "Pulmonary artery catheters or central venous catheters for cardiac surgery: the PUMA Pilot randomised clinical trial",
+    "筆頭著者": "Luke A. Perry",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Anaesthesia . 2026;81(10):1358-1366.",
+    "雑誌名巻号出版年_ページ": "Anaesthesia . 2026;81(10):1358-1366.",
+    "登録日": "2026-09-24",
+    "タグ": [
+      "循環器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "その他",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "パイロット試験/実現可能性試験（pilot and feasibility trial）として設計されており、臨床的な仮説検証（優越性や非劣性など）を主目的としていないため",
+          "位置": "Methods"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-24",
+          "判定": "その他",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 284,
+    "type": "paper",
+    "題名": "外傷性脳損傷における制限的輸血戦略とリベラルな輸血戦略の比較：TRAIN試験の二次解析",
+    "original_title": "Restrictive vs Liberal Transfusion Strategy in Traumatic Brain Injury A Secondary Analysis of the TRAIN Trial",
+    "筆頭著者": "Irene Sbaraini Zernini",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA Netw Open . 2026 Sep 8;9(9):e2632555.",
+    "雑誌名巻号出版年_ページ": "JAMA Netw Open . 2026 Sep 8;9(9):e2632555.",
+    "登録日": "2026-09-28",
+    "タグ": [
+      "外傷",
+      "脳神経系",
+      "血液・免疫系",
+      "ランダム化比較試験"
+    ],
+    "pmid": null,
+    "pubmed_link": null,
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "PDF全文の内容から、リベラル戦略が制限的戦略に比べて神経学的転帰のリスクを減少させるか（優位性があるか）を評価している",
+          "位置": "全文検索"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-09-28",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
   }
 ]
