@@ -10185,7 +10185,7 @@
   {
     "id": 282,
     "type": "paper",
-    "題名": "敗血症の重症成人患者に対する経験的メロペネム対ピペラシリン/タゾバクタム：ランダム化試験のフィージビリティ",
+    "題名": "敗血症の重症成人患者に対する経験的メロペネム対ピペラシリン/タゾバクタム：ランダム化試験の実現可能性",
     "original_title": "Empirical Meropenem Versus Piperacillin/Tazobactam for Critically Ill Adults With Sepsis: Feasibility of a Randomised Trial",
     "筆頭著者": "Nick Frørup Meier",
     "作成団体": null,
@@ -10283,6 +10283,84 @@
       "判定履歴": [
         {
           "日付": "2026-09-28",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 285,
+    "type": "paper",
+    "題名": "非人工呼吸器関連院内肺炎 (NV-HAP) 予防のための口腔ケアの有効性 (HAPPEN)：オーストラリアにおける多施設ステップウェッジクラスターランダム化比較試験",
+    "original_title": "Effectiveness of oral care for the prevention of non-ventilator hospital-acquired pneumonia (HAPPEN): a multicentre, stepped-wedge, cluster-randomised trial in Australia",
+    "筆頭著者": "Nicole M White",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Lancet Infect Dis . 2026 Jun 8;S1473-3099(26)00235-5.",
+    "雑誌名巻号出版年_ページ": "Lancet Infect Dis . 2026 Jun 8;S1473-3099(26)00235-5.",
+    "登録日": "2026-10-07",
+    "タグ": [
+      "呼吸器系",
+      "感染・炎症系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42259325,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42259325/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "中",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "PDF全文のキーワード探索で分類",
+          "位置": "全文検索"
+        },
+        {
+          "ソース": "pdf",
+          "内容": "明示語なしのため優越性として判定",
+          "位置": "要旨/方法/統計の再確認"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-10-07",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 286,
+    "type": "paper",
+    "題名": "脳底動脈閉塞に対する発症後4.5～24時間の血栓回収療法前のテネクテプラーゼ投与：ATTENTION LATEランダム化比較試験",
+    "original_title": "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion The ATTENTION LATE Randomized Clinical Trial",
+    "筆頭著者": "Rui Li",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2026 Sep 23. doi: 10.1001/jama.2026.15496.",
+    "雑誌名巻号出版年_ページ": "JAMA. 2026 Sep 23. doi: 10.1001/jama.2026.15496.",
+    "登録日": "2026-10-07",
+    "タグ": [
+      "脳神経系",
+      "循環器系",
+      "ランダム化比較試験",
+      "その他"
+    ],
+    "pmid": 42776543,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42776543/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "サンプルサイズ計算において、「EVT単独のmRS 0-2の割合が29.9%であり、テネクテプラーゼにより15%増加して44.9%になることを検出するように設計された」との明確な優越性仮説の記載がある",
+          "位置": "Methods - Sample Size Calculation"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-10-07",
           "判定": "優越性試験",
           "方法": "自動判定"
         }
