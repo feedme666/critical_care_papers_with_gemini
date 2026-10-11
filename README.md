@@ -15,6 +15,12 @@
 
 アプリケーションに新しい論文を追加するには、以下の手順に従ってください。
 
+### Gemini CLI・Codex・OpenCodeで登録する場合
+
+このリポジトリのルートで各エージェントを起動し、登録したいPDFを `raw_pdfs/` に置いて「このPDFを登録して」と依頼してください。`go ahead` も登録指示として扱います。共通の詳細手順は [docs/paper-ingestion.md](docs/paper-ingestion.md) にあります。Codex と OpenCode は `AGENTS.md` から、Gemini CLI は `GEMINI.md` からこの手順を参照します。
+
+`raw_pdfs/` と `processed_pdfs/` は Git の管理対象外です。別の clone で作業する場合、PDFは自動では引き継がれません。複数のエージェントで同時に論文を登録するとIDが衝突する可能性があるため、登録作業は1件ずつ行ってください。
+
 1.  **論文のJSONファイルを作成します。** 論文の内容を構造化されたJSON形式で記述し、`src/data/papers/`ディレクトリに保存します。ファイル名は `paper_ID.json` (例: `paper_33.json`) としてください。
     *   **IDの管理:** `src/data/papers/metadata.json`ファイルに`"lastId"`が保持されています。新しい論文のIDには、この`"lastId"`の次の数値を使用し、JSONファイル作成後に`metadata.json`の`"lastId"`を更新してください。
     *   **サマリーデータの更新:** `src/data/papers/papers_summary.json`ファイルには、各論文の概要情報が格納されています。新しい論文を追加するたびに、以下の形式でこのファイルに論文情報を追記してください。

@@ -10366,5 +10366,22 @@
         }
       ]
     }
+  },
+  {
+    "id": 287,
+    "type": "guideline",
+    "題名": "危機的状況におけるヒューマンファクターに関するガイドライン2023",
+    "original_title": "Guidelines on human factors in critical situations 2023",
+    "筆頭著者": null,
+    "作成団体": "フランス麻酔・集中治療学会（SFAR）、Groupe Facteurs Humains en Santé（GFHS）",
+    "雑誌名_巻号_出版年_ページ": "Anaesth Crit Care Pain Med. 2023 Aug;42(4):101262. doi:10.1016/j.accpm.2023.101262.",
+    "雑誌名巻号出版年_ページ": "Anaesth Crit Care Pain Med. 2023 Aug;42(4):101262. doi:10.1016/j.accpm.2023.101262.",
+    "登録日": "2026-10-11",
+    "タグ": [
+      "医療安全・倫理系",
+      "ガイドライン・提言"
+    ],
+    "pmid": 37290697,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37290697/"
   }
 ]
