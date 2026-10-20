@@ -10383,5 +10383,149 @@
     ],
     "pmid": 37290697,
     "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/37290697/"
+  },
+  {
+    "id": 288,
+    "type": "paper",
+    "題名": "小児集中治療における許容的血圧目標：PRESSUREランダム化比較試験",
+    "original_title": "Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial",
+    "筆頭著者": "David P. Inwald",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA. 2026 Sep 28:e2619747. doi: 10.1001/jama.2026.19747.",
+    "雑誌名巻号出版年_ページ": "JAMA. 2026 Sep 28:e2619747. doi: 10.1001/jama.2026.19747.",
+    "登録日": "2026-10-20",
+    "タグ": [
+      "循環器系",
+      "感染・炎症系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42806496,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42806496/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "The PRESSURE trial tests the hypothesis that adopting a permissive MAP target of fifth percentile for age improves outcomes in critically ill children with hypotension compared with usual care. / To detect a reduction in mortality of 2%, from 13% to 11%, and in mean duration of ventilation of 0.75 days, from 7.8 to 7.1 days, with 90% power, allowing for 10% withdrawal or refusal of consent, a sample size of 1900 patients was required.",
+          "位置": "Introduction / Methods - Sample Size"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-10-20",
+          "判定": "優越性試験",
+          "方法": "自動判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 289,
+    "type": "paper",
+    "題名": "敗血症性ショックにおけるバソプレシン開始閾値と死亡率：VASSPRクラスター・クロスオーバー無作為化戦略試験",
+    "original_title": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial",
+    "筆頭著者": "Ithan D. Peltan",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA. Published online October 14, 2026. doi:10.1001/jama.2026.21333.",
+    "雑誌名巻号出版年_ページ": "JAMA. Published online October 14, 2026. doi:10.1001/jama.2026.21333.",
+    "登録日": "2026-10-21",
+    "タグ": [
+      "循環器系",
+      "感染・炎症系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42872917,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42872917/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "We hypothesized that a hospital-level strategy recommending a lower threshold for vasopressin initiation would reduce 28-day mortality.",
+          "位置": "Introduction, E2"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-10-21",
+          "判定": "優越性試験",
+          "方法": "PDF本文に基づく判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 290,
+    "type": "paper",
+    "題名": "敗血症性ショックの感染源制御手術におけるドブタミン併用と術後急性腎障害：ランダム化比較試験",
+    "original_title": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial",
+    "筆頭著者": "Chinese Perioperative Septic Shock Investigators for the Chinese Peri-Operative Organ Protection Group",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "JAMA. Published online October 14, 2026. doi:10.1001/jama.2026.21322.",
+    "雑誌名巻号出版年_ページ": "JAMA. Published online October 14, 2026. doi:10.1001/jama.2026.21322.",
+    "登録日": "2026-10-21",
+    "タグ": [
+      "循環器系",
+      "腎尿路系",
+      "感染・炎症系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42872914,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42872914/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "The sample size calculation was based on a projected rate of postoperative AKI in the norepinephrine group of 48% ... to detect a relative risk reduction of 25% in the dobutamine plus norepinephrine group.",
+          "位置": "Methods - Statistical Analysis, E3"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-10-21",
+          "判定": "優越性試験",
+          "方法": "PDF本文に基づく判定"
+        }
+      ]
+    }
+  },
+  {
+    "id": 291,
+    "type": "paper",
+    "題名": "機械的血栓回収療法中の全身低体温療法併用（ReCCLAIM II）：多施設ランダム化比較試験",
+    "original_title": "Adjuvant Systemic Hypothermia During Mechanical Thrombectomy (ReCCLAIM II): A Multicenter, Randomized, Controlled Trial",
+    "筆頭著者": "Tareq Kass-Hout",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Stroke. 2026 Oct 9. doi: 10.1161/STROKEAHA.126.056651. Online ahead of print.",
+    "雑誌名巻号出版年_ページ": "Stroke. 2026 Oct 9. doi: 10.1161/STROKEAHA.126.056651. Online ahead of print.",
+    "登録日": "2026-10-21",
+    "タグ": [
+      "脳神経系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42852505,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42852505/",
+    "研究の種類": {
+      "判定": "その他",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "phase II randomized feasibility-controlled trialであり、主要仮説は低体温群の50%超が動脈穿刺後1時間以内に34 ℃未満へ到達できることだった。臨床的有効性の優越性・非劣性・同等性を検証する設計ではない。",
+          "位置": "Abstract、Methods - Statistical Analysis"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-10-21",
+          "判定": "その他",
+          "方法": "PDF本文に基づく判定"
+        }
+      ]
+    }
   }
 ]
