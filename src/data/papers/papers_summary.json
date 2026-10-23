@@ -10527,5 +10527,75 @@
         }
       ]
     }
+  },
+  {
+    "id": 292,
+    "type": "paper",
+    "題名": "急性腎障害に対する間欠的血液透析と持続的腎代替療法：ICRAKI非劣性ランダム化比較試験",
+    "original_title": "Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury",
+    "筆頭著者": "Stéphane Gaudry",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. Published online October 14, 2026. doi:10.1056/NEJMoa2608397.",
+    "雑誌名巻号出版年_ページ": "N Engl J Med. Published online October 14, 2026. doi:10.1056/NEJMoa2608397.",
+    "登録日": "2026-10-23",
+    "タグ": [
+      "腎尿路系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42873070,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42873070/",
+    "研究の種類": {
+      "判定": "非劣性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "要旨とMethodsに多施設共同・非盲検・ランダム化非劣性試験と明記され、主要評価項目の絶対リスク差に7.5パーセントポイントの非劣性マージンを設定している。",
+          "位置": "Abstract、Methods: Trial Design and Oversight、Statistical Analysis"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-10-23",
+          "判定": "非劣性試験",
+          "方法": "PDF全文読解"
+        }
+      ]
+    }
+  },
+  {
+    "id": 293,
+    "type": "paper",
+    "題名": "PEEP 5～10 cmH₂OのARDS患者における開放式・閉鎖式気管吸引の肺気量と酸素化への影響：ランダム化比較試験",
+    "original_title": "Open versus closed suctioning on lung volume and oxygenation in ARDS patients with PEEP 5–10 cmH2O: A randomized controlled trial",
+    "筆頭著者": "Haotian Gao",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "PLoS One. 2026 Sep 30;21(9):e0351172.",
+    "雑誌名巻号出版年_ページ": "PLoS One. 2026 Sep 30;21(9):e0351172.",
+    "登録日": "2026-10-23",
+    "タグ": [
+      "呼吸器系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42814700,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42814700/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "中",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "非劣性・同等性マージンは設定されず、OS群とCS群のΔEELIおよび酸素化の群間差を両側検定で評価しているため、優越性の枠組みと判断した。",
+          "位置": "Abstract、Methods: Statistical analysis、Results: Primary outcomes"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-10-23",
+          "判定": "優越性試験",
+          "方法": "PDF全文読解"
+        }
+      ]
+    }
   }
 ]
