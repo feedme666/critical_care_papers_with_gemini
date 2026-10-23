@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/critical_care_papers_with_gemini/static/css/main.80bb8a2f.css",
-    "main.js": "/critical_care_papers_with_gemini/static/js/main.4bfea42f.js",
+    "main.js": "/critical_care_papers_with_gemini/static/js/main.807aabba.js",
     "static/js/2212.63281bb2.chunk.js": "/critical_care_papers_with_gemini/static/js/2212.63281bb2.chunk.js",
     "static/js/3108.44e49240.chunk.js": "/critical_care_papers_with_gemini/static/js/3108.44e49240.chunk.js",
     "static/js/8503.004ca21d.chunk.js": "/critical_care_papers_with_gemini/static/js/8503.004ca21d.chunk.js",
@@ -205,6 +205,8 @@
     "static/js/5060.ee96ba18.chunk.js": "/critical_care_papers_with_gemini/static/js/5060.ee96ba18.chunk.js",
     "static/js/196.3e455f50.chunk.js": "/critical_care_papers_with_gemini/static/js/196.3e455f50.chunk.js",
     "static/js/3300.d034b589.chunk.js": "/critical_care_papers_with_gemini/static/js/3300.d034b589.chunk.js",
+    "static/js/5078.9417529b.chunk.js": "/critical_care_papers_with_gemini/static/js/5078.9417529b.chunk.js",
+    "static/js/8657.bcfc3a03.chunk.js": "/critical_care_papers_with_gemini/static/js/8657.bcfc3a03.chunk.js",
     "static/js/1542.711523c9.chunk.js": "/critical_care_papers_with_gemini/static/js/1542.711523c9.chunk.js",
     "static/js/2330.77a511dc.chunk.js": "/critical_care_papers_with_gemini/static/js/2330.77a511dc.chunk.js",
     "static/js/9013.4398f052.chunk.js": "/critical_care_papers_with_gemini/static/js/9013.4398f052.chunk.js",
@@ -280,11 +282,11 @@
     "static/js/6453.7a30ffae.chunk.js": "/critical_care_papers_with_gemini/static/js/6453.7a30ffae.chunk.js",
     "index.html": "/critical_care_papers_with_gemini/index.html",
     "main.80bb8a2f.css.map": "/critical_care_papers_with_gemini/static/css/main.80bb8a2f.css.map",
-    "main.4bfea42f.js.map": "/critical_care_papers_with_gemini/static/js/main.4bfea42f.js.map",
+    "main.807aabba.js.map": "/critical_care_papers_with_gemini/static/js/main.807aabba.js.map",
     "6453.7a30ffae.chunk.js.map": "/critical_care_papers_with_gemini/static/js/6453.7a30ffae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80bb8a2f.css",
-    "static/js/main.4bfea42f.js"
+    "static/js/main.807aabba.js"
   ]
 }
