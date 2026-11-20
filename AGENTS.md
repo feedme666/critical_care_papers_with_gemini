@@ -2,6 +2,13 @@
 
 This repository is a React application for Japanese summaries and critical appraisal of critical care papers and guidelines.
 
+## Gathering PDFs (`gather`)
+
+- When the user says `gather`, run `node scripts/gather_pdfs.js` (or `npm run gather`) using `.gather.local.json` (`mode: "shortcut"` runs the configured macOS Shortcut via `shortcuts run` without requiring Full Disk Access; `mode: "direct"` moves PDFs directly from `sourceDir` into `raw_pdfs/`).
+- Never overwrite an existing file in `raw_pdfs/`.
+- Report the execution mode (shortcut name or source directory), destination directory, newly moved/added files, skipped/conflicting files, any errors, and the PDFs currently present in `raw_pdfs/`.
+- `gather` only moves PDFs into `raw_pdfs/`; do not automatically run paper ingestion (`go ahead`) unless the user requests it.
+
 ## Adding a paper or guideline
 
 - When the user asks to process a PDF or says `go ahead`, read `docs/paper-ingestion.md` in full before changing data. Follow its content rules and workflow.

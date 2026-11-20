@@ -1,0 +1,5 @@
+{
+  "mode": "shortcut",
+  "shortcutName": "Gather Critical Care PDFs",
+  "destDir": "/path/to/critical-care-papers/raw_pdfs"
+}

@@ -19,6 +19,8 @@
 
 このリポジトリのルートで各エージェントを起動し、登録したいPDFを `raw_pdfs/` に置いて「このPDFを登録して」と依頼してください。`go ahead` も登録指示として扱います。共通の詳細手順は [docs/paper-ingestion.md](docs/paper-ingestion.md) にあります。Codex と OpenCode は `AGENTS.md` から、Gemini CLI は `GEMINI.md` からこの手順を参照します。
 
+外部フォルダ（Box 等）の未処理PDFを `raw_pdfs/` へまとめて移動したい場合は、`.gather.local.json.example` を参考に `.gather.local.json`（Git 管理外）を作成した上で、エージェントに `gather` と入力するか `npm run gather` を実行してください（macOS 純正「ショートカット」アプリ経由の `mode: "shortcut"` を使うと、フルディスクアクセス不要で対象フォルダを限定できます）。
+
 `raw_pdfs/` と `processed_pdfs/` は Git の管理対象外です。別の clone で作業する場合、PDFは自動では引き継がれません。複数のエージェントで同時に論文を登録するとIDが衝突する可能性があるため、登録作業は1件ずつ行ってください。
 
 1.  **論文のJSONファイルを作成します。** 論文の内容を構造化されたJSON形式で記述し、`src/data/papers/`ディレクトリに保存します。ファイル名は `paper_ID.json` (例: `paper_33.json`) としてください。
