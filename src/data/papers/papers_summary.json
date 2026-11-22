@@ -10669,5 +10669,78 @@
         }
       ]
     }
+  },
+  {
+    "id": 296,
+    "type": "paper",
+    "題名": "ICUにおける侵襲的人工呼吸からのウィーニング中の音楽療法：ランダム化比較試験",
+    "original_title": "Music Therapy During Weaning From Invasive Mechanical Ventilation in the ICU: A Randomized Controlled Trial",
+    "筆頭著者": "Sheila Pereiro",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "Crit Care Med. 2026 Oct 21. doi: 10.1097/CCM.0000000000007372.",
+    "雑誌名巻号出版年_ページ": "Crit Care Med. 2026 Oct 21. doi: 10.1097/CCM.0000000000007372.",
+    "登録日": "2026-11-21",
+    "タグ": [
+      "呼吸器系",
+      "医療安全・倫理系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 42904879,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42904879/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "中",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "明示的な「superiority」の記載はないものの、標準ケア対照群に対する音楽療法群のウィーニング期間短縮および副次アウトカム改善を検証する並行2群間探索的パイロットRCTであり、Lehrの式による検出力80%・群間差92.6時間に基づく優越性検定枠組み（両側P<0.05）で設計・解析されている。",
+          "位置": "Methods (Study Design, Randomization and Sample Size, Statistical Methods)"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-11-21",
+          "判定": "優越性試験",
+          "方法": "PDF全文読解"
+        }
+      ]
+    }
+  },
+  {
+    "id": 297,
+    "type": "paper",
+    "題名": "院外心停止の生存率改善に向けた地域社会および救急隊（EMS）介入：RACE-CARSクラスターランダム化比較試験",
+    "original_title": "Community and EMS Interventions to Improve Survival in Cardiac Arrest",
+    "筆頭著者": "Carolina Malta Hansen",
+    "作成団体": null,
+    "雑誌名_巻号_出版年_ページ": "N Engl J Med. 2026 Nov 8. doi: 10.1056/NEJMoa2612757.",
+    "雑誌名巻号出版年_ページ": "N Engl J Med. 2026 Nov 8. doi: 10.1056/NEJMoa2612757.",
+    "登録日": "2026-11-21",
+    "タグ": [
+      "循環器系",
+      "脳神経系",
+      "医療安全・倫理系",
+      "ランダム化比較試験"
+    ],
+    "pmid": 43001758,
+    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43001758/",
+    "研究の種類": {
+      "判定": "優越性試験",
+      "確度": "高",
+      "根拠": [
+        {
+          "ソース": "pdf",
+          "内容": "Methods（Statistical Analysis）において、通常ケア群の神経学的良好生存率9%に対し介入群12%への増加を両側有意水準0.05・検出力85%で検出するようサンプルサイズ（50クラスター、約20,000例）を設計し、有効性による早期中止基準（Haybittle-Peto法 P≤0.001）を設定した優越性クラスターRCTである。",
+          "位置": "Methods (Statistical Analysis)"
+        }
+      ],
+      "判定履歴": [
+        {
+          "日付": "2026-11-21",
+          "判定": "優越性試験",
+          "方法": "PDF全文読解"
+        }
+      ]
+    }
   }
 ]
